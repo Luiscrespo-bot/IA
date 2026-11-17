@@ -1,0 +1,431 @@
+==============================================================
+BIOLOGÍA: DE LA CÉLULA A LA BIOSFERA
+==============================================================
+
+ÍNDICE
+  1. ¿Qué es la vida? Características de los seres vivos
+  2. Moléculas de la vida
+  3. La célula
+  4. Metabolismo celular
+  5. División celular
+  6. Genética clásica
+  7. Genética molecular
+  8. Biotecnología
+  9. Evolución
+  10. Diversidad y clasificación
+  11. Microorganismos y virus
+  12. Botánica
+  13. Zoología
+  14. Fisiología humana
+  15. Ecología
+  16. Biología y sociedad
+
+
+##############################################################
+1. ¿QUÉ ES LA VIDA?
+##############################################################
+La biología es la ciencia que estudia los seres vivos: su
+estructura, funcionamiento, origen, evolución y relaciones.
+
+Características de los seres vivos:
+  - Organización celular.
+  - Metabolismo (obtener y transformar materia y energía).
+  - Homeostasis (equilibrio interno).
+  - Crecimiento y desarrollo.
+  - Reproducción.
+  - Respuesta a estímulos.
+  - Herencia (material genético, ADN).
+  - Adaptación y evolución.
+
+Niveles de organización: átomo -> molécula -> orgánulo -> célula ->
+tejido -> órgano -> sistema -> organismo -> población -> comunidad ->
+ecosistema -> bioma -> biosfera.
+
+Ramas: citología, genética, microbiología, botánica, zoología,
+ecología, fisiología, evolución, biología molecular, neurociencia,
+bioinformática, etc.
+
+
+##############################################################
+2. MOLÉCULAS DE LA VIDA
+##############################################################
+  Elementos principales: C, H, O, N, P, S (CHONPS).
+  Agua: ~60-70 % del cuerpo; disolvente universal, alto calor
+  específico, cohesión, puentes de hidrógeno.
+  Sales minerales e iones: Na+, K+, Ca2+, Mg2+, Fe2+.
+
+  Carbohidratos: energía y estructura. Monosacáridos (glucosa,
+  fructosa), disacáridos (sacarosa, lactosa), polisacáridos (almidón,
+  glucógeno, celulosa, quitina).
+  Lípidos: reserva, membranas, hormonas. Triglicéridos, fosfolípidos,
+  esteroides (colesterol, testosterona). Saturados vs insaturados.
+  Proteínas: estructura, transporte, enzimas, defensa, movimiento,
+  señalización. Formadas por aminoácidos. Niveles de estructura:
+  primaria (secuencia), secundaria (hélice alfa, lámina beta),
+  terciaria (plegamiento 3D), cuaternaria (varias subunidades).
+  Ácidos nucleicos: ADN (información genética) y ARN (mensajero,
+  ribosómico, de transferencia).
+  Enzimas: aceleran reacciones al bajar la energía de activación;
+  específicas, afectadas por temperatura, pH e inhibidores.
+  Vitaminas y cofactores.
+
+
+##############################################################
+3. LA CÉLULA
+##############################################################
+3.1 Teoría celular
+------------------
+  1. Todos los seres vivos están formados por una o más células.
+  2. La célula es la unidad básica de estructura y función.
+  3. Toda célula proviene de otra célula preexistente.
+  (Hooke, Leeuwenhoek, Schleiden, Schwann, Virchow.)
+
+3.2 Procariotas y eucariotas
+----------------------------
+  Procariota: sin núcleo verdadero; ADN circular en nucleoide;
+  ribosomas 70S; bacterias y arqueas.
+  Eucariota: núcleo con membrana, orgánulos membranosos; ribosomas
+  80S; protistas, hongos, plantas, animales.
+
+3.3 Orgánulos
+-------------
+  Membrana plasmática: bicapa de fosfolípidos con proteínas y
+  colesterol; modelo de mosaico fluido; permeabilidad selectiva.
+  Núcleo: ADN, nucléolo, envoltura con poros.
+  Mitocondria: respiración celular, ATP; ADN propio (teoría
+  endosimbiótica).
+  Cloroplasto: fotosíntesis (plantas y algas); también con ADN
+  propio.
+  Retículo endoplasmático rugoso (síntesis de proteínas) y liso
+  (lípidos, detoxificación).
+  Aparato de Golgi: modifica, empaqueta y distribuye.
+  Lisosomas: digestión intracelular.
+  Peroxisomas: reacciones oxidativas.
+  Vacuolas (grandes en plantas).
+  Citoesqueleto: microfilamentos, filamentos intermedios,
+  microtúbulos.
+  Pared celular: plantas (celulosa), hongos (quitina), bacterias
+  (peptidoglucano).
+  Centriolos: división celular en animales.
+
+3.4 Transporte a través de la membrana
+--------------------------------------
+  Pasivo (sin gasto de ATP): difusión simple, difusión facilitada,
+  ósmosis (agua).
+  Activo (con ATP): bomba sodio-potasio, endocitosis (fagocitosis,
+  pinocitosis), exocitosis.
+  Tonicidad: soluciones hipotónicas, isotónicas e hipertónicas.
+
+3.5 Comunicación celular
+------------------------
+Receptores, ligandos, segundos mensajeros, cascadas de señalización,
+hormonas, neurotransmisores.
+
+
+##############################################################
+4. METABOLISMO CELULAR
+##############################################################
+  Catabolismo (degrada, libera energía) y anabolismo (construye,
+  consume energía).
+  ATP: moneda energética (ATP -> ADP + Pi libera energía).
+
+4.1 Respiración celular
+-----------------------
+  C6H12O6 + 6 O2 -> 6 CO2 + 6 H2O + ~30-32 ATP.
+  1) Glucólisis (citoplasma): glucosa -> 2 piruvato, +2 ATP netos,
+     2 NADH.
+  2) Oxidación del piruvato y ciclo de Krebs (matriz mitocondrial):
+     produce CO2, NADH, FADH2, ATP.
+  3) Cadena de transporte de electrones y fosforilación oxidativa
+     (membrana interna mitocondrial): gradiente de protones, ATP
+     sintasa; el oxígeno es aceptor final de electrones.
+  Fermentación (sin oxígeno): láctica (músculo, yogur) y alcohólica
+  (levaduras, pan, cerveza); rinde solo 2 ATP.
+
+4.2 Fotosíntesis
+----------------
+  6 CO2 + 6 H2O + luz -> C6H12O6 + 6 O2.
+  Fase luminosa (tilacoides): pigmentos (clorofila), fotólisis del
+  agua, produce ATP, NADPH y O2.
+  Ciclo de Calvin (estroma): fija CO2 con la enzima rubisco y forma
+  azúcares.
+  Plantas C3, C4 y CAM (adaptaciones a climas cálidos y áridos).
+  Quimiosíntesis en algunas bacterias.
+
+
+##############################################################
+5. DIVISIÓN CELULAR
+##############################################################
+  Ciclo celular: interfase (G1, S [replicación del ADN], G2) y fase
+  M (mitosis + citocinesis). Puntos de control; ciclinas y CDK.
+  Mitosis: profase, metafase, anafase, telofase. Produce 2 células
+  hijas idénticas diploides; crecimiento, reparación y reproducción
+  asexual.
+  Meiosis: dos divisiones sucesivas (meiosis I y II) producen 4
+  células haploides distintas (gametos). Entrecruzamiento (crossing
+  over) y segregación independiente generan variabilidad.
+  Cáncer: división descontrolada por mutaciones en protooncogenes y
+  genes supresores de tumores (p53).
+  Apoptosis: muerte celular programada.
+  Cromosomas humanos: 46 (23 pares); 22 pares de autosomas + XX o XY.
+  Cariotipo. Alteraciones: trisomía 21 (síndrome de Down), síndrome
+  de Turner (45,X), síndrome de Klinefelter (47,XXY).
+
+
+##############################################################
+6. GENÉTICA CLÁSICA
+##############################################################
+  Gen: unidad hereditaria. Alelo: variante de un gen. Genotipo:
+  composición alélica. Fenotipo: rasgo observable.
+  Homocigoto (AA, aa) y heterocigoto (Aa). Dominante y recesivo.
+  Leyes de Mendel:
+    1ª (uniformidad): al cruzar dos razas puras, toda la F1 es igual.
+    2ª (segregación): los alelos se separan en la formación de
+       gametos; F2 con proporción fenotípica 3:1.
+    3ª (distribución independiente): genes en cromosomas distintos
+       se heredan independientemente; proporción 9:3:3:1 en
+       dihíbridos.
+  Cuadro de Punnett: Aa x Aa -> 25 % AA, 50 % Aa, 25 % aa.
+  Cruce de prueba: se cruza con homocigoto recesivo.
+  Herencia no mendeliana: dominancia incompleta (rosa de flores
+  rojas x blancas), codominancia (grupo sanguíneo AB), alelos
+  múltiples (ABO), herencia ligada al sexo (daltonismo, hemofilia),
+  epistasia, herencia poligénica (altura, color de piel), herencia
+  mitocondrial.
+  Árboles genealógicos (pedigríes).
+  Teoría cromosómica de la herencia (Morgan, Drosophila); ligamiento
+  y recombinación.
+
+
+##############################################################
+7. GENÉTICA MOLECULAR
+##############################################################
+  ADN: doble hélice antiparalela (Watson, Crick, Franklin, Wilkins).
+  Nucleótidos: desoxirribosa + fosfato + base (A, T, C, G).
+  Apareamiento: A-T (2 puentes), C-G (3 puentes).
+  ARN: ribosa, uracilo en vez de timina, una hebra.
+  Replicación: semiconservativa; ADN polimerasa, helicasa, ligasa,
+  cebadores.
+  Dogma central: ADN -> ARN -> proteína.
+  Transcripción: ARN polimerasa sintetiza ARNm. En eucariotas,
+  procesamiento: caperuza, cola poli-A, empalme (corte de intrones).
+  Traducción: ribosoma lee codones del ARNm (3 bases); ARNt trae
+  aminoácidos. Codón de inicio AUG (metionina); codones de parada
+  UAA, UAG, UGA.
+  Código genético: universal, degenerado (redundante), sin
+  superposición.
+  Mutaciones: puntuales (silenciosas, sin sentido, de cambio de
+  sentido), inserciones y deleciones (cambio de marco de lectura),
+  cromosómicas. Causas: errores de replicación, radiación,
+  mutágenos químicos.
+  Regulación génica: operón lac en bacterias; factores de
+  transcripción, promotores, potenciadores; epigenética (metilación
+  del ADN, modificación de histonas).
+  Genoma humano: ~3.000 millones de pares de bases, ~20.000 genes
+  codificantes.
+
+
+##############################################################
+8. BIOTECNOLOGÍA
+##############################################################
+  ADN recombinante: enzimas de restricción, ligasas, plásmidos,
+  clonación génica.
+  PCR (reacción en cadena de la polimerasa): amplifica ADN.
+  Electroforesis en gel y secuenciación (Sanger, nueva generación).
+  CRISPR-Cas9: edición genética precisa (Premio Nobel 2020:
+  Charpentier y Doudna).
+  Organismos transgénicos, terapia génica, vacunas de ARNm,
+  insulina recombinante, cultivos mejorados.
+  Clonación (oveja Dolly, 1996), células madre, medicina
+  regenerativa, organoides.
+  Huella genética y pruebas de paternidad.
+  Genómica, proteómica, bioinformática, biología sintética.
+  Ética: privacidad genética, edición de la línea germinal,
+  bioseguridad, acceso equitativo.
+
+
+##############################################################
+9. EVOLUCIÓN
+##############################################################
+  Lamarck: herencia de caracteres adquiridos (refutada).
+  Darwin y Wallace: selección natural.
+    1) Existe variación entre individuos.
+    2) Parte de esa variación es heredable.
+    3) Nacen más individuos de los que sobreviven.
+    4) Los mejor adaptados dejan más descendencia.
+  Síntesis moderna: genética de poblaciones + selección natural.
+  Mecanismos evolutivos: mutación, selección natural, deriva
+  genética, flujo génico, apareamiento no aleatorio.
+  Equilibrio de Hardy-Weinberg: p^2 + 2pq + q^2 = 1 (modelo nulo de
+  una población sin evolución).
+  Tipos de selección: direccional, estabilizadora, disruptiva,
+  sexual.
+  Adaptación, aptitud (fitness), coevolución, convergencia
+  (aletas de delfín y tiburón), divergencia, radiación adaptativa
+  (pinzones de Darwin).
+  Especiación: alopátrica (aislamiento geográfico), simpátrica;
+  barreras reproductivas.
+  Evidencias: registro fósil (Tiktaalik, Archaeopteryx), anatomía
+  comparada (órganos homólogos, análogos, vestigiales), embriología,
+  biogeografía, comparación de ADN y proteínas, evolución observada
+  (resistencia a antibióticos).
+  Origen de la vida: hipótesis del caldo primordial (Oparin-Haldane,
+  Miller-Urey), mundo ARN, respiraderos hidrotermales.
+  Evolución humana: Australopithecus, Homo habilis, Homo erectus,
+  Neandertales, Homo sapiens (origen africano, hace unos 300.000
+  años).
+  Extinciones masivas: cinco grandes (la del Cretácico-Paleógeno
+  hace ~66 Ma eliminó a los dinosaurios no avianos).
+  Las aves son dinosaurios.
+
+
+##############################################################
+10. DIVERSIDAD Y CLASIFICACIÓN
+##############################################################
+  Taxonomía de Linneo: dominio, reino, filo, clase, orden, familia,
+  género, especie. Nomenclatura binomial en latín: Homo sapiens.
+  Tres dominios (Woese): Bacteria, Archaea, Eukarya.
+  Reinos eucariotas clásicos: Protista, Fungi, Plantae, Animalia.
+  Filogenia y cladística: árboles evolutivos basados en
+  ancestros comunes y caracteres derivados.
+  Concepto de especie: grupo de poblaciones que pueden
+  reproducirse entre sí y producir descendencia fértil (concepto
+  biológico, con limitaciones).
+  Biodiversidad: genética, de especies y de ecosistemas. Se estiman
+  ~8,7 millones de especies eucariotas, la mayoría sin describir.
+
+
+##############################################################
+11. MICROORGANISMOS Y VIRUS
+##############################################################
+  Bacterias: formas (cocos, bacilos, espirilos), pared celular,
+  reproducción por fisión binaria, conjugación, transformación,
+  transducción. Gram positivas y negativas. Papel en digestión,
+  ciclos de nutrientes, enfermedades y biotecnología.
+  Arqueas: extremófilas (termófilas, halófilas, metanógenas).
+  Protistas: amebas, paramecios, algas, Plasmodium (malaria).
+  Hongos: levaduras, mohos, setas; descomponedores y simbiontes
+  (micorrizas, líquenes).
+  Virus: partículas acelululares con ácido nucleico y cápside;
+  parásitos intracelulares obligados. Ciclos lítico y lisogénico.
+  Retrovirus (VIH, transcriptasa inversa). Coronavirus, influenza.
+  Enfermedades infecciosas: epidemiología, transmisión, vacunas,
+  antibióticos (sólo contra bacterias), resistencia antimicrobiana.
+  Priones: proteínas infecciosas.
+  Microbioma humano: billones de microorganismos que influyen en
+  digestión, inmunidad y salud.
+
+
+##############################################################
+12. BOTÁNICA
+##############################################################
+  Grupos: briofitas (musgos), pteridofitas (helechos),
+  gimnospermas (coníferas), angiospermas (plantas con flor y
+  fruto; monocotiledóneas y dicotiledóneas).
+  Órganos: raíz (absorción, anclaje), tallo (soporte, transporte),
+  hoja (fotosíntesis, transpiración), flor (reproducción), fruto,
+  semilla.
+  Tejidos: meristemos, parénquima, xilema (agua y sales), floema
+  (azúcares), epidermis, estomas.
+  Transporte de agua: teoría de cohesión-tensión; transpiración.
+  Reproducción: alternancia de generaciones, polinización,
+  fecundación doble, dispersión de semillas.
+  Hormonas vegetales: auxinas, giberelinas, citoquininas, etileno,
+  ácido abscísico.
+  Tropismos: fototropismo, geotropismo. Fotoperiodo.
+
+
+##############################################################
+13. ZOOLOGÍA
+##############################################################
+  Invertebrados: poríferos (esponjas), cnidarios (medusas, corales),
+  platelmintos, nematodos, anélidos (lombrices), moluscos (caracol,
+  pulpo), artrópodos (insectos, arácnidos, crustáceos; el grupo más
+  numeroso), equinodermos (estrella de mar).
+  Vertebrados: peces, anfibios, reptiles, aves, mamíferos.
+  Mamíferos: monotremas, marsupiales, placentarios.
+  Simetría, celoma, desarrollo embrionario (protóstomos y
+  deuteróstomos).
+  Comportamiento animal (etología): instinto, aprendizaje,
+  comunicación, migración, comportamientos sociales y altruismo.
+
+
+##############################################################
+14. FISIOLOGÍA HUMANA
+##############################################################
+  Tejidos: epitelial, conectivo, muscular, nervioso.
+  Sistema nervioso: neuronas (dendritas, soma, axón), sinapsis,
+  potencial de acción, neurotransmisores (dopamina, serotonina,
+  acetilcolina, GABA, glutamato). SNC (encéfalo, médula) y SNP.
+  Encéfalo: corteza cerebral (lóbulos frontal, parietal, temporal,
+  occipital), cerebelo, tronco encefálico, hipocampo (memoria),
+  amígdala (emociones).
+  Sentidos: vista, oído, olfato, gusto, tacto.
+  Sistema endocrino: glándulas e hormonas (insulina y glucagón,
+  tiroxina, cortisol, adrenalina, hormonas sexuales, melatonina).
+  Retroalimentación negativa.
+  Sistema circulatorio: corazón (4 cavidades), arterias, venas,
+  capilares; circulación pulmonar y sistémica; sangre: plasma,
+  glóbulos rojos (hemoglobina), blancos, plaquetas; grupos ABO y Rh.
+  Sistema respiratorio: vías aéreas, alvéolos; intercambio gaseoso.
+  Sistema digestivo: boca, esófago, estómago (HCl y pepsina),
+  intestino delgado (absorción), hígado, páncreas, intestino grueso.
+  Sistema excretor: riñones, nefronas, orina.
+  Sistema inmunitario: inmunidad innata (barreras, fagocitos,
+  inflamación) y adaptativa (linfocitos B y T, anticuerpos,
+  memoria inmunológica); vacunas; alergias; enfermedades
+  autoinmunes.
+  Sistema musculoesquelético: 206 huesos, tipos de músculo
+  (esquelético, liso, cardíaco), contracción (actina y miosina).
+  Sistema reproductor y desarrollo: gametogénesis, fecundación,
+  embriogénesis, ciclo menstrual.
+  Homeostasis: temperatura, glucosa, pH, agua.
+  Nutrición: macronutrientes (carbohidratos, lípidos, proteínas),
+  micronutrientes, hidratación, balance energético.
+
+
+##############################################################
+15. ECOLOGÍA
+##############################################################
+  Niveles: población, comunidad, ecosistema, bioma, biosfera.
+  Factores bióticos y abióticos. Hábitat y nicho ecológico.
+  Poblaciones: densidad, natalidad, mortalidad, migración;
+  crecimiento exponencial y logístico; capacidad de carga.
+  Estrategias r y K.
+  Interacciones: depredación, herbivoría, competencia (principio
+  de exclusión competitiva), mutualismo, comensalismo,
+  parasitismo.
+  Flujo de energía: productores, consumidores (primarios,
+  secundarios, terciarios), descomponedores. Regla del 10 %.
+  Pirámides ecológicas (energía, biomasa, números).
+  Ciclos biogeoquímicos: agua, carbono, nitrógeno (fijación,
+  nitrificación, desnitrificación), fósforo.
+  Sucesión ecológica: primaria y secundaria; ecosistemas clímax.
+  Biomas: tundra, taiga, bosque templado, selva tropical,
+  sabana, desierto, pradera, ecosistemas marinos y de agua dulce.
+  Especies clave y ingenieras de ecosistemas.
+  Amenazas: pérdida de hábitat, sobreexplotación, especies
+  invasoras, contaminación, cambio climático, acidificación de los
+  océanos.
+  Conservación: áreas protegidas, restauración, desarrollo
+  sostenible, huella ecológica.
+  Ecuador y la región: Galápagos (laboratorio natural de la
+  evolución), Amazonía, Andes, manglares del Golfo de Guayaquil
+  (uno de los países con mayor biodiversidad por unidad de
+  superficie).
+
+
+##############################################################
+16. BIOLOGÍA Y SOCIEDAD
+##############################################################
+  Salud pública, vacunación, nutrición, ética en investigación,
+  uso de animales en experimentación, transgénicos, cambio
+  climático, pérdida de biodiversidad, pandemias, medicina
+  personalizada, inteligencia artificial en biología (AlphaFold
+  predice estructuras de proteínas).
+
+Consejos de estudio: usa esquemas y mapas conceptuales; relaciona
+estructura con función; aprende el vocabulario; conecta los temas
+(genética -> evolución -> ecología); practica con problemas de
+genética y casos clínicos.
+==============================================================

@@ -1,0 +1,130 @@
+[
+  {
+    "role": "user",
+    "text": "quien eres"
+  },
+  {
+    "role": "assistant",
+    "text": "Soy MiniGPT 6.0, un asistente experimental hecho con Python y PyTorch. Puedo consultar tus documentos y resolver operaciones sencillas."
+  },
+  {
+    "role": "user",
+    "text": "2+2*2"
+  },
+  {
+    "role": "assistant",
+    "text": "El resultado de 2+2*2 es 6."
+  },
+  {
+    "role": "user",
+    "text": "3*3-9"
+  },
+  {
+    "role": "assistant",
+    "text": "El resultado de 3*3-9 es 0."
+  },
+  {
+    "role": "user",
+    "text": "que sabes"
+  },
+  {
+    "role": "assistant",
+    "text": "No encontré una respuesta clara en mis documentos. Mi pequeño modelo generó este texto experimental:\n\n.\nSoy S6 incrouUesuapruen 6.\nooradaltoach.\ncocra Py .\ncues cua coca cue taluerco"
+  },
+  {
+    "role": "user",
+    "text": "que es la suma"
+  },
+  {
+    "role": "assistant",
+    "text": "No encontré una respuesta clara en mis documentos. Mi pequeño modelo generó este texto experimental:\n\nrdadaje\noitearitounoliM.\nPeneaopeadado tdaritorinda.\nPyth.\nUpmaraop .0izadaraume"
+  },
+  {
+    "role": "user",
+    "text": "que sabes"
+  },
+  {
+    "role": "assistant",
+    "text": "No encontré una respuesta clara en mis documentos. Mi pequeño modelo generó este texto experimental:\n\nde de teyToytr y ercrreanth.\nUiesundarensitiencilins tain dapmercarnenta reop p"
+  },
+  {
+    "role": "user",
+    "text": "hola"
+  },
+  {
+    "role": "assistant",
+    "text": "¡Hola! Soy MiniGPT 6.0. ¿En qué puedo ayudarte?"
+  },
+  {
+    "role": "user",
+    "text": "Musica teorica que es"
+  },
+  {
+    "role": "assistant",
+    "text": "No encontré una respuesta clara en mis documentos. Mi pequeño modelo generó este texto experimental:\n\neauaremareuminton ilisrmiormenpen.\npe ren da e da douendaritarreren rerendriogre"
+  },
+  {
+    "role": "user",
+    "text": "que sabes"
+  },
+  {
+    "role": "assistant",
+    "text": "Tengo informacion cargada de estos documentos:\n\n• musica.txt\n\nTengo 59 fragmentos disponibles."
+  },
+  {
+    "role": "user",
+    "text": "que fragmentos son"
+  },
+  {
+    "role": "assistant",
+    "text": "Todavia no tengo informacion suficiente para responder.\n\nPuedes agregar un documento TXT sobre este tema en la carpeta conocimientos y pulsar Actualizar conocimientos."
+  },
+  {
+    "role": "user",
+    "text": "dime un tema"
+  },
+  {
+    "role": "assistant",
+    "text": "Todavia no tengo informacion suficiente para responder.\n\nPuedes agregar un documento TXT sobre este tema en la carpeta conocimientos y pulsar Actualizar conocimientos."
+  },
+  {
+    "role": "user",
+    "text": "que sabes"
+  },
+  {
+    "role": "assistant",
+    "text": "Estos son mis documentos:\n\n• mi_informacion.txt\n• musica.txt\n\nTotal de fragmentos: 118"
+  },
+  {
+    "role": "user",
+    "text": "dime sobre la musica"
+  },
+  {
+    "role": "assistant",
+    "text": "No encontre informacion suficiente en mis documentos para responder esa pregunta. Puedes agregar mas informacion a la carpeta conocimientos."
+  },
+  {
+    "role": "user",
+    "text": "1. Musica"
+  },
+  {
+    "role": "assistant",
+    "text": "No encontre informacion suficiente en mis documentos para responder esa pregunta. Puedes agregar mas informacion a la carpeta conocimientos."
+  },
+  {
+    "role": "user",
+    "text": "que sabes"
+  },
+  {
+    "role": "assistant",
+    "text": "Estos son mis documentos:\n\n• 01_matematicas.txt\n• 02_fisica.txt\n• 03_quimica.txt\n• 04_biologia.txt\n• 05_programacion.txt\n• 06_musica_y_artes.txt\n• 07_literatura_y_escritura_creativa.txt\n• 08_metodo_cientifico_y_pensamiento_critico.txt\n• mi_informacion.txt\n• musica.txt\n\nTotal de fragmentos: 391"
+  },
+  {
+    "role": "user",
+    "text": "que es sumar"
+  },
+  {
+    "role": "assistant",
+    "text": "Encontré esta informacion en mis documentos:\n\n• 5.7 Polinomios\n--------------\nExpresiones como 2x^3 - x + 4. Se pueden sumar, multiplicar y dividir.\nTeorema del resto: el resto de dividir P(x) entre (x - a) es P(a).\nTeorema fundamental del álgebra: un polinomio de grado n tiene\nexactamente n raíces complejas (contando multiplicidad).\nFuente: 01_matematicas.txt\n\n• 9.4 Espacios vectoriales\n------------------------\nConjuntos donde se pueden sumar vectores y multiplicarlos por\nescalares cumpliendo ciertos axiomas. Conceptos clave: combinación\nlineal, independencia lineal, base, dimensión, subespacio, núcleo e\nimagen de una transformación lineal, rango.\nFuente: 01_matematicas.txt\n\n• 4.1 Números enteros y signos\n----------------------------\n  - Negativos: valores menores que cero (deuda, temperaturas bajo\n    cero, profundidad).\n  - Suma: mismos signos, se suman y se conserva el signo\n    (-3) + (-4) = -7. Signos distintos, se restan los valores\n    absolutos y se pone el signo del mayor: (-3) + 5 = 2.\n  - Restar es sumar el opuesto: 5 - (-2) = 5 + 2 = 7.\n  - Multiplicación y división (regla de signos):\n      (+)(+) = +    (-)(-) = +\n      (+)(-) = -    (-)(+) = -\nFuente: 01_matematicas.txt\n\n• 5.1 Lenguaje algebraico\n-----------------------\nSe usan letras (variables o incógnitas) para representar números\ndesconocidos o generales. Ejemplo: \"el doble de un número más 3\" se\nescribe 2x + 3.\n  Término: 5x^2. Coeficiente: 5. Parte literal: x^2. Grado: 2.\n  Expresión algebraica: combinación de términos con operaciones.\n  Términos semejantes tienen la misma parte literal y se pueden\n  sumar: 3x + 2x = 5x.\nFuente: 01_matematicas.txt\n\n• 2.6 Múltiplos, divisores, primos, MCD y MCM\n-------------------------------------------\n  - Múltiplos de 4: 4, 8, 12, 16... Divisores de 12: 1, 2, 3, 4, 6, 12.\n  - Número primo: tiene solo dos divisores (1 y él mismo): 2, 3, 5,\n    7, 11, 13... El 1 no es primo. El 2 es el único primo par.\n  - Número compuesto: tiene más de dos divisores.\n  - Descomposición en factores primos: 60 = 2 x 2 x 3 x 5 = 2^2 x 3 x 5.\n  - MCD (máximo común divisor): el mayor divisor común.\n    MCD(12, 18) = 6.\n  - MCM (mínimo común múltiplo): el menor múltiplo común.\n    MCM(4, 6) = 12. Sirve para sumar fracciones con distinto\n    denominador.\nFuente: 01_matematicas.txt"
+  }
+]

@@ -1,0 +1,469 @@
+==============================================================
+PROGRAMACIÓN: DE CERO A CONCEPTOS AVANZADOS
+==============================================================
+
+ÍNDICE
+  1. ¿Qué es programar?
+  2. Cómo funciona una computadora
+  3. Conceptos básicos (variables, tipos, operadores)
+  4. Control de flujo
+  5. Funciones
+  6. Estructuras de datos
+  7. Algoritmos y complejidad
+  8. Programación orientada a objetos
+  9. Programación funcional y otros paradigmas
+  10. Manejo de errores, pruebas y depuración
+  11. Git y control de versiones
+  12. Bases de datos
+  13. Redes y web
+  14. Sistemas operativos y concurrencia
+  15. Arquitectura y diseño de software
+  16. Seguridad
+  17. Inteligencia artificial y ciencia de datos
+  18. Lenguajes y cómo elegir
+  19. Ruta de aprendizaje y buenas prácticas
+
+
+##############################################################
+1. ¿QUÉ ES PROGRAMAR?
+##############################################################
+Programar es escribir instrucciones precisas para que una
+computadora resuelva un problema. Un programa es una secuencia de
+instrucciones escritas en un lenguaje de programación.
+
+Pasos para resolver un problema:
+  1. Entender el problema (entradas, salidas, restricciones).
+  2. Diseñar un algoritmo (pseudocódigo, diagramas).
+  3. Implementarlo en un lenguaje.
+  4. Probar y depurar.
+  5. Mejorar y documentar.
+
+Algoritmo: conjunto finito, ordenado y no ambiguo de pasos para
+resolver un problema. Ejemplo (promedio de dos números): leer a,
+leer b, calcular (a + b)/2, mostrar el resultado.
+
+
+##############################################################
+2. CÓMO FUNCIONA UNA COMPUTADORA
+##############################################################
+  Hardware: CPU (ejecuta instrucciones), RAM (memoria temporal),
+  almacenamiento (SSD/HDD), GPU, placa madre, periféricos.
+  Software: sistema operativo, aplicaciones, controladores.
+  Binario: todo se representa con bits (0 y 1). 8 bits = 1 byte.
+  1 KB ≈ 1000 bytes (1 KiB = 1024). Texto se codifica con ASCII y
+  Unicode (UTF-8); imágenes como píxeles; sonido como muestras.
+  Lógica digital: puertas AND, OR, NOT, XOR; circuitos con
+  transistores.
+  Código fuente -> compilador/intérprete -> instrucciones de
+  máquina.
+  Compilado (C, C++, Rust, Go): se traduce antes de ejecutar; rápido.
+  Interpretado (Python, JavaScript): se ejecuta línea a línea (o por
+  bytecode/JIT); flexible.
+  Memoria: pila (stack) para llamadas y variables locales; montón
+  (heap) para memoria dinámica; recolección de basura o gestión
+  manual.
+
+
+##############################################################
+3. CONCEPTOS BÁSICOS
+##############################################################
+(Ejemplos principalmente en Python por su claridad.)
+
+3.1 Variables y tipos
+---------------------
+    edad = 25              # entero (int)
+    altura = 1.75          # decimal (float)
+    nombre = "Ana"         # cadena (str)
+    es_estudiante = True   # booleano (bool)
+    nada = None            # ausencia de valor
+
+  Tipado estático (Java, C, TypeScript) vs dinámico (Python,
+  JavaScript). Tipado fuerte vs débil.
+
+3.2 Operadores
+--------------
+  Aritméticos: + - * / // (división entera) % (módulo) ** (potencia).
+  Comparación: == != < > <= >=.
+  Lógicos: and, or, not.
+  Asignación: = += -= *=.
+
+3.3 Entrada y salida
+--------------------
+    nombre = input("¿Cómo te llamas? ")
+    print("Hola,", nombre)
+
+3.4 Cadenas
+-----------
+    texto = "Hola Mundo"
+    texto.upper()        # "HOLA MUNDO"
+    texto[0]             # "H"
+    texto[0:4]           # "Hola"
+    f"Hola {nombre}"     # f-string
+
+3.5 Comentarios y estilo
+------------------------
+    # Esto es un comentario
+  Nombres claros, indentación consistente, convenciones del
+  lenguaje (PEP 8 en Python).
+
+
+##############################################################
+4. CONTROL DE FLUJO
+##############################################################
+4.1 Condicionales
+-----------------
+    nota = 7.5
+    if nota >= 9:
+        print("Excelente")
+    elif nota >= 7:
+        print("Aprobado")
+    else:
+        print("Reprobado")
+
+4.2 Bucles
+----------
+    for i in range(5):        # 0,1,2,3,4
+        print(i)
+
+    contador = 0
+    while contador < 3:
+        print(contador)
+        contador += 1
+
+  break (salir), continue (saltar iteración). Cuidado con los
+  bucles infinitos.
+
+4.3 Ejemplo: tabla de multiplicar
+---------------------------------
+    n = 7
+    for i in range(1, 11):
+        print(f"{n} x {i} = {n * i}")
+
+4.4 Ejemplo: FizzBuzz
+---------------------
+    for i in range(1, 101):
+        if i % 15 == 0: print("FizzBuzz")
+        elif i % 3 == 0: print("Fizz")
+        elif i % 5 == 0: print("Buzz")
+        else: print(i)
+
+
+##############################################################
+5. FUNCIONES
+##############################################################
+    def area_circulo(radio):
+        return 3.14159 * radio ** 2
+
+    print(area_circulo(5))
+
+  Parámetros, argumentos, valor de retorno, valores por defecto,
+  argumentos con nombre, *args y **kwargs.
+  Alcance (scope): variables locales vs globales.
+  Funciones puras: sin efectos secundarios.
+  Recursión: una función que se llama a sí misma.
+
+    def factorial(n):
+        if n <= 1:          # caso base
+            return 1
+        return n * factorial(n - 1)
+
+  Funciones lambda: lambda x: x * 2.
+  Principio: una función, una responsabilidad.
+
+
+##############################################################
+6. ESTRUCTURAS DE DATOS
+##############################################################
+6.1 En Python
+-------------
+    lista = [3, 1, 2]           # mutable, ordenada
+    lista.append(4); lista.sort()
+    tupla = (1, 2)               # inmutable
+    conjunto = {1, 2, 3}         # sin duplicados
+    dic = {"nombre": "Ana", "edad": 25}   # clave-valor
+    dic["edad"]
+
+    [x**2 for x in range(5)]     # comprensión de listas
+
+6.2 Estructuras clásicas
+------------------------
+  Arreglo: acceso por índice O(1).
+  Lista enlazada: inserción/eliminación eficientes, acceso O(n).
+  Pila (stack, LIFO): push/pop. Uso: deshacer, llamadas a funciones.
+  Cola (queue, FIFO): enqueue/dequeue. Uso: tareas, BFS.
+  Tabla hash / diccionario: búsqueda promedio O(1); colisiones.
+  Árbol binario de búsqueda: búsqueda O(log n) si balanceado (AVL,
+  rojo-negro). Heap (cola de prioridad). Trie (prefijos).
+  Grafo: vértices y aristas; matriz o lista de adyacencia.
+  Recorridos de grafos y árboles: DFS (profundidad), BFS (anchura).
+
+
+##############################################################
+7. ALGORITMOS Y COMPLEJIDAD
+##############################################################
+7.1 Notación Big O
+------------------
+  O(1) constante; O(log n) logarítmica; O(n) lineal; O(n log n);
+  O(n^2) cuadrática; O(2^n) exponencial; O(n!) factorial.
+  Describe cómo crece el tiempo (o la memoria) al aumentar n.
+  Mejor caso, caso promedio y peor caso.
+
+7.2 Ordenamiento
+----------------
+  Burbuja, selección, inserción: O(n^2).
+  Mergesort: O(n log n), estable, divide y vencerás.
+  Quicksort: promedio O(n log n), peor O(n^2).
+  Heapsort: O(n log n). Counting/radix: lineal bajo ciertas
+  condiciones.
+
+7.3 Búsqueda
+------------
+    def busqueda_binaria(lista, objetivo):
+        izq, der = 0, len(lista) - 1
+        while izq <= der:
+            medio = (izq + der) // 2
+            if lista[medio] == objetivo:
+                return medio
+            elif lista[medio] < objetivo:
+                izq = medio + 1
+            else:
+                der = medio - 1
+        return -1          # O(log n), requiere lista ordenada
+
+7.4 Técnicas de diseño
+----------------------
+  Fuerza bruta, divide y vencerás, voraz (greedy), programación
+  dinámica, backtracking, ramificación y poda.
+  Programación dinámica (Fibonacci con memoización):
+
+    from functools import lru_cache
+    @lru_cache(None)
+    def fib(n):
+        return n if n < 2 else fib(n-1) + fib(n-2)
+
+  Algoritmos de grafos: Dijkstra (camino mínimo), A*, Kruskal y
+  Prim (árbol de expansión mínima), ordenamiento topológico.
+  Teoría de la computación: clases P, NP, NP-completo; problema
+  del viajante; indecidibilidad (problema de la parada).
+
+
+##############################################################
+8. PROGRAMACIÓN ORIENTADA A OBJETOS (POO)
+##############################################################
+  Clase: plantilla. Objeto: instancia. Atributos y métodos.
+
+    class Animal:
+        def __init__(self, nombre):
+            self.nombre = nombre
+        def hablar(self):
+            raise NotImplementedError
+
+    class Perro(Animal):
+        def hablar(self):
+            return f"{self.nombre} dice guau"
+
+    print(Perro("Rex").hablar())
+
+  Pilares: encapsulamiento, abstracción, herencia, polimorfismo.
+  Composición sobre herencia (cuando sea posible).
+  Principios SOLID:
+    S: una sola responsabilidad.
+    O: abierto a extensión, cerrado a modificación.
+    L: sustitución de Liskov.
+    I: segregación de interfaces.
+    D: inversión de dependencias.
+  Patrones de diseño: Singleton, Factory, Builder, Adapter,
+  Decorator, Observer, Strategy, MVC.
+
+
+##############################################################
+9. PROGRAMACIÓN FUNCIONAL Y OTROS PARADIGMAS
+##############################################################
+  Funcional: funciones como valores, inmutabilidad, map/filter/
+  reduce, composición, recursión; Haskell, Lisp, Elixir; también en
+  Python, JS, Rust, Scala.
+    list(map(lambda x: x*2, [1,2,3]))      # [2,4,6]
+    list(filter(lambda x: x>1, [1,2,3]))   # [2,3]
+  Imperativo/procedural, declarativo (SQL, HTML), lógico (Prolog),
+  orientado a eventos, reactivo.
+  Programación genérica y metaprogramación.
+  Corrutinas y async/await.
+
+
+##############################################################
+10. ERRORES, PRUEBAS Y DEPURACIÓN
+##############################################################
+  Tipos de error: sintaxis, ejecución (runtime), lógicos.
+  Excepciones:
+    try:
+        x = int(input())
+    except ValueError:
+        print("No es un número")
+    finally:
+        print("Fin")
+  Depuración: leer el mensaje de error, reproducir el fallo,
+  aislar, imprimir/loggear valores, usar un depurador (breakpoints),
+  "rubber duck debugging".
+  Pruebas: unitarias (pytest, JUnit, Jest), integración,
+  end-to-end, TDD (escribir la prueba primero), cobertura.
+  Logging, linters, formateadores, análisis estático.
+
+
+##############################################################
+11. GIT Y CONTROL DE VERSIONES
+##############################################################
+  git init, git add, git commit -m "mensaje", git status, git log,
+  git branch, git checkout / switch, git merge, git rebase,
+  git pull, git push, git clone.
+  Flujo: rama por funcionalidad -> commits pequeños -> pull request
+  -> revisión -> merge.
+  Conflictos de fusión: resolver manualmente.
+  .gitignore. GitHub, GitLab, Bitbucket.
+  Buenos mensajes de commit y versionado semántico (MAJOR.MINOR.PATCH).
+
+
+##############################################################
+12. BASES DE DATOS
+##############################################################
+  Relacionales (SQL): PostgreSQL, MySQL, SQLite.
+    SELECT nombre, edad FROM usuarios WHERE edad > 18 ORDER BY nombre;
+    INSERT INTO usuarios (nombre, edad) VALUES ('Ana', 25);
+    UPDATE usuarios SET edad = 26 WHERE nombre = 'Ana';
+    DELETE FROM usuarios WHERE id = 3;
+    JOIN: unir tablas (INNER, LEFT, RIGHT).
+    GROUP BY, HAVING, agregaciones (COUNT, SUM, AVG).
+  Conceptos: claves primarias y foráneas, índices, normalización
+  (1FN, 2FN, 3FN), transacciones y propiedades ACID, concurrencia.
+  NoSQL: documentos (MongoDB), clave-valor (Redis), columnas
+  (Cassandra), grafos (Neo4j). Teorema CAP.
+  ORMs, migraciones, almacenes de datos y data lakes.
+
+
+##############################################################
+13. REDES Y WEB
+##############################################################
+  Modelo TCP/IP: enlace, internet (IP), transporte (TCP/UDP),
+  aplicación (HTTP, DNS, SMTP).
+  Cliente-servidor. IP y DNS (traduce dominios a IP). Puertos.
+  HTTP: métodos GET, POST, PUT, PATCH, DELETE; códigos de estado
+  (200 OK, 301, 400, 401, 403, 404, 500). HTTPS = HTTP + TLS.
+  APIs REST (recursos y JSON), GraphQL, WebSockets, gRPC.
+  Frontend: HTML (estructura), CSS (estilo), JavaScript
+  (comportamiento); frameworks (React, Vue, Angular, Svelte);
+  accesibilidad, diseño responsivo, rendimiento.
+  Backend: Node.js, Python (Django, Flask, FastAPI), Java (Spring),
+  Go, Ruby on Rails, PHP.
+  Ejemplo mínimo en JavaScript:
+    const res = await fetch("https://api.ejemplo.com/datos");
+    const datos = await res.json();
+    console.log(datos);
+  Despliegue: servidores, nube (AWS, Azure, GCP), contenedores
+  (Docker), orquestación (Kubernetes), CI/CD.
+
+
+##############################################################
+14. SISTEMAS OPERATIVOS Y CONCURRENCIA
+##############################################################
+  Funciones del SO: gestión de procesos, memoria, archivos,
+  dispositivos, usuarios y seguridad.
+  Proceso vs hilo; planificación; memoria virtual y paginación.
+  Línea de comandos (bash): ls, cd, cp, mv, rm, grep, cat, chmod,
+  pipes (|) y redirección (>).
+  Concurrencia: condiciones de carrera, mutex, semáforos,
+  interbloqueo (deadlock), programación asíncrona.
+  Paralelismo: multinúcleo, GPU, sistemas distribuidos, consenso
+  (Raft, Paxos), consistencia eventual.
+
+
+##############################################################
+15. ARQUITECTURA Y DISEÑO DE SOFTWARE
+##############################################################
+  Monolito vs microservicios; arquitectura en capas; hexagonal;
+  orientada a eventos; serverless.
+  Principios: DRY (no repetir), KISS (mantenlo simple), YAGNI (no
+  lo vas a necesitar), separación de responsabilidades, bajo
+  acoplamiento y alta cohesión.
+  Metodologías: cascada, ágil, Scrum, Kanban, DevOps.
+  Revisión de código, documentación, deuda técnica, refactorización.
+  Escalabilidad: caché, balanceo de carga, colas de mensajes,
+  particionado (sharding), replicación.
+  Observabilidad: logs, métricas, trazas.
+
+
+##############################################################
+16. SEGURIDAD
+##############################################################
+  Principios: confidencialidad, integridad, disponibilidad.
+  Criptografía: simétrica (AES), asimétrica (RSA, curvas
+  elípticas), funciones hash (SHA-256), firmas digitales,
+  certificados.
+  Contraseñas: nunca se guardan en texto plano; usar hash con sal
+  (bcrypt, argon2). Autenticación multifactor.
+  Vulnerabilidades comunes (OWASP Top 10): inyección SQL, XSS,
+  CSRF, autenticación rota, configuración insegura, exposición de
+  datos.
+  Prácticas: validar entradas, consultas parametrizadas, principio
+  de mínimo privilegio, actualizar dependencias, no subir secretos
+  a repositorios.
+  Privacidad y protección de datos.
+
+
+##############################################################
+17. INTELIGENCIA ARTIFICIAL Y CIENCIA DE DATOS
+##############################################################
+  Ciencia de datos: recolección, limpieza, análisis exploratorio,
+  visualización, modelado. Herramientas: Python (NumPy, pandas,
+  matplotlib, scikit-learn), R, SQL, Jupyter.
+  Aprendizaje automático:
+    Supervisado (clasificación, regresión), no supervisado
+    (clustering, reducción de dimensión), por refuerzo.
+    Entrenamiento / validación / prueba; sobreajuste y
+    subajuste; métricas (exactitud, precisión, recall, F1, RMSE).
+  Redes neuronales: neuronas, capas, funciones de activación,
+  descenso del gradiente, retropropagación.
+  Aprendizaje profundo: CNN (imágenes), RNN/LSTM, Transformers
+  (atención), modelos de lenguaje, modelos de difusión.
+  Frameworks: PyTorch, TensorFlow.
+  Ética de la IA: sesgos, transparencia, privacidad, impacto
+  laboral y social.
+
+
+##############################################################
+18. LENGUAJES Y CÓMO ELEGIR
+##############################################################
+  Python: propósito general, ciencia de datos, automatización, IA;
+          ideal para empezar.
+  JavaScript/TypeScript: web (frontend y backend).
+  Java / Kotlin: empresas, Android. C#: .NET, juegos (Unity).
+  C / C++: sistemas, rendimiento, juegos, embebidos.
+  Rust: seguridad de memoria con alto rendimiento. Go: servicios y
+  nube.
+  Swift: apps Apple. PHP / Ruby: web.
+  SQL: datos. Bash: automatización. R: estadística.
+  HTML/CSS: no son lenguajes de programación, sino de marcado y
+  estilo.
+  Elige según el objetivo (web, datos, móvil, juegos, sistemas).
+  Lo importante son los fundamentos: casi todos los lenguajes
+  comparten variables, control de flujo, funciones y estructuras.
+
+
+##############################################################
+19. RUTA DE APRENDIZAJE Y BUENAS PRÁCTICAS
+##############################################################
+  Ruta sugerida:
+    1) Lógica y un primer lenguaje (Python).
+    2) Estructuras de datos y algoritmos básicos.
+    3) Git y línea de comandos.
+    4) Proyectos pequeños (calculadora, lista de tareas, juego,
+       scraper).
+    5) POO y pruebas.
+    6) Web (HTML/CSS/JS + un backend) o datos, según interés.
+    7) Bases de datos, APIs, despliegue.
+    8) Proyectos propios y contribución a código abierto.
+  Buenas prácticas: escribe código legible, nombra bien, divide
+  problemas, prueba, comenta el porqué (no el qué), refactoriza,
+  lee código ajeno, aprende a leer documentación, y practica
+  resolviendo problemas (Project Euler, LeetCode, Advent of Code).
+  Aprende a buscar errores en la documentación y a depurar:
+  es el 50 % del trabajo.
+==============================================================

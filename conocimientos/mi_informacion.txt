@@ -1,0 +1,627 @@
+
+
+==============================================================
+COMPENDIO DE CONOCIMIENTO GENERAL: ARTE Y CIENCIA
+==============================================================
+Contenido:
+  1. Literatura
+  2. Escritura creativa y narrativa
+  3. Música y artes visuales
+  4. Programación
+  5. Matemática
+  6. Física
+  7. Química
+  8. Biología
+  9. Método científico y pensamiento crítico
+==============================================================
+
+
+##############################################################
+1. LITERATURA
+##############################################################
+
+1.1 Géneros literarios
+----------------------
+- Narrativo: relata hechos a través de un narrador (novela, cuento,
+  epopeya, fábula, leyenda).
+- Lírico: expresa sentimientos y subjetividad (poesía, oda, elegía,
+  soneto, canción).
+- Dramático: se escribe para ser representado (tragedia, comedia,
+  drama, tragicomedia).
+- Didáctico/ensayístico: busca argumentar o enseñar (ensayo, tratado,
+  crónica, biografía).
+
+1.2 Elementos de la narrativa
+-----------------------------
+- Narrador: primera persona (protagonista o testigo), tercera persona
+  omnisciente, tercera persona limitada, segunda persona (rara).
+- Personajes: protagonista, antagonista, secundarios. Se distinguen
+  los planos (fijos, sin evolución) de los redondos (complejos, que
+  cambian).
+- Tiempo: cronológico, in medias res (empezar en mitad de la acción),
+  analepsis (flashback), prolepsis (salto al futuro).
+- Espacio: lugar físico y ambiente social o psicológico.
+- Estructura clásica: planteamiento, nudo, desenlace. Variante de
+  Freytag: exposición, acción ascendente, clímax, acción descendente,
+  resolución.
+
+1.3 Recursos retóricos principales
+----------------------------------
+- Metáfora: identifica dos realidades ("tus ojos son luceros").
+- Símil: compara con "como" o "cual".
+- Hipérbole: exageración.
+- Personificación: atribuir rasgos humanos a lo no humano.
+- Antítesis: contraste de ideas opuestas.
+- Ironía: decir lo contrario de lo que se piensa.
+- Aliteración: repetición de sonidos.
+- Metonimia y sinécdoque: sustitución por contigüidad o parte por todo.
+
+1.4 Métrica y poesía en español
+-------------------------------
+- Se cuentan las sílabas métricas, no las gramaticales. Fenómenos:
+  sinalefa (une vocal final con inicial), hiato, diéresis, sinéresis.
+- Verso de arte menor: hasta 8 sílabas. Arte mayor: 9 o más.
+- Rima consonante: coinciden vocales y consonantes desde la última
+  vocal acentuada. Rima asonante: solo las vocales.
+- Formas comunes: soneto (14 versos endecasílabos, 2 cuartetos y 2
+  tercetos), romance (versos octosílabos con rima asonante en los
+  pares), décima espinela (10 versos octosílabos), verso libre.
+
+1.5 Corrientes y épocas
+-----------------------
+- Antigüedad clásica: Homero (Ilíada, Odisea), Sófocles, Virgilio.
+- Edad Media: cantares de gesta (Cantar de Mio Cid), Dante (Divina
+  Comedia), mester de clerecía.
+- Renacimiento y Siglo de Oro: Garcilaso, Cervantes (Don Quijote,
+  considerada la primera novela moderna), Lope de Vega, Quevedo,
+  Góngora, Calderón.
+- Neoclasicismo e Ilustración: razón, orden, finalidad didáctica.
+- Romanticismo (s. XIX): emoción, libertad, individuo, naturaleza.
+  Bécquer, Espronceda, Goethe, Byron, Victor Hugo.
+- Realismo y Naturalismo: observación de la sociedad. Galdós, Flaubert,
+  Dickens, Tolstói, Zola.
+- Modernismo: renovación estética hispanoamericana. Rubén Darío.
+- Vanguardias (s. XX): ultraísmo, surrealismo, creacionismo, dadaísmo.
+- Boom latinoamericano y realismo mágico: García Márquez, Borges,
+  Cortázar, Vargas Llosa, Fuentes, Carpentier.
+- Literatura contemporánea: autoficción, narrativa fragmentaria,
+  literatura global.
+
+1.6 Teoría literaria (enfoques)
+-------------------------------
+- Formalismo y estructuralismo: analizan la obra como sistema de
+  signos y estructuras.
+- Psicoanalítica: lee el texto desde el inconsciente (Freud, Lacan).
+- Marxista: relaciona la obra con las condiciones sociales.
+- Feminista y de género: examina representaciones y poder.
+- Recepción: el lector como co-creador del sentido (Iser, Jauss).
+- Poscolonial: voces, identidad e imperio.
+
+
+##############################################################
+2. ESCRITURA CREATIVA Y NARRATIVA
+##############################################################
+
+- Mostrar en lugar de contar: usar escenas, detalles sensoriales y
+  acciones en vez de explicaciones directas.
+- Conflicto: toda historia necesita un deseo del personaje y un
+  obstáculo. Tipos: persona contra persona, contra sí mismo, contra la
+  sociedad, contra la naturaleza, contra el destino.
+- Arco del personaje: transformación interna a lo largo de la trama.
+- Viaje del héroe (Campbell/Vogler): mundo ordinario, llamada, rechazo,
+  mentor, umbral, pruebas, abismo, recompensa, regreso con el elixir.
+- Diálogo: cada personaje con voz propia; el subtexto (lo que no se
+  dice) es clave.
+- Ritmo: alternar acción y reflexión; frases cortas aceleran, largas
+  ralentizan.
+- Construcción de mundos: reglas coherentes (magia, tecnología,
+  política), consistencia interna más que realismo.
+- Proceso: lluvia de ideas, esquema, primer borrador libre, revisión
+  estructural, revisión de estilo, corrección.
+- Errores frecuentes: adverbios en exceso, exposición forzada,
+  personajes sin deseo, finales que no cierran el conflicto.
+
+
+##############################################################
+3. MÚSICA Y ARTES VISUALES
+##############################################################
+
+3.1 Música (teoría básica)
+--------------------------
+- Elementos: melodía, armonía, ritmo, timbre, dinámica, forma.
+- Notas: do, re, mi, fa, sol, la, si. Alteraciones: sostenido (#),
+  bemol (b).
+- Escala mayor: patrón de tonos T-T-S-T-T-T-S (S = semitono).
+  Ejemplo: Do mayor = do re mi fa sol la si do.
+- Escala menor natural: T-S-T-T-S-T-T.
+- Acordes: tríada mayor (tónica, tercera mayor, quinta justa), tríada
+  menor (tercera menor).
+- Compás: 4/4 (cuatro tiempos de negra), 3/4 (vals), 6/8.
+- Progresión común: I - V - vi - IV.
+
+3.2 Artes visuales
+------------------
+- Elementos: línea, forma, color, textura, espacio, valor.
+- Teoría del color: primarios sustractivos (cian, magenta, amarillo),
+  aditivos (rojo, verde, azul). Colores complementarios se oponen en el
+  círculo cromático.
+- Composición: regla de los tercios, proporción áurea (~1,618),
+  equilibrio, contraste, punto focal.
+- Movimientos: Renacimiento, Barroco, Impresionismo, Cubismo,
+  Surrealismo, Arte abstracto, Pop Art.
+
+
+##############################################################
+4. PROGRAMACIÓN
+##############################################################
+
+4.1 Conceptos fundamentales
+---------------------------
+- Algoritmo: secuencia finita de pasos para resolver un problema.
+- Variable: espacio con nombre que almacena un valor.
+- Tipos de datos: enteros, flotantes, booleanos, cadenas, listas,
+  diccionarios/mapas, conjuntos.
+- Control de flujo: condicionales (if/else), bucles (for, while).
+- Funciones: bloques reutilizables con parámetros y valor de retorno.
+- Recursión: una función que se llama a sí misma con un caso base.
+- Alcance (scope): dónde es visible una variable.
+
+4.2 Paradigmas
+--------------
+- Imperativo/procedural: instrucciones paso a paso (C).
+- Orientado a objetos: clases, objetos, encapsulamiento, herencia,
+  polimorfismo, abstracción (Java, C#, Python).
+- Funcional: funciones puras, inmutabilidad, funciones de orden
+  superior (Haskell, Lisp, parte de JavaScript y Python).
+- Declarativo: se describe qué se quiere, no cómo (SQL, HTML).
+
+4.3 Estructuras de datos
+------------------------
+- Arreglo/lista: acceso por índice O(1), inserción en medio O(n).
+- Lista enlazada: inserción eficiente, acceso O(n).
+- Pila (LIFO) y cola (FIFO).
+- Tabla hash: búsqueda promedio O(1).
+- Árbol (binario de búsqueda, AVL, heap): jerarquía, búsqueda O(log n)
+  si está balanceado.
+- Grafo: nodos y aristas; representación por lista o matriz de
+  adyacencia.
+
+4.4 Complejidad algorítmica (notación Big O)
+--------------------------------------------
+- O(1) constante, O(log n) logarítmica, O(n) lineal, O(n log n),
+  O(n^2) cuadrática, O(2^n) exponencial.
+- Ordenamiento: burbuja O(n^2); mergesort y quicksort ~O(n log n).
+- Búsqueda: lineal O(n), binaria O(log n) sobre datos ordenados.
+- Técnicas: divide y vencerás, programación dinámica, voraz (greedy),
+  backtracking.
+
+4.5 Ejemplo en Python
+---------------------
+    def fibonacci(n, memo={}):
+        if n <= 1:
+            return n
+        if n not in memo:
+            memo[n] = fibonacci(n - 1) + fibonacci(n - 2)
+        return memo[n]
+
+    def busqueda_binaria(lista, objetivo):
+        izq, der = 0, len(lista) - 1
+        while izq <= der:
+            medio = (izq + der) // 2
+            if lista[medio] == objetivo:
+                return medio
+            elif lista[medio] < objetivo:
+                izq = medio + 1
+            else:
+                der = medio - 1
+        return -1
+
+4.6 Ingeniería de software
+--------------------------
+- Control de versiones (Git): commit, branch, merge, pull request.
+- Pruebas: unitarias, de integración, end-to-end.
+- Principios SOLID: responsabilidad única, abierto/cerrado, sustitución
+  de Liskov, segregación de interfaces, inversión de dependencias.
+- Otros: DRY (no repetirse), KISS (mantenerlo simple), revisión de
+  código, integración continua.
+- Metodologías: cascada, Scrum, Kanban.
+
+4.7 Redes, bases de datos y sistemas
+------------------------------------
+- Cliente-servidor, HTTP (GET, POST, PUT, DELETE), APIs REST, JSON.
+- Bases de datos relacionales (SQL): tablas, claves primarias y
+  foráneas, normalización, transacciones ACID.
+- NoSQL: documentos, clave-valor, grafos, columnas.
+- Sistema operativo: procesos, hilos, memoria, planificación.
+- Seguridad: cifrado, hashing, autenticación, inyección SQL, XSS.
+
+4.8 Inteligencia artificial y aprendizaje automático
+----------------------------------------------------
+- Aprendizaje supervisado (clasificación, regresión), no supervisado
+  (agrupamiento), por refuerzo.
+- Red neuronal: capas de neuronas con pesos ajustados mediante
+  descenso del gradiente y retropropagación.
+- Sobreajuste (overfitting): el modelo memoriza en vez de generalizar;
+  se mitiga con regularización y más datos.
+- Modelos de lenguaje: predicen el siguiente token; arquitectura
+  Transformer basada en atención.
+
+
+##############################################################
+5. MATEMÁTICA
+##############################################################
+
+5.1 Aritmética y álgebra
+------------------------
+- Conjuntos numéricos: N (naturales), Z (enteros), Q (racionales), R
+  (reales), C (complejos).
+- Jerarquía de operaciones: paréntesis, potencias, multiplicación y
+  división, suma y resta.
+- Productos notables:
+    (a + b)^2 = a^2 + 2ab + b^2
+    (a - b)^2 = a^2 - 2ab + b^2
+    (a + b)(a - b) = a^2 - b^2
+- Ecuación cuadrática ax^2 + bx + c = 0:
+    x = (-b ± sqrt(b^2 - 4ac)) / (2a)
+  El discriminante b^2 - 4ac indica: >0 dos raíces reales, =0 una,
+  <0 raíces complejas.
+- Logaritmos: log_b(xy) = log_b x + log_b y; log_b(x^k) = k log_b x.
+- Exponentes: a^m * a^n = a^(m+n); (a^m)^n = a^(mn).
+
+5.2 Geometría
+-------------
+- Teorema de Pitágoras: a^2 + b^2 = c^2 (triángulo rectángulo).
+- Área del círculo: pi r^2. Circunferencia: 2 pi r.
+- Triángulo: A = (b h)/2. Esfera: V = (4/3) pi r^3.
+- Geometría analítica: distancia entre puntos
+  d = sqrt((x2-x1)^2 + (y2-y1)^2); ecuación de la recta y = mx + n.
+- Geometrías no euclidianas: esférica e hiperbólica (se niega el
+  quinto postulado de Euclides).
+
+5.3 Trigonometría
+-----------------
+- sen = cateto opuesto / hipotenusa; cos = cateto adyacente /
+  hipotenusa; tan = sen/cos.
+- Identidad fundamental: sen^2(x) + cos^2(x) = 1.
+- Valores notables: sen 30° = 1/2, cos 60° = 1/2, sen 45° = sqrt(2)/2.
+- Radianes: 180° = pi rad.
+
+5.4 Cálculo
+-----------
+- Límite: valor al que se acerca f(x) cuando x se aproxima a un punto.
+- Derivada: f'(x) = lim (h->0) [f(x+h) - f(x)] / h. Mide la tasa de
+  cambio instantánea y la pendiente de la tangente.
+- Reglas: (x^n)' = n x^(n-1); (sen x)' = cos x; (e^x)' = e^x;
+  (ln x)' = 1/x; regla del producto, del cociente y de la cadena.
+- Integral: acumulación o área bajo la curva.
+  Teorema fundamental del cálculo: la integral y la derivada son
+  operaciones inversas.
+  Ejemplo: ∫ x^n dx = x^(n+1)/(n+1) + C (n ≠ -1).
+- Aplicaciones: optimización (máximos y mínimos), movimiento, áreas,
+  volúmenes, ecuaciones diferenciales.
+
+5.5 Álgebra lineal
+------------------
+- Vectores, matrices, producto matricial (no conmutativo).
+- Determinante: indica si una matriz es invertible (det ≠ 0).
+- Autovalores y autovectores: A v = λ v.
+- Aplicaciones: gráficos 3D, aprendizaje automático, sistemas de
+  ecuaciones, física cuántica.
+
+5.6 Probabilidad y estadística
+------------------------------
+- Probabilidad = casos favorables / casos posibles (espacio equiprobable).
+- Probabilidad condicional: P(A|B) = P(A ∩ B) / P(B).
+- Teorema de Bayes: P(A|B) = P(B|A) P(A) / P(B).
+- Media, mediana, moda; varianza y desviación estándar.
+- Distribución normal (campana de Gauss); ley de los grandes números;
+  teorema del límite central.
+- Inferencia: intervalos de confianza, pruebas de hipótesis, valor p.
+- Combinatoria: permutaciones n!; combinaciones C(n,k) = n!/(k!(n-k)!).
+
+5.7 Teoría de números y lógica
+------------------------------
+- Número primo: solo divisible entre 1 y sí mismo. Hay infinitos
+  primos (Euclides).
+- Teorema fundamental de la aritmética: todo entero > 1 se factoriza
+  de forma única en primos.
+- MCD y MCM; algoritmo de Euclides.
+- Aritmética modular: base de la criptografía (RSA).
+- Lógica proposicional: conectivos (y, o, no, implica), tablas de
+  verdad, tautologías. Demostraciones: directa, por contradicción,
+  inducción.
+
+
+##############################################################
+6. FÍSICA
+##############################################################
+
+6.1 Mecánica clásica
+--------------------
+- Cinemática (MRU): x = x0 + v t.
+- MRUA: v = v0 + a t; x = x0 + v0 t + (1/2) a t^2.
+- Leyes de Newton:
+    1. Inercia: sin fuerza neta, un cuerpo mantiene su estado de
+       movimiento.
+    2. F = m a.
+    3. Acción y reacción: fuerzas iguales y opuestas.
+- Gravitación universal: F = G m1 m2 / r^2
+  (G = 6,674 x 10^-11 N m^2/kg^2). Aceleración en la Tierra g ≈ 9,8 m/s^2.
+- Trabajo: W = F d cos(θ). Energía cinética: Ec = (1/2) m v^2.
+  Energía potencial gravitatoria: Ep = m g h.
+- Conservación de la energía y de la cantidad de movimiento (p = m v).
+- Movimiento circular: a centrípeta = v^2 / r.
+- Movimiento armónico simple: oscilaciones (péndulo, resorte), con
+  periodo T = 2 pi sqrt(m/k) para un resorte.
+
+6.2 Termodinámica
+-----------------
+- Temperatura: medida de la energía cinética media de las partículas.
+- Cero absoluto: 0 K = -273,15 °C.
+- Ley cero: equilibrio térmico transitivo.
+- Primera ley: ΔU = Q - W (conservación de la energía).
+- Segunda ley: la entropía de un sistema aislado no disminuye; el calor
+  fluye espontáneamente de lo caliente a lo frío.
+- Tercera ley: no se alcanza el cero absoluto en un número finito de pasos.
+- Gases ideales: PV = nRT (R = 8,314 J/(mol K)).
+
+6.3 Electricidad y magnetismo
+-----------------------------
+- Ley de Coulomb: F = k q1 q2 / r^2.
+- Ley de Ohm: V = I R. Potencia: P = V I.
+- Campo eléctrico, potencial, capacitores, circuitos en serie y
+  paralelo.
+- Ecuaciones de Maxwell: unifican electricidad, magnetismo y luz.
+  Predicen ondas electromagnéticas que viajan a c ≈ 3 x 10^8 m/s.
+- Inducción de Faraday: un flujo magnético variable genera una fuerza
+  electromotriz (base de generadores y transformadores).
+
+6.4 Ondas y óptica
+------------------
+- Onda: perturbación que transporta energía. v = λ f.
+- Fenómenos: reflexión, refracción (ley de Snell: n1 sen θ1 = n2 sen θ2),
+  difracción, interferencia, polarización.
+- Espectro electromagnético: radio, microondas, infrarrojo, luz
+  visible, ultravioleta, rayos X, rayos gamma.
+- Sonido: onda longitudinal mecánica (~343 m/s en aire a 20 °C).
+
+6.5 Relatividad
+---------------
+- Relatividad especial (1905): las leyes físicas son iguales en todos
+  los sistemas inerciales y la velocidad de la luz es constante.
+  Consecuencias: dilatación del tiempo, contracción de longitud,
+  E = m c^2.
+- Relatividad general (1915): la gravedad es la curvatura del
+  espaciotiempo causada por masa y energía. Predice agujeros negros,
+  ondas gravitacionales y la expansión del universo.
+
+6.6 Mecánica cuántica
+---------------------
+- Cuantización: la energía se intercambia en paquetes. E = h f
+  (h = 6,626 x 10^-34 J s).
+- Dualidad onda-partícula: la materia y la luz muestran ambos
+  comportamientos.
+- Principio de incertidumbre de Heisenberg: Δx Δp ≥ ħ/2.
+- Función de onda ψ: su módulo al cuadrado da la densidad de
+  probabilidad. Ecuación de Schrödinger describe su evolución.
+- Superposición, entrelazamiento, medición.
+- Modelo estándar: partículas fundamentales (quarks, leptones,
+  bosones) y tres de las cuatro interacciones (fuerte, débil,
+  electromagnética). La gravedad aún no tiene teoría cuántica
+  completa.
+
+6.7 Astrofísica y cosmología
+----------------------------
+- Ciclo estelar: nebulosa, protoestrella, secuencia principal, gigante
+  roja, enana blanca, o supernova y estrella de neutrones/agujero
+  negro.
+- Big Bang: el universo se expande desde un estado muy denso y caliente
+  hace unos 13.800 millones de años.
+- Evidencias: expansión (ley de Hubble), radiación cósmica de fondo,
+  abundancia de elementos ligeros.
+- Materia oscura y energía oscura: componentes inferidos que
+  constituirían ~95 % del contenido del universo.
+
+
+##############################################################
+7. QUÍMICA
+##############################################################
+
+7.1 Materia y átomo
+-------------------
+- Materia: todo lo que tiene masa y ocupa espacio. Estados: sólido,
+  líquido, gaseoso, plasma.
+- Átomo: núcleo (protones + neutrones) y electrones.
+- Número atómico (Z): protones. Número másico (A): protones + neutrones.
+- Isótopos: mismo Z, distinto A.
+- Modelos atómicos: Dalton, Thomson, Rutherford, Bohr, modelo
+  cuántico (orbitales).
+- Configuración electrónica: regla de Aufbau, principio de exclusión de
+  Pauli, regla de Hund. Orden de llenado: 1s 2s 2p 3s 3p 4s 3d 4p...
+
+7.2 Tabla periódica
+-------------------
+- Organizada por número atómico creciente; periodos (filas) y grupos
+  (columnas).
+- Tendencias: el radio atómico aumenta hacia abajo y hacia la
+  izquierda; la electronegatividad y la energía de ionización aumentan
+  hacia arriba y hacia la derecha.
+- Familias: metales alcalinos, alcalinotérreos, halógenos, gases
+  nobles, metales de transición.
+
+7.3 Enlaces y fuerzas intermoleculares
+--------------------------------------
+- Iónico: transferencia de electrones (NaCl).
+- Covalente: compartición de electrones (H2O, CH4); puede ser polar o
+  no polar.
+- Metálico: mar de electrones; conductividad y maleabilidad.
+- Fuerzas intermoleculares: puentes de hidrógeno, dipolo-dipolo,
+  fuerzas de dispersión de London.
+- Geometría molecular: teoría RPECV (VSEPR).
+
+7.4 Estequiometría y reacciones
+-------------------------------
+- Mol: 6,022 x 10^23 entidades (número de Avogadro).
+- Masa molar: masa de un mol de sustancia (g/mol).
+- Ley de conservación de la masa (Lavoisier): hay que balancear las
+  ecuaciones. Ejemplo: 2 H2 + O2 -> 2 H2O.
+- Tipos: síntesis, descomposición, desplazamiento, doble
+  desplazamiento, combustión, redox.
+- Reactivo limitante: el que se agota primero y limita el rendimiento.
+- Molaridad: M = moles de soluto / litros de solución.
+
+7.5 Ácidos, bases y equilibrio
+------------------------------
+- Arrhenius: ácidos liberan H+, bases liberan OH-.
+  Brønsted-Lowry: ácidos donan protones, bases los aceptan.
+  Lewis: ácidos aceptan pares de electrones.
+- pH = -log[H+]. Neutro 7 (a 25 °C), ácido < 7, básico > 7.
+- Equilibrio químico: velocidades directa e inversa iguales.
+  Constante K = [productos]/[reactivos] (con coeficientes como
+  exponentes).
+- Principio de Le Châtelier: un sistema en equilibrio perturbado se
+  desplaza para contrarrestar el cambio.
+
+7.6 Termoquímica y cinética
+---------------------------
+- Reacción exotérmica libera calor (ΔH < 0); endotérmica lo absorbe
+  (ΔH > 0).
+- Energía libre de Gibbs: ΔG = ΔH - TΔS. Un proceso es espontáneo si
+  ΔG < 0.
+- Cinética: la velocidad depende de concentración, temperatura,
+  superficie de contacto y catalizadores. Energía de activación: barrera
+  que deben superar los reactivos. Ecuación de Arrhenius.
+
+7.7 Química orgánica
+--------------------
+- El carbono forma 4 enlaces y cadenas largas (catenación).
+- Hidrocarburos: alcanos (enlaces simples), alquenos (dobles), alquinos
+  (triples), aromáticos (benceno).
+- Grupos funcionales: alcohol (-OH), aldehído (-CHO), cetona (C=O),
+  ácido carboxílico (-COOH), éster, amina (-NH2), amida, éter.
+- Isomería: mismos átomos, distinta estructura.
+- Polímeros: macromoléculas formadas por monómeros (polietileno,
+  nailon, proteínas, ADN).
+- Biomoléculas: carbohidratos, lípidos, proteínas, ácidos nucleicos.
+
+7.8 Electroquímica
+------------------
+- Oxidación: pérdida de electrones; reducción: ganancia.
+- Pila galvánica: reacción espontánea genera corriente. Celda
+  electrolítica: corriente induce una reacción no espontánea.
+
+
+##############################################################
+8. BIOLOGÍA
+##############################################################
+
+8.1 La célula
+-------------
+- Teoría celular: todos los seres vivos están formados por células; la
+  célula es la unidad básica; toda célula proviene de otra célula.
+- Procariotas (bacterias, arqueas): sin núcleo definido.
+  Eucariotas: con núcleo y orgánulos.
+- Orgánulos: núcleo (ADN), mitocondria (respiración celular, ATP),
+  cloroplasto (fotosíntesis, solo en plantas y algas), retículo
+  endoplasmático, aparato de Golgi, ribosomas (síntesis de proteínas),
+  lisosomas.
+- Membrana plasmática: bicapa lipídica con proteínas; transporte
+  pasivo (difusión, ósmosis) y activo (gasta ATP).
+
+8.2 Metabolismo
+---------------
+- ATP: moneda energética de la célula.
+- Fotosíntesis: 6 CO2 + 6 H2O + luz -> C6H12O6 + 6 O2. Fase luminosa
+  (tilacoides) y ciclo de Calvin (estroma).
+- Respiración celular: C6H12O6 + 6 O2 -> 6 CO2 + 6 H2O + ATP. Etapas:
+  glucólisis (citoplasma), ciclo de Krebs y cadena de transporte de
+  electrones (mitocondria).
+- Fermentación: obtención de energía sin oxígeno (láctica, alcohólica).
+- Enzimas: catalizadores biológicos específicos; afectados por
+  temperatura y pH.
+
+8.3 Genética y biología molecular
+---------------------------------
+- ADN: doble hélice de nucleótidos (A-T, C-G). ARN: una hebra, uracilo
+  en lugar de timina.
+- Dogma central: ADN -> ARN (transcripción) -> proteína (traducción).
+- Código genético: codones de tres bases codifican aminoácidos.
+- Replicación semiconservativa.
+- Mutaciones: cambios en el ADN; fuente de variabilidad.
+- Leyes de Mendel: segregación de alelos e independencia de caracteres.
+  Alelo dominante y recesivo; genotipo vs. fenotipo.
+  Cuadro de Punnett: Aa x Aa -> 1 AA : 2 Aa : 1 aa (fenotipo 3:1).
+- Herencia no mendeliana: dominancia incompleta, codominancia, ligada
+  al sexo, poligénica.
+- Biotecnología: PCR, secuenciación, CRISPR-Cas9 (edición genética),
+  ADN recombinante, organismos transgénicos.
+
+8.4 División celular
+--------------------
+- Mitosis: una célula origina dos idénticas (profase, metafase,
+  anafase, telofase). Crecimiento y reparación.
+- Meiosis: dos divisiones producen 4 gametos haploides; entrecruzamiento
+  y segregación aumentan la variabilidad.
+- Ciclo celular: interfase (G1, S, G2) y fase M. Su descontrol puede
+  causar cáncer.
+
+8.5 Evolución
+-------------
+- Selección natural (Darwin y Wallace): variación heredable, lucha por
+  recursos, supervivencia y reproducción diferencial.
+- Otros mecanismos: deriva genética, flujo génico, mutación.
+- Evidencias: registro fósil, anatomía comparada (homologías),
+  embriología, biogeografía, evidencia molecular.
+- Especiación: formación de nuevas especies por aislamiento.
+- Árbol de la vida: tres dominios (Bacteria, Archaea, Eukarya).
+  Clasificación de Linneo: reino, filo, clase, orden, familia, género,
+  especie.
+
+8.6 Fisiología humana (resumen)
+-------------------------------
+- Sistema nervioso: neuronas, sinapsis, impulso eléctrico, SNC y SNP.
+- Circulatorio: corazón de 4 cavidades, circulación mayor y menor.
+- Respiratorio: intercambio gaseoso en los alvéolos.
+- Digestivo: digestión mecánica y química; absorción en el intestino
+  delgado.
+- Endocrino: hormonas (insulina, cortisol, adrenalina, tiroxina).
+- Inmunitario: respuesta innata y adaptativa (linfocitos B y T,
+  anticuerpos); base de las vacunas.
+- Homeostasis: mantenimiento del equilibrio interno mediante
+  retroalimentación negativa.
+
+8.7 Ecología
+------------
+- Niveles: individuo, población, comunidad, ecosistema, bioma, biosfera.
+- Cadenas y redes tróficas: productores, consumidores, descomponedores.
+  Solo ~10 % de la energía pasa de un nivel trófico al siguiente.
+- Ciclos biogeoquímicos: carbono, nitrógeno, agua, fósforo.
+- Relaciones: depredación, competencia, mutualismo, comensalismo,
+  parasitismo.
+- Biodiversidad y amenazas: pérdida de hábitat, cambio climático,
+  especies invasoras, contaminación.
+
+
+##############################################################
+9. MÉTODO CIENTÍFICO Y PENSAMIENTO CRÍTICO
+##############################################################
+
+- Método científico: observación, pregunta, hipótesis, predicción,
+  experimento, análisis, conclusión, comunicación y replicación.
+- Una hipótesis científica debe ser falsable (Popper).
+- Teoría científica: explicación bien sustentada por abundante
+  evidencia (distinta del uso coloquial de "teoría"). Ley científica:
+  descripción de una regularidad, a menudo matemática.
+- Correlación no implica causalidad.
+- Sesgos comunes: de confirmación, de disponibilidad, de anclaje,
+  efecto Dunning-Kruger.
+- Falacias lógicas: ad hominem, hombre de paja, falsa dicotomía,
+  pendiente resbaladiza, apelación a la autoridad.
+- Interdisciplinariedad: la matemática es el lenguaje de la física; la
+  física fundamenta la química; la química explica la biología
+  molecular; la programación permite simular y analizar todas ellas; y
+  la literatura y las artes dan forma y sentido humano al conocimiento.
+
+==============================================================
+FIN DEL DOCUMENTO
+==============================================================

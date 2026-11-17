@@ -1,0 +1,850 @@
+==============================================================
+MATEMÁTICAS: DESDE EL NÚMERO HASTA LA MATEMÁTICA AVANZADA
+==============================================================
+
+ÍNDICE
+  Nivel 1. ¿Qué es un número? Cómo leer y escribir números
+  Nivel 2. Operaciones básicas
+  Nivel 3. Fracciones, decimales y porcentajes
+  Nivel 4. Números negativos, potencias y raíces
+  Nivel 5. Álgebra
+  Nivel 6. Geometría
+  Nivel 7. Trigonometría y funciones
+  Nivel 8. Cálculo
+  Nivel 9. Álgebra lineal
+  Nivel 10. Probabilidad y estadística
+  Nivel 11. Matemática discreta y teoría de números
+  Nivel 12. Matemática avanzada (análisis, álgebra abstracta, topología)
+  Consejos para estudiar matemáticas
+
+
+##############################################################
+NIVEL 1. ¿QUÉ ES UN NÚMERO?
+##############################################################
+
+1.1 Idea de número
+------------------
+Un número es una idea abstracta que sirve para expresar cantidad
+(cuántos hay), orden (el primero, el segundo) o medida (cuánto mide).
+No hay que confundir:
+  - NÚMERO: la idea (la cantidad "cinco").
+  - NUMERAL: el símbolo con que lo escribimos (5, V, cinco).
+  - CIFRA o DÍGITO: cada símbolo individual. Usamos 10 dígitos:
+    0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+
+Ejemplo: el número 275 tiene tres cifras (2, 7 y 5).
+
+1.2 Para qué sirven los números
+-------------------------------
+  - Contar: 3 manzanas.
+  - Ordenar (ordinales): primero, segundo, tercero.
+  - Medir: 2,5 metros.
+  - Identificar (nominales): un número de teléfono o de cédula; aquí
+    no se suma ni se resta, solo se usa como etiqueta.
+
+1.3 El sistema decimal (base 10) y el valor posicional
+------------------------------------------------------
+Usamos un sistema posicional: el valor de una cifra depende de la
+posición que ocupa. Cada posición vale 10 veces más que la de su
+derecha.
+
+Posiciones (de derecha a izquierda):
+  unidades (U), decenas (D), centenas (C), unidad de millar (UM),
+  decena de millar (DM), centena de millar (CM), unidad de millón...
+
+Ejemplo:
+El número 3.582 se descompone así:
+  3.582 = 3 x 1000 + 5 x 100 + 8 x 10 + 2 x 1
+  (3 unidades de millar, 5 centenas, 8 decenas, 2 unidades)
+
+El CERO es fundamental: ocupa una posición vacía. En 305, el 0 indica
+que no hay decenas. Sin cero no distinguiríamos 35 de 305.
+
+1.4 Cómo leer un número
+-----------------------
+Se separa en grupos de tres cifras desde la derecha (en español se
+usa punto o espacio para separar miles: 1.234.567 o 1 234 567).
+
+Nombres de los grupos:
+  unidades -> miles -> millones -> miles de millones -> billones...
+  (En español, un billón = 10^12 = un millón de millones. En inglés,
+  "billion" = 10^9 = mil millones. ¡Cuidado con esta diferencia!)
+
+Pasos para leer:
+  1. Separa en grupos de tres cifras.
+  2. Lee cada grupo como un número de hasta tres cifras.
+  3. Añade el nombre del grupo (mil, millones...).
+
+Ejemplos:
+  47          -> cuarenta y siete
+  105         -> ciento cinco
+  1.000       -> mil
+  2.350       -> dos mil trescientos cincuenta
+  12.408      -> doce mil cuatrocientos ocho
+  300.001     -> trescientos mil uno
+  1.234.567   -> un millón doscientos treinta y cuatro mil
+                 quinientos sesenta y siete
+  7.000.000   -> siete millones
+
+Reglas útiles de lectura:
+  - 100 exacto es "cien"; de 101 a 199 es "ciento..." (ciento uno).
+  - Del 16 al 29 se escribe en una palabra (dieciséis, veintiuno).
+  - A partir del 31 se usa "y": treinta y uno, cuarenta y cinco.
+  - "Un millón" no lleva "uno" delante pero "mil" tampoco: se dice
+    "mil", no "un mil".
+  - Cuando "millón" va después de un número mayor que uno, se pluraliza:
+    dos millones.
+
+Números del 0 al 20: cero, uno, dos, tres, cuatro, cinco, seis, siete,
+ocho, nueve, diez, once, doce, trece, catorce, quince, dieciséis,
+diecisiete, dieciocho, diecinueve, veinte.
+Decenas: diez, veinte, treinta, cuarenta, cincuenta, sesenta, setenta,
+ochenta, noventa.
+Centenas: cien, doscientos, trescientos, cuatrocientos, quinientos,
+seiscientos, setecientos, ochocientos, novecientos.
+
+1.5 Cómo leer números decimales
+-------------------------------
+En español la coma separa la parte entera de la decimal (en muchos
+países latinoamericanos se usa el punto; ambos son aceptados).
+  3,14   -> tres coma catorce (o "tres con catorce")
+  0,5    -> cero coma cinco
+  12,075 -> doce coma cero setenta y cinco
+
+Posiciones decimales: décimas (0,1), centésimas (0,01), milésimas
+(0,001)...
+
+1.6 Tipos de números (conjuntos numéricos)
+------------------------------------------
+  - Naturales (N): 0, 1, 2, 3, ... (para contar). Algunos autores
+    empiezan en 1.
+  - Enteros (Z): ..., -3, -2, -1, 0, 1, 2, 3, ... (incluyen negativos).
+  - Racionales (Q): se pueden escribir como fracción a/b (b distinto
+    de 0). Incluyen 1/2, -3/4, 0,25 y también 0,333... (periódico).
+  - Irracionales: no se pueden escribir como fracción; sus decimales
+    no terminan ni se repiten. Ejemplos: pi (3,14159...), raíz de 2
+    (1,41421...), e (2,71828...).
+  - Reales (R): racionales + irracionales; todos los puntos de la
+    recta numérica.
+  - Complejos (C): a + bi, donde i = raíz de -1.
+
+Relación: N está en Z, Z en Q, Q en R, R en C.
+
+1.7 La recta numérica
+---------------------
+Los números se pueden ubicar en una línea: los mayores a la derecha,
+los menores a la izquierda. El 0 es el origen. La distancia de un
+número al 0 se llama VALOR ABSOLUTO: |-5| = 5, |5| = 5.
+
+1.8 Comparar y ordenar
+----------------------
+Símbolos: > (mayor que), < (menor que), = (igual), >= , <=.
+  Ejemplo: 7 > 3; -2 < 1; 0,5 = 1/2.
+Para comparar números naturales: gana el que tiene más cifras; si
+tienen las mismas, se comparan cifra a cifra desde la izquierda.
+
+1.9 Redondeo y aproximación
+---------------------------
+Para redondear a cierta posición, se mira la cifra siguiente: si es 5
+o más, se sube; si es menor que 5, se deja igual.
+  3,276 redondeado a las centésimas = 3,28
+  3,276 redondeado a las décimas   = 3,3
+  3,276 redondeado a la unidad     = 3
+
+1.10 Otros sistemas de numeración
+---------------------------------
+  - Romano: I=1, V=5, X=10, L=50, C=100, D=500, M=1000. Se suma
+    (VI=6) y se resta cuando un símbolo menor va antes (IV=4, IX=9,
+    XL=40, CM=900). No es posicional y no tiene cero.
+  - Binario (base 2): solo 0 y 1. Base de las computadoras.
+    Ejemplo: 1011 (binario) = 1x8 + 0x4 + 1x2 + 1x1 = 11.
+  - Octal (base 8) y hexadecimal (base 16, con dígitos 0-9 y A-F;
+    A=10, B=11 ... F=15). Ejemplo: 2F (hex) = 2x16 + 15 = 47.
+  - Maya (base 20) y babilónico (base 60; de él heredamos las 60
+    unidades de la hora y los minutos).
+
+Conversión de decimal a binario: dividir sucesivamente entre 2 y leer
+los residuos de abajo hacia arriba.
+  13 / 2 = 6 resto 1
+   6 / 2 = 3 resto 0
+   3 / 2 = 1 resto 1
+   1 / 2 = 0 resto 1
+  Lectura ascendente: 1101. Así, 13 = 1101 en binario.
+
+
+##############################################################
+NIVEL 2. OPERACIONES BÁSICAS
+##############################################################
+
+2.1 Suma (adición)
+------------------
+Juntar cantidades. Términos: sumandos y suma o total.
+  Propiedades: conmutativa (a + b = b + a), asociativa
+  ((a + b) + c = a + (b + c)), elemento neutro (a + 0 = a).
+  Suma "llevando": en 478 + 256, 8 + 6 = 14 (escribo 4, llevo 1);
+  7 + 5 + 1 = 13 (escribo 3, llevo 1); 4 + 2 + 1 = 7. Resultado: 734.
+
+2.2 Resta (sustracción)
+-----------------------
+Quitar una cantidad de otra. Términos: minuendo - sustraendo =
+diferencia. Es la operación inversa de la suma. No es conmutativa:
+5 - 3 no es igual a 3 - 5.
+  Resta "prestando": 52 - 27. En las unidades, 2 no alcanza para
+  restar 7: pido una decena prestada y queda 12 - 7 = 5; en las
+  decenas queda 4 - 2 = 2. Resultado: 25.
+
+2.3 Multiplicación
+------------------
+Suma repetida: 4 x 3 = 4 + 4 + 4 = 12. Términos: factores y producto.
+  Propiedades: conmutativa, asociativa, elemento neutro (a x 1 = a),
+  elemento absorbente (a x 0 = 0), distributiva
+  (a x (b + c) = a x b + a x c).
+  Tablas de multiplicar: memorizarlas ahorra mucho esfuerzo.
+  Truco del 9: 9 x n = 10 x n - n. Ejemplo: 9 x 7 = 70 - 7 = 63.
+  Multiplicar por 10, 100, 1000: se agregan ceros (o se corre la
+  coma).
+
+2.3.1 Multiplicación larga
+  23 x 14:
+    23 x 4  =  92
+    23 x 10 = 230
+    suma    = 322
+
+2.4 División
+------------
+Repartir o agrupar. Términos: dividendo / divisor = cociente (y
+resto). Es la operación inversa de la multiplicación.
+  17 / 5 = 3 con resto 2, porque 5 x 3 + 2 = 17.
+  Nunca se puede dividir entre cero (no tiene sentido).
+  Criterios de divisibilidad:
+    entre 2: termina en cifra par.
+    entre 3: la suma de sus cifras es múltiplo de 3.
+    entre 5: termina en 0 o 5.
+    entre 9: la suma de sus cifras es múltiplo de 9.
+    entre 10: termina en 0.
+
+2.5 Orden de las operaciones (jerarquía)
+----------------------------------------
+Se resuelve en este orden:
+  1) Paréntesis (y corchetes, llaves)
+  2) Potencias y raíces
+  3) Multiplicaciones y divisiones (de izquierda a derecha)
+  4) Sumas y restas (de izquierda a derecha)
+Ejemplo: 2 + 3 x 4 = 2 + 12 = 14 (no 20).
+Ejemplo: (2 + 3) x 4 = 20.
+
+2.6 Múltiplos, divisores, primos, MCD y MCM
+-------------------------------------------
+  - Múltiplos de 4: 4, 8, 12, 16... Divisores de 12: 1, 2, 3, 4, 6, 12.
+  - Número primo: tiene solo dos divisores (1 y él mismo): 2, 3, 5,
+    7, 11, 13... El 1 no es primo. El 2 es el único primo par.
+  - Número compuesto: tiene más de dos divisores.
+  - Descomposición en factores primos: 60 = 2 x 2 x 3 x 5 = 2^2 x 3 x 5.
+  - MCD (máximo común divisor): el mayor divisor común.
+    MCD(12, 18) = 6.
+  - MCM (mínimo común múltiplo): el menor múltiplo común.
+    MCM(4, 6) = 12. Sirve para sumar fracciones con distinto
+    denominador.
+
+
+##############################################################
+NIVEL 3. FRACCIONES, DECIMALES Y PORCENTAJES
+##############################################################
+
+3.1 Fracciones
+--------------
+Una fracción a/b representa "a partes de b partes iguales".
+  a = numerador (cuántas partes se toman)
+  b = denominador (en cuántas partes se divide el entero)
+Tipos: propia (numerador < denominador, ej. 3/4), impropia (mayor o
+igual, ej. 7/4), número mixto (1 3/4).
+Equivalentes: 1/2 = 2/4 = 3/6. Se obtienen multiplicando o dividiendo
+numerador y denominador por el mismo número.
+Simplificar: dividir por el MCD. 12/18 = 2/3.
+
+3.2 Operaciones con fracciones
+------------------------------
+  Suma/resta con igual denominador: se suman los numeradores.
+    2/7 + 3/7 = 5/7.
+  Con distinto denominador: se busca denominador común (MCM).
+    1/2 + 1/3 = 3/6 + 2/6 = 5/6.
+  Multiplicación: numerador por numerador, denominador por
+    denominador. 2/3 x 4/5 = 8/15.
+  División: se multiplica por el inverso de la segunda.
+    (2/3) / (4/5) = 2/3 x 5/4 = 10/12 = 5/6.
+
+3.3 Decimales
+-------------
+Fracción a decimal: dividir numerador entre denominador.
+  1/4 = 0,25;  1/3 = 0,333... (periódico puro).
+Decimal a fracción: 0,75 = 75/100 = 3/4.
+Suma y resta: alinear las comas. Multiplicación: multiplicar como
+enteros y colocar la coma sumando los decimales de ambos factores.
+
+3.4 Porcentajes
+---------------
+Un porcentaje es una fracción de denominador 100. 25% = 25/100 = 0,25.
+  Calcular el 20% de 150: 150 x 0,20 = 30.
+  Aumento del 15% sobre 80: 80 x 1,15 = 92.
+  Descuento del 30% sobre 200: 200 x 0,70 = 140.
+  ¿Qué porcentaje es 18 de 60? 18/60 = 0,3 = 30%.
+  Cuidado: un aumento del 50% seguido de una baja del 50% NO
+  devuelve al valor original (100 -> 150 -> 75).
+
+3.5 Razones y proporciones
+--------------------------
+Razón: comparación entre dos cantidades (a:b o a/b).
+Proporción: igualdad de dos razones: a/b = c/d, y se cumple a x d =
+b x c (producto cruzado).
+Regla de tres simple directa: si 3 kg cuestan $12, ¿cuánto cuestan
+5 kg? 3/12 = 5/x -> x = 12 x 5 / 3 = $20.
+Regla de tres inversa: si 4 obreros tardan 6 días, ¿cuánto tardan 8?
+4 x 6 = 8 x x -> x = 3 días.
+
+
+##############################################################
+NIVEL 4. NÚMEROS NEGATIVOS, POTENCIAS Y RAÍCES
+##############################################################
+
+4.1 Números enteros y signos
+----------------------------
+  - Negativos: valores menores que cero (deuda, temperaturas bajo
+    cero, profundidad).
+  - Suma: mismos signos, se suman y se conserva el signo
+    (-3) + (-4) = -7. Signos distintos, se restan los valores
+    absolutos y se pone el signo del mayor: (-3) + 5 = 2.
+  - Restar es sumar el opuesto: 5 - (-2) = 5 + 2 = 7.
+  - Multiplicación y división (regla de signos):
+      (+)(+) = +    (-)(-) = +
+      (+)(-) = -    (-)(+) = -
+
+4.2 Potencias
+-------------
+a^n = a x a x ... x a (n veces). "a" es la base y "n" el exponente.
+  Propiedades:
+    a^m x a^n = a^(m+n)
+    a^m / a^n = a^(m-n)
+    (a^m)^n = a^(m x n)
+    (a x b)^n = a^n x b^n
+    a^0 = 1 (si a no es 0)
+    a^(-n) = 1 / a^n
+  Notación científica: 3.400.000 = 3,4 x 10^6; 0,00052 = 5,2 x 10^-4.
+  Muy útil en física, química y astronomía.
+
+4.3 Raíces
+----------
+La raíz n-ésima de a es el número que elevado a n da a.
+  raíz cuadrada de 49 = 7 (porque 7^2 = 49).
+  raíz cúbica de 27 = 3.
+  Se pueden escribir como potencias fraccionarias: raíz de a = a^(1/2).
+  La raíz cuadrada de un número negativo no existe en los reales
+  (se introducen los números complejos para ella).
+  Racionalizar: eliminar raíces del denominador.
+  1/raíz(2) = raíz(2)/2.
+
+4.4 Logaritmos (introducción)
+-----------------------------
+log_b(x) = y significa b^y = x. Es la operación inversa de la
+potencia. log_10(1000) = 3 porque 10^3 = 1000.
+Propiedades: log(xy) = log x + log y; log(x/y) = log x - log y;
+log(x^k) = k log x.
+Logaritmo natural (ln): base e ≈ 2,718. Aparece en crecimiento
+exponencial, escalas de pH, decibelios y magnitud sísmica.
+
+
+##############################################################
+NIVEL 5. ÁLGEBRA
+##############################################################
+
+5.1 Lenguaje algebraico
+-----------------------
+Se usan letras (variables o incógnitas) para representar números
+desconocidos o generales. Ejemplo: "el doble de un número más 3" se
+escribe 2x + 3.
+  Término: 5x^2. Coeficiente: 5. Parte literal: x^2. Grado: 2.
+  Expresión algebraica: combinación de términos con operaciones.
+  Términos semejantes tienen la misma parte literal y se pueden
+  sumar: 3x + 2x = 5x.
+
+5.2 Ecuaciones de primer grado
+------------------------------
+Una ecuación es una igualdad con una incógnita. Se resuelve
+manteniendo el equilibrio: lo que se hace a un lado, se hace al otro.
+  3x + 5 = 20
+  3x = 15   (restar 5)
+  x = 5     (dividir entre 3)
+Comprobación: 3(5) + 5 = 20.
+
+5.3 Sistemas de ecuaciones
+--------------------------
+Varias ecuaciones con varias incógnitas. Métodos: sustitución,
+igualación, reducción (eliminación), gráfico.
+  x + y = 10
+  x - y = 2
+  Sumando: 2x = 12 -> x = 6; luego y = 4.
+
+5.4 Productos notables y factorización
+--------------------------------------
+  (a + b)^2 = a^2 + 2ab + b^2
+  (a - b)^2 = a^2 - 2ab + b^2
+  (a + b)(a - b) = a^2 - b^2
+  (a + b)^3 = a^3 + 3a^2 b + 3a b^2 + b^3
+Factorizar es escribir una expresión como producto:
+  x^2 - 9 = (x + 3)(x - 3)
+  x^2 + 5x + 6 = (x + 2)(x + 3)
+  6x + 9 = 3(2x + 3) (factor común)
+
+5.5 Ecuaciones de segundo grado
+-------------------------------
+ax^2 + bx + c = 0.
+Fórmula general: x = (-b ± raíz(b^2 - 4ac)) / (2a).
+Discriminante D = b^2 - 4ac: si D > 0, dos soluciones reales; D = 0,
+una doble; D < 0, dos complejas conjugadas.
+Ejemplo: x^2 - 5x + 6 = 0 -> D = 25 - 24 = 1 ->
+x = (5 ± 1)/2 -> x = 3 o x = 2.
+Relaciones de Vieta: suma de raíces = -b/a; producto = c/a.
+
+5.6 Desigualdades
+-----------------
+Se resuelven como ecuaciones, pero al multiplicar o dividir por un
+número negativo se invierte el sentido.
+  -2x < 8 -> x > -4.
+
+5.7 Polinomios
+--------------
+Expresiones como 2x^3 - x + 4. Se pueden sumar, multiplicar y dividir.
+Teorema del resto: el resto de dividir P(x) entre (x - a) es P(a).
+Teorema fundamental del álgebra: un polinomio de grado n tiene
+exactamente n raíces complejas (contando multiplicidad).
+
+5.8 Funciones (idea básica)
+---------------------------
+Una función asigna a cada valor de entrada x exactamente un valor de
+salida f(x). Se representa con tablas, fórmulas o gráficas.
+  Lineal: f(x) = mx + b (recta; m = pendiente, b = ordenada en el
+  origen).
+  Cuadrática: f(x) = ax^2 + bx + c (parábola).
+  Exponencial: f(x) = a^x. Logarítmica: inversa de la exponencial.
+  Dominio: valores posibles de x. Rango: valores posibles de f(x).
+
+
+##############################################################
+NIVEL 6. GEOMETRÍA
+##############################################################
+
+6.1 Elementos básicos
+---------------------
+Punto (sin dimensión), recta (infinita, 1 dimensión), plano (2
+dimensiones), segmento, semirrecta. Ángulos: agudo (< 90°), recto
+(90°), obtuso (> 90°), llano (180°), completo (360°).
+
+6.2 Figuras planas
+------------------
+  Triángulo: suma de ángulos internos = 180°. Área = base x altura / 2.
+    Clasificación: equilátero, isósceles, escaleno; acutángulo,
+    rectángulo, obtusángulo.
+  Cuadrado: área = lado^2; perímetro = 4 lado.
+  Rectángulo: área = base x altura.
+  Paralelogramo: base x altura. Rombo: (D x d)/2. Trapecio:
+    (B + b) x h / 2.
+  Círculo: perímetro (circunferencia) = 2 pi r; área = pi r^2.
+  Polígono regular: suma de ángulos interiores = (n - 2) x 180°.
+
+6.3 Teorema de Pitágoras
+------------------------
+En un triángulo rectángulo: a^2 + b^2 = c^2 (c es la hipotenusa).
+Ejemplo: catetos 3 y 4 -> hipotenusa 5. Ternas pitagóricas: (3,4,5),
+(5,12,13), (8,15,17).
+Semejanza de triángulos y Teorema de Tales: segmentos proporcionales
+entre rectas paralelas.
+
+6.4 Cuerpos geométricos
+-----------------------
+  Cubo: V = a^3; área total = 6a^2.
+  Prisma: V = área de la base x altura.
+  Cilindro: V = pi r^2 h.
+  Cono: V = (1/3) pi r^2 h.
+  Pirámide: V = (1/3) área base x h.
+  Esfera: V = (4/3) pi r^3; área = 4 pi r^2.
+  Poliedros regulares (sólidos platónicos): tetraedro, cubo,
+  octaedro, dodecaedro, icosaedro. Fórmula de Euler: V - A + C = 2.
+
+6.5 Geometría analítica
+-----------------------
+Combina álgebra y geometría con coordenadas cartesianas (x, y).
+  Distancia entre dos puntos: d = raíz((x2-x1)^2 + (y2-y1)^2).
+  Punto medio: ((x1+x2)/2, (y1+y2)/2).
+  Pendiente: m = (y2 - y1)/(x2 - x1). Rectas paralelas: igual
+  pendiente. Perpendiculares: m1 x m2 = -1.
+  Circunferencia: (x - h)^2 + (y - k)^2 = r^2.
+  Cónicas: parábola, elipse, hipérbola (secciones de un cono).
+
+6.6 Geometrías no euclidianas
+-----------------------------
+Euclides se basa en postulados, entre ellos el de las paralelas. Si
+se cambia ese postulado aparecen la geometría esférica (la suma de
+ángulos de un triángulo supera 180°) y la hiperbólica (es menor). La
+relatividad general usa geometría de espacios curvos.
+
+
+##############################################################
+NIVEL 7. TRIGONOMETRÍA Y FUNCIONES
+##############################################################
+
+7.1 Razones trigonométricas
+---------------------------
+En un triángulo rectángulo con ángulo agudo A:
+  sen A = cateto opuesto / hipotenusa
+  cos A = cateto adyacente / hipotenusa
+  tan A = cateto opuesto / cateto adyacente = sen A / cos A
+  (SOH-CAH-TOA como regla mnemotécnica)
+Valores notables:
+  Ángulo   0°    30°     45°     60°    90°
+  sen      0     1/2     √2/2    √3/2   1
+  cos      1     √3/2    √2/2    1/2    0
+  tan      0     √3/3    1       √3     (indefinida)
+
+7.2 Círculo unitario y radianes
+-------------------------------
+Un radián es el ángulo cuyo arco mide igual que el radio.
+180° = pi rad. Para convertir: grados x pi/180 = radianes.
+En el círculo de radio 1, un punto a ángulo t tiene coordenadas
+(cos t, sen t). Eso extiende las razones a cualquier ángulo.
+
+7.3 Identidades fundamentales
+-----------------------------
+  sen^2 x + cos^2 x = 1
+  sen(a ± b) = sen a cos b ± cos a sen b
+  cos(a ± b) = cos a cos b ∓ sen a sen b
+  sen 2x = 2 sen x cos x
+  cos 2x = cos^2 x - sen^2 x
+Ley de senos: a/sen A = b/sen B = c/sen C.
+Ley de cosenos: c^2 = a^2 + b^2 - 2ab cos C.
+
+7.4 Funciones periódicas
+------------------------
+sen y cos son periódicas (periodo 2 pi) y describen ondas, vibraciones
+y señales. Amplitud, periodo, frecuencia y fase son sus parámetros:
+f(t) = A sen(2 pi f t + fase).
+
+7.5 Funciones: transformaciones y composición
+---------------------------------------------
+  f(x) + k desplaza hacia arriba; f(x - h) desplaza a la derecha;
+  a f(x) estira verticalmente; f(-x) refleja.
+  Composición: (f o g)(x) = f(g(x)).
+  Inversa: f^-1 deshace a f (si f es biyectiva).
+  Función par: f(-x) = f(x); impar: f(-x) = -f(x).
+
+7.6 Números complejos
+---------------------
+i = raíz de -1; i^2 = -1. Un complejo es z = a + bi. Se representa
+en el plano complejo. Módulo |z| = raíz(a^2 + b^2). Forma polar:
+z = r (cos θ + i sen θ).
+Fórmula de Euler: e^(iθ) = cos θ + i sen θ.
+Identidad de Euler: e^(i pi) + 1 = 0, que une 0, 1, e, i y pi.
+
+
+##############################################################
+NIVEL 8. CÁLCULO
+##############################################################
+
+8.1 Límites
+-----------
+El límite describe a qué valor se acerca f(x) cuando x se acerca a
+un punto a: lim(x->a) f(x) = L.
+  lim(x->2) (x^2) = 4.
+  Formas indeterminadas: 0/0, infinito/infinito. Se resuelven
+  factorizando, racionalizando o con la regla de L'Hôpital.
+  Límite notable: lim(x->0) sen(x)/x = 1.
+Continuidad: f es continua en a si lim(x->a) f(x) = f(a).
+
+8.2 Derivadas
+-------------
+La derivada mide la tasa de cambio instantánea:
+  f'(x) = lim(h->0) [f(x + h) - f(x)] / h.
+Interpretación geométrica: pendiente de la recta tangente.
+Interpretación física: velocidad es la derivada de la posición;
+aceleración, la derivada de la velocidad.
+
+Reglas:
+  (c)' = 0;   (x^n)' = n x^(n-1)
+  (sen x)' = cos x;   (cos x)' = -sen x
+  (e^x)' = e^x;   (ln x)' = 1/x;   (a^x)' = a^x ln a
+  Suma: (f + g)' = f' + g'
+  Producto: (f g)' = f' g + f g'
+  Cociente: (f/g)' = (f' g - f g') / g^2
+  Cadena: (f(g(x)))' = f'(g(x)) g'(x)
+Ejemplo: f(x) = x^3 - 2x -> f'(x) = 3x^2 - 2.
+
+Aplicaciones: máximos y mínimos (f'(x) = 0), crecimiento y
+decrecimiento, concavidad (segunda derivada), optimización,
+razones de cambio relacionadas, aproximación lineal.
+
+8.3 Integrales
+--------------
+La integral definida mide acumulación: el área bajo la curva.
+  ∫[a,b] f(x) dx.
+La integral indefinida es la antiderivada: ∫ f(x) dx = F(x) + C.
+Teorema Fundamental del Cálculo: si F' = f, entonces
+  ∫[a,b] f(x) dx = F(b) - F(a).
+Integrales básicas:
+  ∫ x^n dx = x^(n+1)/(n + 1) + C  (n ≠ -1)
+  ∫ 1/x dx = ln|x| + C
+  ∫ e^x dx = e^x + C
+  ∫ sen x dx = -cos x + C;  ∫ cos x dx = sen x + C
+Técnicas: sustitución, integración por partes
+(∫u dv = uv - ∫v du), fracciones parciales, sustitución
+trigonométrica.
+Ejemplo: ∫[0,2] x^2 dx = [x^3/3] de 0 a 2 = 8/3.
+Aplicaciones: áreas, volúmenes de sólidos de revolución, longitud de
+curvas, trabajo, probabilidad (densidades), centros de masa.
+
+8.4 Series y sucesiones
+-----------------------
+Sucesión: lista ordenada de números a1, a2, a3...
+  Aritmética: an = a1 + (n - 1)d. Geométrica: an = a1 r^(n-1).
+Serie: suma de términos. La serie geométrica converge si |r| < 1:
+  suma = a1 / (1 - r).
+Series de Taylor: aproximan funciones con polinomios:
+  e^x = 1 + x + x^2/2! + x^3/3! + ...
+  sen x = x - x^3/3! + x^5/5! - ...
+Criterios de convergencia: razón, raíz, comparación, integral.
+
+8.5 Cálculo multivariable
+-------------------------
+Funciones de varias variables f(x, y, z). Derivadas parciales,
+gradiente (dirección de máximo crecimiento), integrales dobles y
+triples, integrales de línea y de superficie. Teoremas de Green,
+Stokes y de la divergencia, que generalizan el Teorema Fundamental.
+
+8.6 Ecuaciones diferenciales
+----------------------------
+Relacionan una función con sus derivadas. Modelan fenómenos de
+cambio.
+  Crecimiento/decaimiento: dy/dt = k y -> y = y0 e^(kt).
+  Oscilador armónico: y'' + w^2 y = 0 -> y = A cos(wt) + B sen(wt).
+  Se clasifican en ordinarias (EDO) y en derivadas parciales (EDP):
+  ecuación de calor, de ondas, de Laplace, de Schrödinger.
+
+
+##############################################################
+NIVEL 9. ÁLGEBRA LINEAL
+##############################################################
+
+9.1 Vectores
+------------
+Un vector tiene magnitud, dirección y sentido. En coordenadas:
+v = (v1, v2, v3). Operaciones: suma, multiplicación por escalar,
+producto punto (a . b = |a||b|cos θ; da un escalar) y producto
+cruz (a x b, perpendicular a ambos, solo en 3D).
+
+9.2 Matrices
+------------
+Tabla rectangular de números. Se suman elemento a elemento. El
+producto matricial A·B es fila por columna; NO es conmutativo.
+  Identidad I: A·I = A.  Inversa A^-1: A·A^-1 = I.
+  Transpuesta: se intercambian filas por columnas.
+Sistemas de ecuaciones lineales se escriben A x = b y se resuelven
+por eliminación de Gauss-Jordan.
+
+9.3 Determinante
+----------------
+Para una matriz 2x2 [[a, b], [c, d]]: det = ad - bc. Si el
+determinante es 0, la matriz no tiene inversa. Geométricamente, mide
+el factor de cambio de área/volumen de la transformación.
+
+9.4 Espacios vectoriales
+------------------------
+Conjuntos donde se pueden sumar vectores y multiplicarlos por
+escalares cumpliendo ciertos axiomas. Conceptos clave: combinación
+lineal, independencia lineal, base, dimensión, subespacio, núcleo e
+imagen de una transformación lineal, rango.
+
+9.5 Autovalores y autovectores
+------------------------------
+A v = λ v: el vector v solo se estira por λ al aplicar A. Se hallan
+resolviendo det(A - λI) = 0. Aplicaciones: vibraciones, PCA y
+reducción de dimensiones, PageRank de Google, mecánica cuántica
+(observables como operadores), estabilidad de sistemas.
+
+9.6 Diagonalización y descomposiciones
+--------------------------------------
+Si A = P D P^-1 con D diagonal, calcular potencias de A es sencillo.
+Otras: descomposición SVD, LU, QR. Fundamentales en aprendizaje
+automático y gráficos por computadora.
+
+
+##############################################################
+NIVEL 10. PROBABILIDAD Y ESTADÍSTICA
+##############################################################
+
+10.1 Estadística descriptiva
+----------------------------
+  Media = suma / n.  Mediana = valor central. Moda = el más frecuente.
+  Rango = máximo - mínimo.
+  Varianza = promedio de las desviaciones al cuadrado respecto a la
+  media; desviación estándar = su raíz cuadrada.
+  Gráficos: histograma, diagrama de caja, dispersión.
+  Cuartiles y percentiles.
+
+10.2 Probabilidad
+-----------------
+P(evento) = casos favorables / casos posibles (si son equiprobables).
+Siempre entre 0 y 1.
+  Complemento: P(no A) = 1 - P(A).
+  Unión: P(A o B) = P(A) + P(B) - P(A y B).
+  Independencia: P(A y B) = P(A) P(B).
+  Condicional: P(A|B) = P(A y B) / P(B).
+  Bayes: P(A|B) = P(B|A) P(A) / P(B).
+Ejemplo: probabilidad de obtener dos caras al lanzar 2 monedas = 1/4.
+
+10.3 Combinatoria
+-----------------
+  Permutaciones de n objetos: n! = n(n-1)...1.
+  Variaciones: n!/(n-k)! (importa el orden).
+  Combinaciones: C(n,k) = n!/(k!(n-k)!) (no importa el orden).
+  Ejemplo: elegir 3 personas de 10: C(10,3) = 120.
+
+10.4 Variables aleatorias y distribuciones
+------------------------------------------
+  Discretas: binomial, Poisson, geométrica.
+  Continuas: uniforme, exponencial, normal (campana de Gauss).
+  Valor esperado E[X] y varianza Var[X].
+  Regla empírica de la normal: ≈68% dentro de 1 desviación estándar,
+  95% dentro de 2, 99,7% dentro de 3.
+  Ley de los grandes números y Teorema del Límite Central: la suma
+  de muchas variables independientes tiende a distribuirse
+  normalmente.
+
+10.5 Estadística inferencial
+----------------------------
+Estimar parámetros poblacionales a partir de muestras. Intervalos de
+confianza, pruebas de hipótesis (hipótesis nula, nivel de
+significación, valor p), regresión lineal, correlación (no implica
+causalidad), análisis de varianza, estadística bayesiana.
+
+
+##############################################################
+NIVEL 11. MATEMÁTICA DISCRETA Y TEORÍA DE NÚMEROS
+##############################################################
+
+11.1 Lógica y demostraciones
+----------------------------
+  Proposiciones y conectivos: y (∧), o (∨), no (¬), implica (→),
+  si y solo si (↔). Cuantificadores: para todo (∀), existe (∃).
+  Métodos de demostración: directa, por contradicción (reducción al
+  absurdo), contrapositiva, inducción matemática, por casos.
+  Ejemplo clásico: la raíz de 2 es irracional (por contradicción).
+  Inducción: probar el caso base y que si vale para n entonces vale
+  para n + 1.
+
+11.2 Conjuntos
+--------------
+  Unión, intersección, diferencia, complemento, producto cartesiano,
+  conjunto potencia. Cardinalidad: Cantor demostró que hay infinitos
+  de distintos tamaños (los reales son "más numerosos" que los
+  naturales).
+
+11.3 Teoría de números
+----------------------
+  Infinitud de primos (Euclides). Teorema fundamental de la
+  aritmética. Algoritmo de Euclides para el MCD.
+  Aritmética modular: a ≡ b (mod n) si n divide a - b. Base de
+  relojes, checksum y criptografía.
+  Pequeño teorema de Fermat: si p es primo, a^p ≡ a (mod p).
+  RSA: se apoya en la dificultad de factorizar números grandes.
+  Problemas abiertos: conjetura de Goldbach, primos gemelos,
+  hipótesis de Riemann.
+
+11.4 Grafos y combinatoria
+--------------------------
+Un grafo tiene vértices y aristas. Conceptos: caminos, ciclos,
+árboles, conectividad, coloración, grafos planares. Problema de los
+puentes de Königsberg (Euler) origina la teoría de grafos. Teorema de
+los cuatro colores.
+
+11.5 Relaciones de recurrencia
+------------------------------
+Sucesiones definidas por términos previos. Fibonacci: F(n) = F(n-1)
++ F(n-2). Fórmula cerrada de Binet con la razón áurea
+φ = (1 + √5)/2 ≈ 1,618.
+
+
+##############################################################
+NIVEL 12. MATEMÁTICA AVANZADA
+##############################################################
+
+12.1 Análisis real
+------------------
+Fundamenta el cálculo con rigor. Definición épsilon-delta de límite:
+lim f(x) = L si para todo ε > 0 existe δ > 0 tal que
+0 < |x - a| < δ implica |f(x) - L| < ε.
+Temas: completitud de los reales, sucesiones de Cauchy, continuidad
+uniforme, convergencia uniforme, teoría de la medida e integral de
+Lebesgue, espacios de Banach y de Hilbert.
+
+12.2 Análisis complejo
+----------------------
+Funciones holomorfas (derivables en sentido complejo). Ecuaciones de
+Cauchy-Riemann, teorema integral de Cauchy, residuos, series de
+Laurent, aplicaciones a integrales reales y a la teoría de números
+(función zeta de Riemann).
+
+12.3 Álgebra abstracta
+----------------------
+Estudia estructuras con operaciones:
+  Grupo: conjunto con una operación asociativa, elemento neutro e
+  inversos (ejemplos: enteros con la suma, rotaciones de un cuadrado,
+  permutaciones). Teorema de Lagrange.
+  Anillo: dos operaciones (suma y producto), como los enteros o los
+  polinomios.
+  Cuerpo: anillo donde se puede dividir (racionales, reales,
+  complejos, cuerpos finitos).
+  Teoría de Galois: explica por qué no existe fórmula general con
+  radicales para ecuaciones de quinto grado o superior.
+
+12.4 Topología
+--------------
+Estudia propiedades que se conservan bajo deformaciones continuas
+(sin cortar ni pegar). "Una taza y una dona son equivalentes
+topológicamente." Conceptos: espacio topológico, abiertos, compacidad,
+conexidad, homotopía, grupo fundamental, variedades. Conjetura de
+Poincaré (demostrada por Perelman).
+
+12.5 Geometría diferencial
+--------------------------
+Cálculo en superficies y variedades curvas: curvatura, geodésicas,
+tensores. Es el lenguaje matemático de la relatividad general.
+
+12.6 Ecuaciones en derivadas parciales y análisis numérico
+-----------------------------------------------------------
+Modelan calor, ondas, fluidos (Navier-Stokes), electromagnetismo. El
+análisis numérico crea algoritmos para aproximarlas
+(diferencias finitas, elementos finitos).
+
+12.7 Teoría de la computación y lógica matemática
+-------------------------------------------------
+Máquinas de Turing, computabilidad, complejidad (P vs NP), teoremas
+de incompletitud de Gödel: en todo sistema formal consistente que
+contenga la aritmética hay enunciados verdaderos que no se pueden
+demostrar dentro del sistema.
+
+12.8 Problemas famosos y abiertos
+---------------------------------
+  Último teorema de Fermat (demostrado por Wiles, 1995).
+  P vs NP, hipótesis de Riemann, conjetura de Hodge, existencia y
+  suavidad de Navier-Stokes (Problemas del Milenio del Instituto
+  Clay; solo la conjetura de Poincaré ha sido resuelta).
+
+
+##############################################################
+CONSEJOS PARA ESTUDIAR MATEMÁTICAS
+##############################################################
+  1. No te saltes niveles: cada tema se apoya en el anterior.
+  2. Practica mucho: la matemática se aprende resolviendo problemas.
+  3. Entiende el porqué, no solo el procedimiento.
+  4. Dibuja y visualiza (gráficas, diagramas, geometría).
+  5. Revisa tus errores: son la mejor fuente de aprendizaje.
+  6. Explica el tema con tus palabras a alguien más.
+  7. Verifica resultados (estimación, sustitución, sentido común).
+==============================================================

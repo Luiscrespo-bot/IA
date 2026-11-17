@@ -1,0 +1,523 @@
+==============================================================
+MÉTODO CIENTÍFICO Y PENSAMIENTO CRÍTICO
+==============================================================
+
+ÍNDICE
+  1. ¿Qué es la ciencia?
+  2. El método científico paso a paso
+  3. Hipótesis, teorías y leyes
+  4. Diseño de experimentos
+  5. Medición, datos y estadística básica
+  6. Correlación, causalidad y tipos de estudio
+  7. Historia y filosofía de la ciencia
+  8. Pseudociencia y ciencia
+  9. Pensamiento crítico: qué es y cómo se practica
+  10. Lógica y argumentación
+  11. Falacias lógicas
+  12. Sesgos cognitivos
+  13. Evaluación de fuentes y desinformación
+  14. Pensamiento estadístico y probabilístico
+  15. Ética científica
+  16. Resolución de problemas y toma de decisiones
+  17. Ejercicios y hábitos
+
+
+##############################################################
+1. ¿QUÉ ES LA CIENCIA?
+##############################################################
+La ciencia es un conjunto de conocimientos sistemáticos y un modo
+de investigar el mundo natural y social basado en la observación,
+la evidencia, la razón y la revisión constante.
+No es un cuerpo fijo de verdades, sino un proceso de corrección de
+errores. Su fuerza no está en la autoridad, sino en que sus
+afirmaciones pueden ser puestas a prueba por cualquiera.
+
+Características:
+  - Empírica: se apoya en observaciones y datos.
+  - Racional y lógica.
+  - Sistemática y organizada.
+  - Objetiva (busca reducir sesgos personales).
+  - Verificable y replicable.
+  - Falible y provisional: acepta que puede estar equivocada.
+  - Acumulativa y autocorrectiva.
+  - Pública: se comunica y se somete a la crítica de pares.
+
+Clasificación:
+  Ciencias formales (lógica, matemática): demuestran a partir de
+  axiomas.
+  Ciencias naturales (física, química, biología, geología,
+  astronomía).
+  Ciencias sociales (psicología, sociología, economía,
+  antropología).
+  Ciencias aplicadas y tecnología (ingeniería, medicina).
+Ciencia básica (busca conocimiento) y aplicada (busca
+soluciones).
+
+
+##############################################################
+2. EL MÉTODO CIENTÍFICO PASO A PASO
+##############################################################
+No existe un único método rígido, pero el esquema general es:
+
+  1. OBSERVACIÓN: se nota un fenómeno o un problema.
+  2. PREGUNTA: se formula una pregunta específica y respondible.
+     Ej.: ¿La luz influye en el crecimiento de las plantas?
+  3. INVESTIGACIÓN PREVIA: revisar lo que ya se sabe.
+  4. HIPÓTESIS: respuesta tentativa y comprobable.
+     Ej.: "Las plantas expuestas a más horas de luz crecerán más."
+  5. PREDICCIÓN: consecuencia lógica ("si... entonces...").
+  6. EXPERIMENTO u observación controlada para probarla.
+  7. RECOLECCIÓN DE DATOS.
+  8. ANÁLISIS de resultados (estadística, gráficos).
+  9. CONCLUSIÓN: ¿los datos apoyan o refutan la hipótesis?
+  10. COMUNICACIÓN: informe, artículo, revisión por pares.
+  11. REPLICACIÓN y refinamiento: otros repiten el estudio; la
+      hipótesis se ajusta y se vuelve a probar.
+
+Métodos: inductivo (de casos particulares a generalidades),
+deductivo (de principios generales a consecuencias),
+hipotético-deductivo (formular hipótesis, deducir predicciones,
+contrastarlas), abductivo (inferencia a la mejor explicación).
+
+
+##############################################################
+3. HIPÓTESIS, TEORÍAS Y LEYES
+##############################################################
+  Hipótesis: explicación provisional y contrastable.
+    Debe ser clara, específica y falsable.
+  Hipótesis nula (H0: no hay efecto) e hipótesis alternativa (H1).
+  Falsabilidad (Karl Popper): una afirmación es científica si
+  existe alguna observación posible que podría mostrar que es
+  falsa. "Mañana lloverá o no lloverá" no es falsable; "el agua
+  hierve a 100 °C a nivel del mar" sí.
+  Ley científica: descripción (a menudo matemática) de una
+  regularidad observada (ley de la gravitación, leyes de los
+  gases).
+  Teoría científica: explicación amplia, bien confirmada por
+  múltiples líneas de evidencia, que integra hechos, leyes e
+  hipótesis comprobadas (teoría de la evolución, teoría atómica,
+  tectónica de placas, teoría celular, relatividad).
+  OJO: en el lenguaje cotidiano "teoría" significa "suposición",
+  pero en ciencia es el nivel más sólido de explicación. Una
+  teoría no "se convierte en ley": son cosas distintas (las leyes
+  describen, las teorías explican).
+  Modelo: representación simplificada de un sistema (matemático,
+  físico, computacional).
+  Hecho: observación confirmada repetidamente.
+  Consenso científico: acuerdo entre expertos tras evaluar la
+  evidencia.
+
+
+##############################################################
+4. DISEÑO DE EXPERIMENTOS
+##############################################################
+  Variable independiente: la que el investigador modifica.
+  Variable dependiente: la que se mide como resultado.
+  Variables controladas: las que se mantienen constantes.
+  Variables de confusión o extrañas: factores no controlados que
+  pueden alterar el resultado.
+  Grupo experimental y grupo control (sin tratamiento o con
+  placebo).
+  Aleatorización: asignar al azar para equilibrar diferencias.
+  Ciego simple (el participante no sabe qué recibe), doble ciego
+  (tampoco el investigador), triple ciego.
+  Efecto placebo y efecto nocebo.
+  Muestra y población: la muestra debe ser representativa y de
+  tamaño suficiente.
+  Replicación: repetir mediciones para estimar variabilidad.
+  Calibración de instrumentos y protocolos estandarizados.
+  Preregistro: declarar hipótesis y métodos antes de ver los
+  datos, para evitar manipulaciones.
+  Ejemplo de experimento sencillo:
+    Pregunta: ¿el fertilizante X aumenta el crecimiento del frijol?
+    Variable independiente: cantidad de fertilizante.
+    Variable dependiente: altura de la planta tras 3 semanas.
+    Controladas: tipo de semilla, maceta, luz, riego, temperatura.
+    Grupos: 0 g (control), 5 g, 10 g, con 10 plantas cada uno.
+    Análisis: promedios, dispersión, prueba estadística.
+
+
+##############################################################
+5. MEDICIÓN, DATOS Y ESTADÍSTICA BÁSICA
+##############################################################
+  Medir: comparar con una unidad patrón. Toda medición tiene
+  incertidumbre.
+  Exactitud (cercanía al valor real) vs precisión (repetibilidad).
+  Error sistemático (sesgo del instrumento o método) vs error
+  aleatorio (variaciones impredecibles).
+  Cifras significativas.
+  Tipos de datos: cualitativos (categorías) y cuantitativos
+  (discretos y continuos). Escalas nominal, ordinal, de intervalo
+  y de razón.
+  Resumen: media, mediana, moda, rango, varianza, desviación
+  estándar, percentiles.
+  Gráficos: barras, histogramas, líneas, dispersión, cajas.
+  Elegir el gráfico adecuado y evitar manipulaciones (ejes
+  truncados, escalas engañosas).
+  Distribución normal, outliers (valores atípicos).
+  Inferencia: intervalo de confianza (rango plausible del valor
+  verdadero), prueba de hipótesis, valor p.
+    Valor p: probabilidad de observar datos al menos tan extremos
+    como los obtenidos si la hipótesis nula fuera cierta. NO es
+    la probabilidad de que la hipótesis sea verdadera.
+    Umbral convencional de 0,05, pero es arbitrario.
+  Tamaño del efecto: qué tan grande es la diferencia (importante,
+  además de la significancia).
+  Potencia estadística: capacidad de detectar un efecto real.
+  Errores: tipo I (falso positivo) y tipo II (falso negativo).
+  Comparaciones múltiples y "p-hacking" (buscar hasta hallar
+  algo significativo).
+
+
+##############################################################
+6. CORRELACIÓN, CAUSALIDAD Y TIPOS DE ESTUDIO
+##############################################################
+  Correlación: relación estadística entre variables.
+  Causalidad: una variable provoca cambios en otra.
+  "Correlación no implica causalidad": puede deberse a
+  coincidencia, a una tercera variable (confusora), o a causa
+  inversa.
+    Ejemplo: las ventas de helado y los ahogamientos aumentan
+    juntas en verano; la causa común es el calor.
+  Para inferir causalidad se requiere: asociación, precedencia
+  temporal, descarte de confusores, mecanismo plausible,
+  replicación, relación dosis-respuesta (criterios de Bradford
+  Hill).
+  Tipos de estudios:
+    Experimental: ensayo clínico aleatorizado (el estándar de oro
+    para probar causalidad en tratamientos).
+    Cuasi-experimental.
+    Observacional: cohortes, casos y controles, transversal.
+    Estudios de caso y anécdotas (el nivel más débil de evidencia).
+    Revisiones sistemáticas y metaanálisis: sintetizan muchos
+    estudios; la cima de la evidencia.
+  Jerarquía de la evidencia: opinión de expertos / anécdota <
+  estudios de caso < estudios observacionales < ensayos
+  aleatorizados < revisiones sistemáticas.
+  Sesgos de los estudios: de selección, de supervivencia, de
+  publicación (se publican más los resultados positivos), de
+  confirmación, de recuerdo.
+  Crisis de replicabilidad: muchos estudios (especialmente en
+  psicología y medicina) no se replican; por eso importan el
+  preregistro, el acceso abierto a datos y la ciencia abierta.
+
+
+##############################################################
+7. HISTORIA Y FILOSOFÍA DE LA CIENCIA
+##############################################################
+  Antigüedad: filosofía natural griega (Tales, Demócrito,
+    Aristóteles, Arquímedes), astronomía babilónica y egipcia,
+    ciencia china, india y maya.
+  Edad Media y mundo islámico: Ibn al-Haytham (método experimental
+    en óptica), Al-Juarismi (álgebra), Avicena, Averroes.
+  Revolución científica (s. XVI-XVII): Copérnico, Galileo, Kepler,
+    Newton, Vesalio, Harvey; Bacon (empirismo, inducción) y
+    Descartes (racionalismo, método).
+  Ilustración y s. XIX: Lavoisier, Linneo, Darwin, Faraday, Maxwell,
+    Mendel, Pasteur, Mendeléyev, Lyell.
+  s. XX: relatividad y cuántica, genética molecular, tectónica de
+    placas, Big Bang, computación, neurociencia, biología molecular.
+  Mujeres en la ciencia: Hipatia, Marie Curie, Rosalind Franklin,
+    Lise Meitner, Ada Lovelace, Barbara McClintock, Jocelyn Bell,
+    Katherine Johnson, Jennifer Doudna, Emmanuelle Charpentier.
+  Filosofía de la ciencia:
+    Empirismo lógico / positivismo: verificación.
+    Popper: falsacionismo.
+    Kuhn: paradigmas, ciencia normal, anomalías y revoluciones
+    científicas.
+    Lakatos: programas de investigación. Feyerabend: anarquismo
+    metodológico. Navaja de Ockham: entre explicaciones
+    equivalentes, preferir la más simple.
+    Realismo vs instrumentalismo.
+  Ciencia y sociedad: financiación, política científica,
+  conflictos de interés, divulgación.
+
+
+##############################################################
+8. PSEUDOCIENCIA Y CIENCIA
+##############################################################
+  Pseudociencia: afirmaciones que aparentan ser científicas pero
+  no siguen el método ni resisten el escrutinio (astrología,
+  homeopatía, frenología, terraplanismo, creacionismo "científico",
+  memoria del agua, lectura de "auras").
+  Señales de alarma:
+    - No es falsable o cambia las afirmaciones para evitar la
+      refutación.
+    - Se apoya en anécdotas y testimonios, no en datos
+      controlados.
+    - Rechaza la revisión por pares y la crítica.
+    - Usa jerga técnica vacía.
+    - Apela a la tradición, a lo "natural" o a "conspiraciones".
+    - Pone la carga de la prueba en el escéptico.
+    - Afirma curas milagrosas o resultados extraordinarios.
+    - Ausencia de progreso y de predicciones exactas.
+  Principio de Sagan: "afirmaciones extraordinarias requieren
+  evidencia extraordinaria".
+  Carga de la prueba: quien afirma debe aportar la evidencia.
+  Escepticismo científico: duda razonable, no cinismo; proporcionar
+  la confianza según la evidencia.
+  Problema de demarcación: no siempre hay una línea clara; hay
+  "ciencia mala" (con errores) y pseudociencia (con una estructura
+  que evita ser puesta a prueba).
+
+
+##############################################################
+9. PENSAMIENTO CRÍTICO: QUÉ ES Y CÓMO SE PRACTICA
+##############################################################
+Pensamiento crítico: capacidad de analizar información,
+argumentos y creencias de forma razonada, evaluarlos con criterios
+claros y llegar a conclusiones fundamentadas, siendo consciente de
+los propios sesgos.
+
+Habilidades: interpretar, analizar, evaluar, inferir, explicar,
+autorregular (Facione).
+Actitudes: curiosidad, apertura mental, honestidad intelectual,
+humildad, tolerancia a la ambigüedad, voluntad de cambiar de
+opinión ante la evidencia.
+
+Preguntas clave ante cualquier afirmación:
+  1. ¿Qué se afirma exactamente? (¿Se entiende con claridad?)
+  2. ¿Quién lo dice y qué intereses puede tener?
+  3. ¿Qué evidencia hay? ¿Es suficiente y de buena calidad?
+  4. ¿Hay explicaciones alternativas?
+  5. ¿Qué supuestos se dan por sentado?
+  6. ¿Qué dicen otras fuentes independientes y expertas?
+  7. ¿Qué evidencia me haría cambiar de opinión?
+  8. ¿Qué consecuencias tiene si es cierto o falso?
+
+Pasos para un análisis crítico: identificar conclusión y premisas
+-> evaluar la verdad de las premisas -> evaluar si la conclusión
+se sigue -> buscar contraargumentos -> valorar.
+Pensar sobre cómo pensamos: metacognición.
+Pensamiento lateral, creativo y divergente complementan al
+crítico.
+
+
+##############################################################
+10. LÓGICA Y ARGUMENTACIÓN
+##############################################################
+  Argumento: conjunto de premisas que apoyan una conclusión.
+  Deductivo: si las premisas son verdaderas y la forma es válida,
+  la conclusión es necesariamente verdadera.
+    Todos los humanos son mortales. Sócrates es humano.
+    Luego Sócrates es mortal.
+  Inductivo: las premisas hacen probable la conclusión (no la
+  garantizan).
+  Abductivo: la mejor explicación disponible.
+  Validez (forma correcta) vs solidez (válido + premisas
+  verdaderas).
+  Formas válidas: modus ponens (si P entonces Q; P; luego Q),
+  modus tollens (si P entonces Q; no Q; luego no P), silogismo
+  hipotético, silogismo disyuntivo.
+  Formas inválidas (falacias formales): afirmar el consecuente
+  (si P entonces Q; Q; luego P) y negar el antecedente.
+  Lógica proposicional: conectivos (y, o, no, si..entonces),
+  tablas de verdad. Lógica de predicados: cuantificadores.
+  Estructura de un buen argumento: tesis, razones, evidencias,
+  contraargumentos y refutación, conclusión.
+  Principio de caridad: interpretar el argumento del otro en su
+  versión más fuerte antes de criticarlo.
+  Debate constructivo: buscar la verdad, no "ganar".
+
+
+##############################################################
+11. FALACIAS LÓGICAS
+##############################################################
+Errores de razonamiento que parecen válidos pero no lo son.
+  Ad hominem: atacar a la persona en vez del argumento.
+  Hombre de paja: tergiversar la postura del otro para
+    refutarla fácilmente.
+  Falsa dicotomía/dilema: presentar solo dos opciones cuando hay
+    más ("o estás conmigo o contra mí").
+  Pendiente resbaladiza: afirmar sin pruebas que un paso
+    conducirá a una cadena de catástrofes.
+  Apelación a la autoridad: "lo dice un experto", sin fundamento
+    (válida solo si es experto relevante y hay consenso).
+  Apelación a la popularidad (ad populum): "todos lo creen".
+  Apelación a la tradición: "siempre se ha hecho así".
+  Apelación a la naturaleza: "es natural, luego es bueno".
+  Apelación a la emoción / al miedo / a la piedad.
+  Falacia genética: descartar algo por su origen.
+  Post hoc ergo propter hoc: "ocurrió después, luego fue causa".
+  Generalización apresurada: concluir de pocos casos.
+  Petición de principio / razonamiento circular: la conclusión
+    está en la premisa.
+  Falacia del tu quoque ("tú también").
+  Apelación a la ignorancia: "no se ha probado que sea falso, luego
+    es verdadero".
+  Cherry picking (selección sesgada de evidencia).
+  Falacia del francotirador de Texas: dibujar la diana tras el
+    disparo (hallar patrones a posteriori).
+  Falacia de composición y de división.
+  Falacia del costo hundido.
+  Equívoco: usar una palabra con dos sentidos.
+  Falsa equivalencia: igualar cosas muy distintas.
+  Movimiento de la portería (moving the goalposts): cambiar los
+    criterios tras ser cumplidos.
+  Argumento de la falacia: "tu argumento es falaz, luego tu
+    conclusión es falsa" (no necesariamente).
+
+
+##############################################################
+12. SESGOS COGNITIVOS
+##############################################################
+El cerebro usa atajos (heurísticas) que a menudo funcionan pero
+generan errores sistemáticos (Kahneman y Tversky).
+  Sistema 1 (rápido, intuitivo) vs Sistema 2 (lento, deliberado).
+  Sesgo de confirmación: buscar y recordar lo que apoya nuestras
+    creencias.
+  Sesgo de disponibilidad: juzgar por los ejemplos que se nos
+    vienen a la mente (miedo a los tiburones más que al coche).
+  Anclaje: depender del primer dato recibido.
+  Efecto Dunning-Kruger: quienes saben poco tienden a sobreestimar
+    su competencia (efecto discutido y matizado en la
+    investigación).
+  Sesgo de supervivencia: ver solo los casos que "sobrevivieron".
+  Efecto de encuadre (framing): la presentación altera la decisión.
+  Sesgo retrospectivo ("ya lo sabía").
+  Sesgo de atribución: atribuir los fallos propios a la
+    circunstancia y los ajenos al carácter.
+  Efecto halo. Sesgo de grupo (endogrupo). Efecto de manada.
+  Falacia del jugador: creer que tras varias caras la moneda
+    "debe" dar cruz.
+  Aversión a la pérdida. Exceso de confianza. Sesgo de statu quo.
+  Disonancia cognitiva: incomodidad al sostener ideas
+    contradictorias; se resuelve a menudo negando la evidencia.
+  Razonamiento motivado: razonar para llegar a la conclusión
+    deseada.
+  Ilusión de control, apofenia (ver patrones donde no los hay),
+  pareidolia.
+Cómo mitigarlos: ser consciente, buscar evidencia en contra,
+pedir opiniones distintas, usar listas de verificación y datos,
+decidir con calma, considerar "¿qué probabilidad base hay?".
+
+
+##############################################################
+13. EVALUACIÓN DE FUENTES Y DESINFORMACIÓN
+##############################################################
+  Tipos de fuentes: primarias (datos originales, artículos
+  científicos), secundarias (revisiones, libros de texto,
+  prensa), terciarias (enciclopedias).
+  Revisión por pares: expertos evalúan antes de publicar (útil
+  pero imperfecta). Revistas depredadoras.
+  Criterios CRAAP: actualidad (Currency), relevancia, autoridad,
+  exactitud (Accuracy), propósito.
+  Lectura lateral: no te quedes en la página; busca qué dicen
+  otras fuentes fiables sobre ella.
+  Verificación (fact-checking): comprobar autor, fecha, fuentes
+  citadas, contexto; buscar el estudio original (no solo el
+  titular); revisar si otros medios lo confirman; usar búsqueda
+  inversa de imágenes; verificadores (Maldita, Newtral, Chequeado,
+  Ecuador Chequea, Snopes, AFP Factual).
+  Desinformación (intencional) vs información errónea (sin
+  intención). Teorías de la conspiración: se caracterizan por ser
+  infalsables y por reinterpretar toda evidencia en contra como
+  parte del complot.
+  Titulares sensacionalistas, clickbait, deepfakes, burbujas de
+  filtro, cámaras de eco, algoritmos que premian lo emocional.
+  Antes de compartir: pausa, comprueba, pregúntate si aporta
+  valor y es cierto.
+  Cuidado con los estudios en ratones, con muestras pequeñas, con
+  conflictos de interés y con el sensacionalismo ("nuevo
+  estudio demuestra...").
+
+
+##############################################################
+14. PENSAMIENTO ESTADÍSTICO Y PROBABILÍSTICO
+##############################################################
+  Probabilidad base (tasa base): ignorarla es un error frecuente.
+    Ejemplo (falacia de la tasa base): una prueba médica 99 %
+    precisa para una enfermedad que afecta a 1 de cada 1000 genera
+    muchos falsos positivos; sin la tasa base se sobreestima el
+    riesgo real tras un positivo. Se razona con el teorema de
+    Bayes.
+  Riesgo absoluto vs relativo: "aumenta el riesgo en 50 %" puede
+    significar pasar de 2 en 10.000 a 3 en 10.000.
+  Regresión a la media: valores extremos tienden a acercarse al
+    promedio en la siguiente medición.
+  Ley de los números pequeños: las muestras pequeñas varían mucho.
+  Paradoja de Simpson: una tendencia que aparece en grupos se
+    invierte al combinarlos.
+  Paradoja del cumpleaños: con 23 personas hay ~50 % de
+    probabilidad de que dos compartan cumpleaños.
+  Pensamiento bayesiano: actualizar creencias según la evidencia
+    nueva.
+  Estimación de orden de magnitud (problemas de Fermi).
+  Incertidumbre: expresar confianza y rangos, no certezas
+    absolutas.
+
+
+##############################################################
+15. ÉTICA CIENTÍFICA
+##############################################################
+  Integridad: no fabricar datos (fabricación), no alterarlos
+  (falsificación), no plagiar.
+  Consentimiento informado, protección de participantes,
+  comités de ética (Código de Núremberg, Declaración de Helsinki,
+  Informe Belmont). Casos históricos: experimento de Tuskegee,
+  experimentos nazis.
+  Bienestar animal: principio de las 3R (reemplazar, reducir,
+  refinar).
+  Conflictos de interés y transparencia en financiación.
+  Autoría y créditos. Ciencia abierta, datos abiertos.
+  Responsabilidad social: dual use (uso dual), IA, edición
+  genética, cambio climático, bioseguridad.
+  Divulgar con honestidad, sin exagerar resultados.
+  La ciencia dice qué es y cómo funciona; las decisiones sobre
+  qué hacer también implican valores, ética y política.
+
+
+##############################################################
+16. RESOLUCIÓN DE PROBLEMAS Y TOMA DE DECISIONES
+##############################################################
+  Método de Pólya para resolver problemas:
+    1) Comprender el problema.  2) Trazar un plan.
+    3) Ejecutarlo.              4) Revisar la solución.
+  Estrategias: dividir en partes, buscar patrones, resolver un
+  caso más sencillo, trabajar hacia atrás, dibujar un esquema,
+  estimar, probar casos extremos, analogías.
+  Primeros principios: reducir un problema a sus elementos
+  fundamentales.
+  Análisis de causa raíz: los "5 porqués"; diagrama de Ishikawa.
+  Toma de decisiones: definir objetivo, listar opciones,
+  criterios y ponderación, evaluar probabilidades y costes,
+  considerar el peor y mejor escenario, decidir, revisar
+  resultados.
+  Valor esperado = suma(probabilidad x valor).
+  Decidir con información incompleta: aceptar la incertidumbre,
+  recolectar datos de forma proporcional a la importancia,
+  mantener las decisiones reversibles cuando sea posible.
+  Premortem: imaginar que el plan fracasó y preguntar por qué.
+  Evitar la parálisis por análisis.
+
+
+##############################################################
+17. EJERCICIOS Y HÁBITOS
+##############################################################
+  Ejercicios:
+    1) Elige una noticia y busca su fuente original.
+    2) Identifica la conclusión y las premisas de un artículo de
+       opinión; detecta falacias.
+    3) Formula una hipótesis falsable sobre algo cotidiano (¿qué
+       tipo de café te mantiene más alerta?) y diseña un
+       experimento personal con controles.
+    4) Escribe el argumento más fuerte contra una creencia tuya.
+    5) Calcula un riesgo absoluto a partir de un titular de
+       "riesgo relativo".
+    6) Para una afirmación sorprendente pregunta: ¿qué evidencia
+       la desmentiría?
+    7) Mantén un diario de predicciones con porcentajes de
+       confianza y revisa tu calibración.
+    8) Lee una reseña de un estudio y evalúa su diseño, muestra y
+       conclusiones.
+  Hábitos de un pensador crítico:
+    - Distingue hechos, inferencias, opiniones y valores.
+    - Cambia de opinión cuando hay buenas razones.
+    - Dice "no lo sé" y "estaba equivocado" sin dramatismo.
+    - Busca activamente la crítica y el desacuerdo informado.
+    - Separa a las personas de las ideas.
+    - Desconfía de las explicaciones demasiado perfectas y de las
+      certezas absolutas.
+    - Mantiene curiosidad: preguntar "¿cómo lo sabemos?" es
+      el origen de la ciencia.
+==============================================================

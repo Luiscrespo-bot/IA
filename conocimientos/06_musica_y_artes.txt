@@ -1,0 +1,428 @@
+==============================================================
+MÚSICA Y ARTES: TEORÍA, TÉCNICA E HISTORIA
+==============================================================
+
+ÍNDICE
+  PARTE A. MÚSICA
+    1. ¿Qué es la música? El sonido
+    2. Lectura musical básica
+    3. Ritmo y compás
+    4. Melodía, escalas e intervalos
+    5. Armonía
+    6. Forma y estructura
+    7. Instrumentos
+    8. Historia de la música
+    9. Géneros populares
+    10. Producción y tecnología musical
+    11. Cómo aprender música
+  PARTE B. ARTES VISUALES
+    12. Elementos del lenguaje visual
+    13. Color
+    14. Composición
+    15. Técnicas y materiales
+    16. Historia del arte
+    17. Dibujo, perspectiva y anatomía
+    18. Fotografía, cine y diseño
+  PARTE C. OTRAS ARTES
+    19. Artes escénicas
+    20. Arquitectura
+    21. Apreciación artística
+
+
+##############################################################
+PARTE A. MÚSICA
+##############################################################
+
+1. ¿QUÉ ES LA MÚSICA? EL SONIDO
+-------------------------------
+La música es el arte de organizar sonidos y silencios en el tiempo.
+Sus materias primas son el sonido y el silencio.
+
+Cualidades del sonido:
+  - Altura (tono): grave o agudo; depende de la frecuencia (Hz).
+    El La central (La4) = 440 Hz.
+  - Duración: cuánto dura.
+  - Intensidad (volumen o dinámica): fuerte o suave; depende de la
+    amplitud.
+  - Timbre: "color" del sonido que distingue instrumentos; depende
+    de los armónicos.
+Serie armónica: un sonido contiene múltiplos de su frecuencia
+fundamental. Una octava duplica la frecuencia (440 Hz -> 880 Hz).
+Los intervalos consonantes corresponden a razones simples (quinta
+justa 3:2).
+Afinación: temperamento igual divide la octava en 12 semitonos
+iguales (razón 2^(1/12)).
+
+
+2. LECTURA MUSICAL BÁSICA
+-------------------------
+Pentagrama: 5 líneas y 4 espacios. Las notas se escriben en líneas
+y espacios; líneas adicionales para notas fuera del rango.
+Claves: de Sol (agudos: violín, voz, flauta, mano derecha del
+piano), de Fa (graves: bajo, mano izquierda), de Do (viola).
+Notas: Do, Re, Mi, Fa, Sol, La, Si (en notación inglesa: C, D, E, F,
+G, A, B).
+Alteraciones: sostenido (#) sube un semitono; bemol (b) baja un
+semitono; becuadro anula.
+Figuras (duración, en compás de 4/4):
+  Redonda      = 4 tiempos
+  Blanca       = 2 tiempos
+  Negra        = 1 tiempo
+  Corchea      = 1/2 tiempo
+  Semicorchea  = 1/4 de tiempo
+Cada figura tiene su silencio equivalente.
+Puntillo: añade la mitad del valor de la figura. Ligadura: une
+notas iguales sumando duraciones.
+Dinámicas: pp (pianissimo), p (piano), mp, mf, f (forte), ff;
+crescendo y diminuendo.
+Tempo: velocidad. Se mide en BPM (pulsos por minuto). Términos:
+Largo, Adagio, Andante, Moderato, Allegro, Presto.
+Articulación: legato (ligado), staccato (picado), acento.
+Teclado de piano: 7 notas blancas y 5 negras por octava; los
+semitonos son la distancia entre teclas adyacentes (Mi-Fa y Si-Do
+no tienen tecla negra entre medias).
+
+
+3. RITMO Y COMPÁS
+-----------------
+Pulso: latido regular. Ritmo: patrón de duraciones. Compás:
+agrupación de pulsos separada por barras de compás.
+Cifra indicadora (fracción): el numerador son los pulsos por compás;
+el denominador la figura que vale un pulso.
+  4/4: cuatro negras por compás (el más común, "compás de cuatro
+       por cuatro").
+  3/4: tres negras (vals).
+  2/4: dos negras (marcha).
+  6/8: seis corcheas en dos grupos de tres (compás compuesto).
+Acento: el primer tiempo es fuerte. Síncopa: acentuar un tiempo
+débil. Contratiempo. Tresillo (tres notas en el tiempo de dos).
+Polirritmia (ritmos simultáneos) y métricas irregulares (5/4, 7/8).
+Ejercicio: golpea el pulso con el pie y di "uno-dos-tres-cuatro"
+mientras palmeas el ritmo de una canción conocida.
+
+
+4. MELODÍA, ESCALAS E INTERVALOS
+--------------------------------
+Melodía: sucesión de sonidos con sentido musical. Contorno, rango,
+motivo, frase, tensión y resolución.
+Intervalo: distancia entre dos notas (se cuenta incluyendo ambas):
+  2ª, 3ª, 4ª, 5ª, 6ª, 7ª, 8ª (octava). Cualidades: mayor, menor,
+  justo, aumentado, disminuido.
+  Do-Mi = 3ª mayor (4 semitonos); Do-Mib = 3ª menor (3 semitonos);
+  Do-Sol = 5ª justa (7 semitonos).
+Escala mayor: tono-tono-semitono-tono-tono-tono-semitono.
+  Do mayor: Do Re Mi Fa Sol La Si Do (sin alteraciones).
+  Sol mayor: un sostenido (Fa#). Re mayor: dos (Fa#, Do#).
+  Fa mayor: un bemol (Sib).
+Círculo de quintas: ordena las tonalidades por quintas; cada
+quinta ascendente añade un sostenido, cada descendente un bemol.
+Escala menor natural: T-S-T-T-S-T-T (La menor: La Si Do Re Mi Fa
+Sol La). Menor armónica (sensible elevada) y melódica.
+Tonalidad relativa: Do mayor y La menor comparten armadura.
+Otras escalas: pentatónica (5 notas; base del rock, blues y folklore
+andino), blues, cromática (12 semitonos), modos (dórico, frigio,
+lidio, mixolidio), escalas de tonos enteros, octatónicas.
+Grados de la escala: I tónica, II supertónica, III mediante, IV
+subdominante, V dominante, VI superdominante, VII sensible.
+
+
+5. ARMONÍA
+----------
+Acorde: tres o más notas sonando juntas.
+Tríada mayor: fundamental + 3ª mayor + 5ª justa (Do-Mi-Sol).
+Tríada menor: fundamental + 3ª menor + 5ª justa (La-Do-Mi).
+Disminuida (3ª menor + 5ª disminuida) y aumentada.
+Acordes de séptima: Dom7 (Do-Mi-Sol-Sib), Maj7, m7.
+Acordes de la escala de Do mayor: C, Dm, Em, F, G, Am, Bdim.
+  (I, ii, iii, IV, V, vi, vii°)
+Funciones armónicas: tónica (reposo), subdominante (alejamiento),
+dominante (tensión que pide resolver).
+Cadencias: perfecta (V-I), plagal (IV-I), semicadencia (termina en
+V), rota o de engaño (V-vi).
+Progresiones populares: I-V-vi-IV; I-IV-V; ii-V-I (jazz);
+12 compases del blues (I-I-I-I / IV-IV-I-I / V-IV-I-V).
+Inversiones de acordes, voz líder (conducción de voces), modulación
+(cambio de tonalidad), préstamo modal, dominantes secundarias.
+Contrapunto: combinación de líneas melódicas independientes
+(Bach, fugas, cánones).
+Textura: monofónica, homofónica, polifónica.
+
+
+6. FORMA Y ESTRUCTURA
+---------------------
+Motivo -> frase -> semifrase -> período -> sección.
+Formas básicas: binaria (AB), ternaria (ABA), rondó (ABACA),
+tema con variaciones, forma sonata (exposición, desarrollo,
+reexposición), fuga.
+Canción popular: intro, estrofa (verso), pre-coro, estribillo
+(coro), puente, solo, outro. Estructura típica: A A B A o
+estrofa-coro-estrofa-coro-puente-coro.
+Formas grandes: sinfonía (4 movimientos), concierto, ópera, ballet,
+suite, misa, oratorio.
+
+
+7. INSTRUMENTOS
+---------------
+Familias (Sachs-Hornbostel y orquestal):
+  Cuerda frotada: violín, viola, violonchelo, contrabajo.
+  Cuerda pulsada: guitarra, arpa, laúd, charango, bajo.
+  Viento madera: flauta, oboe, clarinete, fagot, saxofón, quena.
+  Viento metal: trompeta, trompa, trombón, tuba.
+  Percusión: afinada (timbal, xilófono) y no afinada (tambor,
+  platillos, bombo).
+  Teclado: piano, órgano, clavecín, sintetizador.
+  Voz: soprano, mezzosoprano, contralto, tenor, barítono, bajo.
+Orquesta sinfónica: cuerdas, maderas, metales, percusión (~80-100
+músicos). Director: marca tempo y expresión.
+Instrumentos andinos y latinoamericanos: quena, zampoña, charango,
+bombo legüero, bandoneón, marimba (importante en Esmeraldas,
+Ecuador), guitarra, cuatro, tiple, maracas, güiro, cajón peruano.
+Instrumento transpositor: suena distinto de lo escrito (clarinete
+en Sib, saxofón).
+Consejos para elegir: guitarra y piano son excelentes para
+aprender armonía; flauta dulce y voz para empezar con melodía.
+
+
+8. HISTORIA DE LA MÚSICA
+------------------------
+  Prehistoria y Antigüedad: voz, percusión, flautas de hueso;
+    Grecia (modos, Pitágoras y proporciones).
+  Edad Media (c. 500-1400): canto gregoriano (monodia), notación
+    neumática, Guido d'Arezzo (solfeo), polifonía temprana, trovadores.
+  Renacimiento (1400-1600): polifonía vocal, Palestrina, Josquin,
+    madrigal, imprenta musical.
+  Barroco (1600-1750): bajo continuo, ópera (Monteverdi), Vivaldi,
+    Bach, Händel; contraste, ornamentación; nacen la orquesta
+    moderna y la tonalidad.
+  Clasicismo (1750-1820): claridad, equilibrio, forma sonata;
+    Haydn, Mozart, Beethoven (transición).
+  Romanticismo (1820-1900): emoción, individualismo, nacionalismo;
+    Beethoven, Schubert, Chopin, Liszt, Schumann, Brahms, Wagner,
+    Verdi, Tchaikovsky.
+  Siglo XX: impresionismo (Debussy, Ravel), expresionismo,
+    atonalidad y dodecafonismo (Schoenberg), neoclasicismo
+    (Stravinsky), Bartók, Shostakovich, minimalismo (Glass, Reich),
+    música electrónica, aleatoria (Cage), concreta.
+  Música latinoamericana: Villa-Lobos, Ginastera, Piazzolla,
+    Carlos Chávez; música ecuatoriana: pasillo, sanjuanito, yaraví,
+    albazo; Julio Jaramillo, Carlota Jaramillo, Segundo Bautista.
+
+
+9. GÉNEROS POPULARES
+--------------------
+  Blues (raíces afroamericanas, escala blues, forma de 12
+  compases), jazz (improvisación, swing, bebop, jazz modal,
+  fusión), rock (guitarra eléctrica, blues, años 50), pop, soul,
+  funk, hip-hop (DJ, MC, breakdance, grafiti), reggae, salsa,
+  cumbia, bolero, tango, samba y bossa nova, flamenco, música
+  electrónica (house, techno, trance, ambient), metal, reguetón,
+  folk, música andina, country, gospel.
+  Elementos distintivos: ritmo característico, instrumentos,
+  armonía, contexto social.
+
+
+10. PRODUCCIÓN Y TECNOLOGÍA MUSICAL
+-----------------------------------
+  Grabación: micrófonos (dinámico, condensador), interfaz de audio,
+  DAW (Ableton Live, Logic, FL Studio, Reaper, Pro Tools).
+  Audio digital: frecuencia de muestreo (44,1 kHz), profundidad de
+  bits (16/24), formatos (WAV, MP3, FLAC).
+  MIDI: protocolo que transmite notas, no audio.
+  Mezcla: balance, paneo, ecualización (EQ), compresión, reverb,
+  delay. Masterización.
+  Síntesis: aditiva, sustractiva, FM, muestreo (sampling).
+  Leyes de Nyquist: se muestrea al doble de la frecuencia máxima.
+  Derechos de autor, licencias, regalías.
+
+
+11. CÓMO APRENDER MÚSICA
+------------------------
+  1) Escucha activa con frecuencia. 2) Elige un instrumento. 3)
+  Aprende lectura básica y ritmo. 4) Practica a diario 15-30 min
+  con atención (calentamiento, técnica, repertorio). 5) Entrena el
+  oído (intervalos, acordes). 6) Toca con otros. 7) Aprende
+  canciones que te gusten. 8) Improvisa y compón. 9) Graba tus
+  avances. 10) Paciencia: la constancia supera al talento.
+
+
+##############################################################
+PARTE B. ARTES VISUALES
+##############################################################
+
+12. ELEMENTOS DEL LENGUAJE VISUAL
+---------------------------------
+  Punto, línea (recta, curva, quebrada; sugiere movimiento y
+  dirección), plano, forma (geométrica y orgánica), volumen,
+  textura (visual y táctil), valor (claridad u oscuridad), color,
+  espacio (positivo y negativo), movimiento, ritmo y escala.
+  Principios: equilibrio, contraste, énfasis, proporción, unidad,
+  repetición, variedad, armonía.
+
+
+13. COLOR
+---------
+  Colores luz (aditivos RGB): rojo, verde, azul; sumados dan blanco
+  (pantallas).
+  Colores pigmento (sustractivos): cian, magenta, amarillo (CMY/CMYK
+  en impresión); en pintura tradicional: rojo, amarillo y azul.
+  Círculo cromático: primarios, secundarios (naranja, verde,
+  violeta), terciarios.
+  Atributos: matiz (tono), saturación (pureza), valor (luminosidad).
+  Armonías: monocromática, análoga (vecinos), complementaria
+  (opuestos: azul-naranja, rojo-verde, amarillo-violeta),
+  triádica, tetrádica, complementaria dividida.
+  Temperatura: cálidos (rojo, naranja, amarillo) avanzan; fríos
+  (azul, verde) retroceden.
+  Psicología del color: rojo (energía, pasión, peligro), azul
+  (calma, confianza), verde (naturaleza), amarillo (alegría,
+  atención), negro (elegancia, duelo en Occidente), blanco
+  (pureza), pero el significado depende de la cultura.
+  Contraste simultáneo: un color cambia según los que lo rodean.
+  Modelos digitales: RGB, HEX (#FF5733), HSL, CMYK.
+  Teoría del color: Newton, Goethe, Itten, Albers.
+
+
+14. COMPOSICIÓN
+---------------
+  Regla de los tercios, proporción áurea (≈1,618) y espiral,
+  simetría y asimetría, punto focal, líneas de fuerza, líneas guía,
+  encuadre, jerarquía visual, espacio negativo, ritmo y repetición,
+  equilibrio formal e informal, profundidad (planos: primer plano,
+  plano medio, fondo).
+  Gestalt: proximidad, semejanza, cierre, continuidad, figura y
+  fondo.
+
+
+15. TÉCNICAS Y MATERIALES
+-------------------------
+  Dibujo: grafito (lápices H y B), carboncillo, tinta, pastel,
+  sanguina.
+  Pintura: óleo (secado lento, aglutinante de aceite), acrílico
+  (secado rápido), acuarela (transparente, sobre papel), témpera,
+  gouache, temple al huevo, fresco (sobre yeso húmedo).
+  Grabado: xilografía, linóleo, aguafuerte, litografía, serigrafía.
+  Escultura: talla, modelado, fundición, ensamblaje, instalación.
+  Cerámica, textil, vitral, mosaico.
+  Arte digital: tabletas gráficas, Photoshop, Procreate, Krita,
+  Blender (3D), ilustración vectorial (Illustrator, Inkscape).
+  Soportes: papel, lienzo, tabla, muro. Imprimación y barniz.
+
+
+16. HISTORIA DEL ARTE
+---------------------
+  Prehistoria: pinturas rupestres (Altamira, Lascaux), Venus
+    paleolíticas.
+  Antiguo Egipto: convencionalismo, eternidad (pirámides, pintura
+    funeraria).
+  Grecia: idealización del cuerpo, proporción (canon), orden dórico,
+    jónico y corintio; Partenón.
+  Roma: realismo, retrato, ingeniería (arco, bóveda, acueductos).
+  Arte bizantino y románico: iconos, mosaicos, iglesias de
+    muros gruesos.
+  Gótico: catedrales, vitrales, arco apuntado y arbotantes.
+  Renacimiento (s. XV-XVI): perspectiva lineal (Brunelleschi),
+    humanismo; Leonardo, Miguel Ángel, Rafael, Botticelli,
+    Durero, Tiziano.
+  Barroco: dramatismo, claroscuro, movimiento; Caravaggio,
+    Rembrandt, Velázquez, Bernini, Rubens.
+  Rococó, Neoclasicismo (David), Romanticismo (Delacroix, Goya,
+    Turner, Friedrich).
+  Realismo (Courbet), Impresionismo (Monet, Renoir, Degas: luz y
+    momento), Postimpresionismo (Van Gogh, Cézanne, Gauguin,
+    Seurat).
+  Vanguardias del s. XX: Fauvismo (Matisse), Expresionismo (Munch,
+    Kirchner), Cubismo (Picasso, Braque), Futurismo, Dadaísmo
+    (Duchamp), Surrealismo (Dalí, Magritte, Kahlo), Abstracción
+    (Kandinsky, Mondrian, Malévich), Expresionismo abstracto
+    (Pollock, Rothko), Pop Art (Warhol), arte conceptual, minimalismo,
+    arte de acción, arte digital y contemporáneo.
+  Arte precolombino y latinoamericano: culturas Valdivia (Ecuador,
+    entre las cerámicas más antiguas de América), Chorrera, Inca,
+    Maya, Azteca; Escuela Quiteña (barroco mestizo colonial);
+    muralismo mexicano (Rivera, Orozco, Siqueiros); indigenismo
+    (Oswaldo Guayasamín, Ecuador); Frida Kahlo; Botero; Torres
+    García.
+  Arte no occidental: caligrafía y pintura china, estampa japonesa
+    (ukiyo-e: Hokusai), arte islámico (geometría, arabescos),
+    arte africano (influencia en Picasso), arte aborigen.
+
+
+17. DIBUJO, PERSPECTIVA Y ANATOMÍA
+----------------------------------
+  Proceso de dibujo: observar, bocetar formas simples (círculos,
+  cubos, cilindros), proporcionar, sombrear, afinar detalles.
+  Proporción: comparar tamaños (método de medición con lápiz).
+  Luz y sombra: luz principal, sombra propia, sombra proyectada,
+  luz reflejada, medios tonos; esfera como ejercicio básico.
+  Perspectiva: de un punto de fuga (calles, pasillos), de dos (cubo
+  visto en esquina), de tres (rascacielos); línea de horizonte;
+  perspectiva atmosférica (lo lejano se ve más claro y azulado).
+  Anatomía: el cuerpo adulto mide ~7,5 cabezas (idealizado, 8).
+  Estructura ósea, músculos principales, gesto y movimiento.
+  Dibujo de gesto, contorno ciego y de modelo vivo.
+  Consejos: dibujar a diario, hacer estudios rápidos, copiar
+  maestros, aprender a ver más que a "dibujar símbolos".
+
+
+18. FOTOGRAFÍA, CINE Y DISEÑO
+-----------------------------
+  Fotografía: triángulo de exposición (apertura/diafragma, velocidad
+  de obturación, ISO). Profundidad de campo, enfoque, composición,
+  luz natural (hora dorada), balance de blancos, RAW vs JPEG,
+  edición.
+  Cine: planos (general, entero, medio, primer plano, detalle),
+  ángulos (picado, contrapicado), movimientos de cámara, montaje,
+  guion, sonido; géneros y directores clave.
+  Diseño gráfico: tipografía (serif, sans serif, monoespaciada),
+  jerarquía, retícula, alineación, contraste, espacio en blanco,
+  identidad de marca, diseño editorial, UI/UX (usabilidad,
+  accesibilidad).
+  Diseño industrial, moda, interiores: función + forma.
+  Animación: principios de Disney (anticipación, estirar y encoger,
+  arcos, timing), 2D, 3D, stop motion.
+
+
+##############################################################
+PARTE C. OTRAS ARTES
+##############################################################
+
+19. ARTES ESCÉNICAS
+-------------------
+  Teatro: texto, actuación, dirección, escenografía, iluminación,
+  vestuario; géneros (tragedia, comedia, drama, farsa, musical);
+  Stanislavski (método), Brecht (distanciamiento), teatro del
+  absurdo.
+  Danza: ballet clásico, danza contemporánea, danzas folclóricas,
+  danza urbana; elementos: cuerpo, espacio, tiempo, energía.
+  Ópera y zarzuela: canto + orquesta + escena.
+  Circo, mimo, performance, narración oral.
+  Voz y cuerpo: respiración, dicción, proyección, presencia.
+
+
+20. ARQUITECTURA
+----------------
+  Equilibrio de función, estructura y estética (Vitruvio: firmitas,
+  utilitas, venustas).
+  Estilos: clásico, románico, gótico, renacentista, barroco,
+  neoclásico, modernismo, art déco, racionalismo y estilo
+  internacional (Le Corbusier, Mies van der Rohe), organicismo
+  (Wright), posmodernismo, deconstructivismo, arquitectura
+  sostenible.
+  Conceptos: planta, alzado, sección, escala, luz, materiales
+  (piedra, madera, hormigón, acero, vidrio), urbanismo.
+  Arquitectura vernácula y patrimonio (centro histórico de Quito y
+  Cuenca, Patrimonio de la Humanidad).
+
+
+21. APRECIACIÓN ARTÍSTICA
+-------------------------
+Cómo analizar una obra:
+  1) Describe lo que ves (sin juzgar).
+  2) Analiza forma: composición, color, línea, técnica.
+  3) Interpreta: tema, simbolismo, intención.
+  4) Contextualiza: autor, época, sociedad, movimiento.
+  5) Valora: qué te transmite y por qué.
+El arte es lenguaje, memoria cultural y expresión personal.
+Visita museos, escucha conciertos, practica, y no temas equivocarte:
+el error es parte del proceso creativo.
+==============================================================

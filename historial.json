@@ -1,0 +1,30 @@
+[
+    {
+        "usuario": "hola que puedes hacer",
+        "minigpt": "una computadora"
+    },
+    {
+        "usuario": "hola",
+        "minigpt": "Hola, que gusto conversar contigo."
+    },
+    {
+        "usuario": "quien eres",
+        "minigpt": "Soy MiniGPT, un modelo de lenguaje creado desde cero."
+    },
+    {
+        "usuario": "2+2",
+        "minigpt": "El resultado es 4."
+    },
+    {
+        "usuario": "3+3*9",
+        "minigpt": "El resultado es 30."
+    },
+    {
+        "usuario": "3*3",
+        "minigpt": "El resultado es 9."
+    },
+    {
+        "usuario": "3*3-9",
+        "minigpt": "El resultado es 0."
+    }
+]

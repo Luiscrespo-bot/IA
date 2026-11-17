@@ -1,0 +1,508 @@
+==============================================================
+LITERATURA Y ESCRITURA CREATIVA
+==============================================================
+
+ÍNDICE
+  PARTE A. LITERATURA
+    1. ¿Qué es la literatura? Lenguaje y comunicación
+    2. Géneros literarios
+    3. Elementos de la narrativa
+    4. Recursos literarios (figuras retóricas)
+    5. Poesía: métrica, rima y formas
+    6. Teatro
+    7. Historia de la literatura
+    8. Literatura hispanoamericana y ecuatoriana
+    9. Teoría y crítica literaria
+    10. Cómo leer y analizar un texto
+  PARTE B. ESCRITURA CREATIVA
+    11. Fundamentos de la escritura
+    12. Construcción de personajes
+    13. Trama y estructura
+    14. Narrador y punto de vista
+    15. Diálogo
+    16. Ambientación y construcción de mundos
+    17. Estilo, voz y lenguaje
+    18. Escribir poesía
+    19. Proceso de escritura y revisión
+    20. Géneros y formatos
+    21. Gramática y ortografía esenciales
+    22. Hábitos y ejercicios
+
+
+##############################################################
+PARTE A. LITERATURA
+##############################################################
+
+1. ¿QUÉ ES LA LITERATURA?
+-------------------------
+La literatura es el arte de la palabra: uso estético del lenguaje
+para expresar emociones, ideas y mundos imaginados.
+Función poética del lenguaje (Jakobson): atención al mensaje por
+su forma. Otras funciones: referencial, emotiva, conativa, fática,
+metalingüística.
+Denotación (significado literal) y connotación (significado
+sugerido, emocional o cultural).
+Texto literario: ficcionalidad, polisemia, intención estética,
+originalidad, uso de recursos.
+Oralidad y escritura: la literatura nació oral (mitos, cantos,
+epopeyas) y luego pasó a la escritura.
+
+
+2. GÉNEROS LITERARIOS
+---------------------
+Narrativo: relato de hechos.
+  Epopeya o poema épico (Ilíada, Odisea, Cantar de Mio Cid),
+  novela (extensa), novela corta (nouvelle), cuento (breve,
+  efecto único), fábula (moraleja, animales), leyenda, mito,
+  crónica, microrrelato.
+Lírico: expresión de sentimientos del yo poético.
+  Oda, elegía, égloga, himno, soneto, canción, haiku, epigrama.
+Dramático: obra para representar; diálogos y acotaciones.
+  Tragedia, comedia, drama, tragicomedia, entremés, sainete,
+  farsa, auto sacramental, melodrama.
+Didáctico o ensayístico: ensayo, tratado, discurso, biografía,
+  autobiografía, memorias, diario, epístola, crónica.
+Géneros "híbridos" y contemporáneos: poema en prosa, novela
+  gráfica, autoficción, no ficción creativa, fanfiction,
+  literatura digital.
+Géneros temáticos: policial/negro, ciencia ficción, fantasía,
+  terror, romántica, histórica, aventura, distopía, realismo
+  mágico, literatura infantil y juvenil.
+
+
+3. ELEMENTOS DE LA NARRATIVA
+----------------------------
+  Narrador: quién cuenta (ver sección 14).
+  Personajes: protagonista, antagonista, secundarios; planos y
+    redondos; dinámicos y estáticos; caracterización directa
+    (el narrador dice cómo es) e indirecta (por acciones y
+    diálogos).
+  Acción/trama: conjunto de hechos. Estructura clásica:
+    planteamiento, nudo, desenlace.
+    Estructura de Freytag: exposición, conflicto ascendente,
+    clímax, caída, resolución.
+  Tiempo: externo (época) e interno (orden del relato).
+    Lineal, in medias res, analepsis (flashback), prolepsis,
+    elipsis, pausa descriptiva, escena y sumario.
+  Espacio: lugar físico, ambiente psicológico y social.
+  Tema: idea central (amor, muerte, poder, identidad, libertad).
+  Motivos y símbolos recurrentes.
+  Tono y atmósfera: emocional (sombrío, irónico, lírico).
+  Conflicto: persona contra persona, contra sí misma, contra la
+    sociedad, contra la naturaleza o contra el destino.
+
+
+4. RECURSOS LITERARIOS
+----------------------
+Fonéticos: aliteración, onomatopeya, paronomasia, rima.
+Semánticos (tropos):
+  Metáfora: identificación de dos realidades ("el tiempo es
+    oro").
+  Símil o comparación: con nexo ("fuerte como un roble").
+  Personificación o prosopopeya: rasgos humanos a lo no humano.
+  Hipérbole: exageración.  Litote: atenuación.
+  Metonimia: sustitución por relación de contigüidad ("leer a
+    Cervantes" = su obra). Sinécdoque: parte por todo ("diez
+    cabezas de ganado").
+  Antítesis, paradoja, oxímoron ("silencio ensordecedor").
+  Ironía, sarcasmo, eufemismo, símbolo, alegoría, sinestesia
+    ("verde chillón", mezcla de sentidos).
+Sintácticos: anáfora (repetición al inicio), epífora,
+  paralelismo, asíndeton (omisión de conjunciones), polisíndeton
+  (exceso), hipérbaton (alterar el orden), pregunta retórica,
+  gradación, elipsis, enumeración.
+Intertextualidad: alusión, cita, parodia, pastiche.
+Epíteto: adjetivo que resalta una cualidad ("blanca nieve").
+
+
+5. POESÍA: MÉTRICA, RIMA Y FORMAS
+---------------------------------
+Verso: línea del poema. Estrofa: conjunto de versos. Poema.
+Métrica española (medida de los versos):
+  Se cuentan sílabas poéticas, no gramaticales.
+  Sinalefa: unión de la vocal final de una palabra con la inicial
+    de la siguiente (cuenta como una sílaba).
+  Hiato, diéresis y sinéresis.
+  Se añade 1 sílaba si la última palabra es aguda y se resta 1 si
+  es esdrújula.
+  Arte menor: hasta 8 sílabas (octosílabo, heptasílabo,
+  hexasílabo). Arte mayor: 9 o más (endecasílabo, alejandrino de
+  14).
+  Endecasílabo: el verso más importante de la lírica culta
+  (acentos en 6ª, o 4ª y 8ª, y 10ª).
+Rima: consonante (iguales vocales y consonantes desde la última
+  vocal tónica) y asonante (solo vocales). Se marca con letras:
+  mayúsculas para arte mayor (ABBA), minúsculas para arte menor
+  (abba). Verso libre y verso blanco (sin rima, pero con métrica).
+Estrofas: pareado, terceto, cuarteto (ABBA), serventesio (ABAB),
+  quintilla, redondilla (abba, octosílabos), sextilla, octava real
+  (ABABABCC, endecasílabos), décima espinela (abbaaccddc).
+Poemas de forma fija: soneto (14 versos endecasílabos: 2
+  cuartetos + 2 tercetos), romance (octosílabos, rima asonante en
+  versos pares), villancico, zéjel, haiku (5-7-5; origen
+  japonés), caligrama (Apollinaire), canción, lira.
+Lenguaje poético: imágenes, ritmo, musicalidad, silencio, sugerencia.
+
+
+6. TEATRO
+---------
+  Texto dramático: diálogo, monólogo, aparte, acotación.
+  Estructura: acto, escena, cuadro.
+  Conflicto dramático, personajes, ritmo, tensión.
+  Unidades clásicas (Aristóteles / neoclasicismo): acción, tiempo
+  y lugar.
+  Tragedia: héroe con falla (hamartia), catarsis (Sófocles,
+  Shakespeare). Comedia: enredo, humor, final feliz.
+  Teatro del Siglo de Oro: Lope de Vega, Calderón, Tirso. Teatro
+  isabelino: Shakespeare (Hamlet, Macbeth, Otelo, Romeo y Julieta).
+  Teatro moderno: Ibsen, Chéjov, Brecht, Lorca, Beckett (absurdo),
+  Miller, Williams.
+  Puesta en escena: dirección, actores, escenografía, iluminación,
+  vestuario, sonido.
+
+
+7. HISTORIA DE LA LITERATURA
+----------------------------
+  Antigüedad: Epopeya de Gilgamesh, textos védicos, Biblia
+    hebrea, Homero, Hesíodo, Safo, Esquilo, Sófocles, Eurípides,
+    Aristófanes, Heródoto, Platón, Aristóteles, Virgilio (Eneida),
+    Ovidio (Metamorfosis), Horacio.
+  Literatura oriental: Mil y una noches, Li Bai y Du Fu, Murasaki
+    Shikibu (Genji Monogatari), Matsuo Basho (haiku), Rumi.
+  Edad Media: Beowulf, Cantar de Mio Cid, Chanson de Roland,
+    Dante (Divina Comedia), Boccaccio (Decamerón), Chaucer
+    (Cuentos de Canterbury), Libro de buen amor, Jorge Manrique.
+  Renacimiento: Petrarca, Garcilaso de la Vega, Fray Luis de León,
+    Rabelais, Montaigne, Shakespeare, Lazarillo de Tormes.
+  Siglo de Oro español: Cervantes (Don Quijote), Lope de Vega,
+    Quevedo, Góngora, Calderón de la Barca, sor Juana Inés de la
+    Cruz (Nueva España).
+  Siglo XVIII (Ilustración, Neoclasicismo): Voltaire, Rousseau,
+    Swift, Defoe, Moratín.
+  Romanticismo: Goethe, Byron, Shelley, Keats, Victor Hugo,
+    Poe, Espronceda, Bécquer, Rosalía de Castro, Leopardi.
+  Realismo y Naturalismo: Stendhal, Balzac, Flaubert, Dickens,
+    Dostoyevski, Tolstói, Galdós, Clarín, Zola, Chéjov, Twain.
+  Modernismo y fin de siglo: Rubén Darío, José Martí, Baudelaire,
+    Rimbaud, Mallarmé, Wilde, Whitman.
+  Siglo XX: Kafka, Joyce, Proust, Woolf, Faulkner, Hemingway,
+    Fitzgerald, Camus, Sartre, Orwell, Huxley, Pessoa, Thomas
+    Mann, García Lorca, Machado, Neruda, Miguel Hernández,
+    Borges, Octavio Paz, Beckett, Nabokov, Calvino, Eco,
+    Solzhenitsyn.
+  Siglo XXI: autoficción y novela global (Houellebecq, Ferrante,
+    Murakami, Adichie, Ishiguro, Han Kang, Annie Ernaux, Patricio
+    Pron, Samanta Schweblin, Mariana Enríquez), literatura digital
+    y de autopublicación.
+  Nobel de Literatura hispanos: Echegaray, Benavente, Gabriela
+    Mistral, Juan Ramón Jiménez, Asturias, Neruda, Aleixandre,
+    García Márquez, Cela, Octavio Paz, Vargas Llosa.
+
+
+8. LITERATURA HISPANOAMERICANA Y ECUATORIANA
+--------------------------------------------
+  Precolombina: Popol Vuh (maya quiché), Chilam Balam, poesía
+    náhuatl (Nezahualcóyotl), Ollantay (quechua), mitos y
+    tradiciones orales.
+  Colonia: crónicas (Inca Garcilaso de la Vega, Bernal Díaz),
+    sor Juana Inés de la Cruz, Juan de Espinosa Medrano.
+  Independencia y Romanticismo: José Joaquín de Olmedo (La victoria
+    de Junín; ecuatoriano de Guayaquil), Andrés Bello, Esteban
+    Echeverría, Jorge Isaacs (María), José Mármol.
+  Modernismo: Rubén Darío, José Martí, José Asunción Silva, Julio
+    Herrera y Reissig; en Ecuador, la "generación decapitada"
+    (Medardo Ángel Silva, Arturo Borja, Ernesto Noboa y Caamaño,
+    Humberto Fierro).
+  Realismo social, indigenismo y regionalismo: Jorge Icaza
+    (Huasipungo, Ecuador), Ciro Alegría, José María Arguedas,
+    Rómulo Gallegos, José Eustasio Rivera, Horacio Quiroga.
+    Grupo de Guayaquil (Demetrio Aguilera Malta, Joaquín Gallegos
+    Lara, Enrique Gil Gilbert, José de la Cuadra, Alfredo Pareja
+    Diezcanseco).
+  Vanguardias: Vicente Huidobro, César Vallejo, Neruda, Borges,
+    Alfonsina Storni, Gabriela Mistral.
+  Boom latinoamericano (años 60-70) y realismo mágico: Cortázar
+    (Rayuela), García Márquez (Cien años de soledad), Vargas Llosa,
+    Fuentes, Donoso, Rulfo (Pedro Páramo), Carpentier, Sábato,
+    Onetti, Bioy Casares.
+  Poscolonial y contemporánea: Bolaño, Isabel Allende, Laura
+    Esquivel, Elena Poniatowska, Piglia, Aira, Zambra, Guadalupe
+    Nettel, Fernanda Melchor.
+  Literatura ecuatoriana contemporánea: Jorge Enrique Adoum, Pablo
+    Palacio (Vida del ahorcado), Alicia Yánez Cossío, Abdón Ubidia,
+    Raúl Pérez Torres, Eliécer Cárdenas, Javier Vásconez, Gabriela
+    Alemán, María Fernanda Ampuero, Mónica Ojeda, Natalia García
+    Freire en narrativa; poesía:
+    Jorge Carrera Andrade, César Dávila Andrade, Efraín Jara
+    Idrovo, Juan Pablo Castro, Ileana Espinel, Ana Minga.
+  Poesía hispanoamericana: Neruda, Vallejo, Paz, Mistral,
+    Nicanor Parra, Alejandra Pizarnik, Juan Gelman, Idea Vilariño,
+    Blanca Varela.
+
+
+9. TEORÍA Y CRÍTICA LITERARIA
+-----------------------------
+  Retórica y poética clásicas: Aristóteles (mímesis, catarsis).
+  Crítica histórico-biográfica (Sainte-Beuve).
+  Formalismo ruso y estructuralismo: el texto como sistema
+  (Jakobson, Propp, Todorov, Barthes, Genette).
+  Nueva crítica anglosajona: lectura atenta (close reading).
+  Psicoanálisis (Freud, Lacan): inconsciente en el texto.
+  Marxismo: obra y sociedad (Lukács, Benjamin, Eagleton).
+  Estética de la recepción: el lector construye el sentido (Iser,
+  Jauss, Eco).
+  Posestructuralismo y deconstrucción: Derrida, Barthes ("la muerte
+  del autor"), Foucault.
+  Crítica feminista, de género y queer; crítica poscolonial
+  (Said, Spivak); ecocrítica; estudios culturales; humanidades
+  digitales.
+  Conceptos útiles: canon, intertextualidad (Kristeva), polifonía
+  (Bajtín), verosimilitud, mímesis, autor implícito, lector
+  modelo.
+
+
+10. CÓMO LEER Y ANALIZAR UN TEXTO
+---------------------------------
+  Antes de leer: título, autor, contexto, género.
+  Durante: subrayar, anotar, buscar vocabulario, identificar
+  personajes, tiempo y espacio, hacer preguntas.
+  Después: resumir, localizar el tema, analizar estructura, voz
+  narrativa, recursos, simbolismo y contexto histórico.
+  Estructura de un comentario de texto: introducción (contextualizar
+  y presentar tesis), análisis (forma y contenido con citas
+  breves), conclusión.
+  Lee de forma variada: clásicos y contemporáneos, géneros
+  distintos, autores de diferentes culturas, y vuelve a leer lo
+  que te marcó.
+
+
+##############################################################
+PARTE B. ESCRITURA CREATIVA
+##############################################################
+
+11. FUNDAMENTOS DE LA ESCRITURA
+-------------------------------
+  Escribir es pensar con claridad y comunicar con intención.
+  Claves: claridad, precisión, concreción, ritmo, economía de
+  palabras, originalidad.
+  Mostrar, no contar (show, don't tell):
+    Contar: "Ana estaba nerviosa."
+    Mostrar: "Ana mordió el borde de la libreta hasta dejarlo
+    húmedo y volvió a mirar el reloj."
+  Usa los cinco sentidos, detalles específicos y verbos fuertes.
+  Evita lugares comunes, adverbios en exceso (-mente), voz pasiva
+  innecesaria y repeticiones.
+  Lo concreto emociona más que lo abstracto.
+  Principio del iceberg (Hemingway): lo no dicho sostiene el texto.
+  Chéjov: "no me digas que la luna brilla; muéstrame el destello
+  de la luz en un cristal roto" (idea atribuida).
+
+
+12. CONSTRUCCIÓN DE PERSONAJES
+------------------------------
+  Un buen personaje desea algo, tiene un obstáculo, un conflicto
+  interno y una voz propia.
+  Elementos: deseo (lo que quiere), necesidad (lo que realmente
+  precisa), miedo, herida, secreto, contradicción, manías,
+  historia previa, vocabulario y gestos.
+  Arco del personaje: cambio interno a lo largo de la historia
+  (positivo, negativo o plano).
+  Protagonista activo: toma decisiones; no solo le pasan cosas.
+  Antagonista: debe tener motivos creíbles; el mejor villano cree
+  tener razón.
+  Personajes secundarios: funcionan como espejos, aliados,
+  mentores, catalizadores.
+  Arquetipos (Jung, Campbell, Vogler): héroe, mentor, sombra,
+  embaucador, guardián del umbral, heraldo, camaleón.
+  Ficha de personaje: nombre, edad, aspecto, trabajo, familia,
+  deseos, miedos, secretos, frase típica, qué haría en situación X.
+  Evita estereotipos y haz que cada personaje hable distinto.
+
+
+13. TRAMA Y ESTRUCTURA
+----------------------
+  Trama = causalidad. "El rey murió y luego la reina murió" es una
+  secuencia; "el rey murió y la reina murió de pena" es una trama
+  (E. M. Forster).
+  Estructura en tres actos: planteamiento (~25 %), confrontación
+  (~50 %), resolución (~25 %). Puntos de giro. Punto medio.
+  Viaje del héroe (Campbell/Vogler): mundo ordinario, llamada a la
+  aventura, rechazo, mentor, cruce del umbral, pruebas, aliados y
+  enemigos, aproximación a la caverna, ordalía, recompensa,
+  camino de vuelta, resurrección, regreso con el elixir.
+  Estructura en 5 actos (Freytag), "Save the Cat" (Snyder),
+  estructura en siete puntos, estructura circular, en espiral,
+  fragmentada, epistolar o coral.
+  Conflicto y estacas (qué se pierde si el protagonista falla).
+  Escena: tiene objetivo, conflicto y resultado; entra tarde, sale
+  temprano. Cada escena debe cambiar algo.
+  Suspense (el lector sabe más que el personaje) vs sorpresa.
+  Anticipación (foreshadowing) y pistas (arma de Chéjov: si hay un
+  arma en el primer acto, debe dispararse en el tercero).
+  Cliffhanger, giros, falsas pistas (red herrings).
+  Ritmo: alterna acción, reflexión y descanso.
+  Final: inevitable pero sorprendente; abierto o cerrado según la
+  intención. Debe resolver la pregunta dramática central.
+
+
+14. NARRADOR Y PUNTO DE VISTA
+-----------------------------
+  Primera persona (yo): protagonista o testigo. Íntimo, subjetivo,
+  limitado; puede ser narrador no fiable.
+  Segunda persona (tú): rara, efecto particular (La modificación
+  de Butor; textos de Cortázar).
+  Tercera persona: omnisciente (sabe todo), limitada (acompaña a un
+  personaje), objetiva o cámara (solo lo externo).
+  Narrador testigo, narrador coral, múltiples puntos de vista.
+  Distancia narrativa: de lo íntimo a lo lejano.
+  Estilo directo, indirecto e indirecto libre (mezcla la voz del
+  narrador con el pensamiento del personaje).
+  Tiempo verbal: pasado (habitual), presente (inmediatez),
+  futuro (raro).
+  Coherencia: no cambies de punto de vista sin una razón clara.
+
+
+15. DIÁLOGO
+-----------
+  Sirve para revelar personaje, avanzar la trama y generar
+  conflicto. No es conversación real: es selección y esencia.
+  Subtexto: lo que se piensa pero no se dice.
+  Cada personaje con ritmo, léxico y registro distintos.
+  Evita diálogos informativos forzados ("Como sabes, hermano...").
+  Puntuación en español: raya (—) para marcar diálogos.
+    —¿Vienes? —preguntó Marta.
+    —No —respondió él, sin mirarla.
+  Los verbos de habla (dijo, preguntó) pasan casi invisibles;
+  evita adornarlos en exceso. Usa acciones (beats) para ritmo.
+  Lee en voz alta tus diálogos para comprobar que suenen naturales.
+
+
+16. AMBIENTACIÓN Y CONSTRUCCIÓN DE MUNDOS
+-----------------------------------------
+  El espacio refleja el estado emocional y moldea la acción.
+  Descripción selectiva: pocos detalles significativos, no
+  inventarios.
+  Sensorial: sonido, olor, textura, temperatura.
+  Construcción de mundos (worldbuilding) en fantasía y ciencia
+  ficción: geografía, historia, cultura, religión, economía,
+  política, tecnología o magia, lenguaje, costumbres, conflictos.
+  Reglas coherentes: los sistemas de magia o tecnología deben tener
+  límites y costes (Leyes de Sanderson).
+  Muestra el mundo a través de personajes; evita volcados de
+  información (info dumps).
+  Investiga para la ficción histórica; la verosimilitud importa
+  más que la verdad literal.
+
+
+17. ESTILO, VOZ Y LENGUAJE
+--------------------------
+  Voz: huella personal del autor o narrador.
+  Ritmo de la prosa: frases cortas aceleran y crean tensión; frases
+  largas ralentizan y sumergen; combínalas.
+  Registro: coloquial, culto, técnico, arcaico.
+  Elige palabras precisas; el adjetivo justo vale más que tres.
+  Evita clichés y muletillas, gerundios en exceso, ambigüedades.
+  Imita para aprender: copia el estilo de autores que admires como
+  ejercicio, y luego encuentra el tuyo.
+  Humor: ironía, exageración, sorpresa, timing.
+  Tono: cómo se siente el texto (nostálgico, cínico, tierno).
+  Lenguaje figurado con medida; una buena metáfora es nueva y
+  exacta.
+
+
+18. ESCRIBIR POESÍA
+-------------------
+  Parte de una imagen, emoción u observación concreta.
+  Prioriza la imagen y el ritmo sobre la explicación.
+  Corta lo sobrante; el poema vive de lo esencial.
+  Juega con saltos de línea, silencios, sonoridad.
+  Experimenta con forma: verso libre, soneto, haiku, poema en
+  prosa.
+  Ejercicio de haiku: tres versos de 5-7-5 sílabas que capten un
+  instante natural.
+  Escucha el poema en voz alta; corrige donde tropieces.
+  Lee mucha poesía; nutre tu oído.
+
+
+19. PROCESO DE ESCRITURA Y REVISIÓN
+-----------------------------------
+  Etapas: idea -> planificación (esquema, ficha de personajes) ->
+  primer borrador -> reposo -> revisión estructural -> revisión de
+  escenas y personajes -> revisión de estilo -> corrección
+  ortotipográfica -> lectura final y lectores beta.
+  "El primer borrador es para ti mismo" (idea atribuida a
+  Hemingway): escribe sin censurarte, edita después.
+  Planificadores (arquitectos) vs improvisadores (jardineros):
+  elige el método que te funcione.
+  Revisión: ¿cada escena cumple una función? ¿Hay conflicto? ¿Los
+  personajes son coherentes? ¿Se entiende? ¿Hay repeticiones?
+  Elimina todo lo que no aporte.
+  Recibe críticas con apertura: talleres literarios, lectores de
+  confianza.
+  Publicación: revistas, concursos, editoriales, agentes,
+  autopublicación; derechos de autor.
+
+
+20. GÉNEROS Y FORMATOS PARA ESCRIBIR
+------------------------------------
+  Cuento: unidad de efecto, pocos personajes, final significativo.
+    Estructura: inicio fuerte, tensión, giro y cierre.
+  Microrrelato: narrativa en pocas líneas, sugerencia, final
+    abierto.
+  Novela: arco amplio, subtramas, desarrollo profundo.
+  Crónica y periodismo narrativo: hechos reales con técnicas
+    literarias.
+  Ensayo: tesis, argumentos, voz propia.
+  Guion: formato audiovisual; acción en presente, diálogos
+    concisos, imágenes.
+  Teatro, canción, monólogo, stand-up.
+  Escritura de no ficción: memorias, biografías, divulgación.
+  Escritura digital: blogs, hilos, newsletters, narrativa
+  interactiva, juegos narrativos.
+
+
+21. GRAMÁTICA Y ORTOGRAFÍA ESENCIALES
+-------------------------------------
+  Acentuación: agudas (acento en la última sílaba; llevan tilde
+  si terminan en n, s o vocal: canción), llanas o graves (acento
+  en la penúltima; llevan tilde si NO terminan en n, s o vocal:
+  árbol), esdrújulas y sobresdrújulas (siempre llevan tilde:
+  teléfono).
+  Tilde diacrítica: tú/tu, él/el, mí/mi, sí/si, té/te (las
+  palabras "solo" y "este/ese/aquel" no llevan tilde, según la RAE).
+  Signos: coma (pausas, enumeraciones, vocativos, incisos), punto
+  y coma, dos puntos, puntos suspensivos, comillas, guiones y
+  rayas, signos de interrogación y exclamación de apertura y
+  cierre (¿? ¡!).
+  Mayúsculas: inicio de oración, nombres propios.
+  Uso de b/v, g/j, h, ll/y, c/s/z: reglas y diccionario.
+  Concordancia de género, número y persona. Tiempos verbales y
+  modos (indicativo, subjuntivo, imperativo).
+  Errores frecuentes: dequeísmo ("pienso de que"), queísmo
+  ("me alegro que"), laísmo/leísmo, "haber" vs "a ver", "porque /
+  por qué / porqué / por que".
+  Usa el diccionario de la RAE, el Diccionario panhispánico de dudas
+  y la Fundéu.
+
+
+22. HÁBITOS Y EJERCICIOS
+------------------------
+  Hábitos: escribe a diario (aunque sean 10 minutos), lleva un
+  cuaderno de ideas, lee a menudo, observa a las personas, escucha
+  cómo hablan.
+  Ejercicios:
+    1) Escritura libre de 10 minutos sin detenerte.
+    2) Describe una habitación a través de los ojos de alguien que
+       acaba de perder algo.
+    3) Escribe un diálogo donde dos personajes hablan de algo
+       trivial pero esconden un conflicto.
+    4) Reescribe una escena cambiando el narrador.
+    5) Escribe un microrrelato de 50 palabras con un giro final.
+    6) Elige un objeto cotidiano y cuenta su historia.
+    7) Empieza un cuento con una frase de otro autor y sigue por
+       tu cuenta.
+    8) Transforma un hecho real que viviste en ficción.
+    9) Escribe un poema usando solo imágenes concretas.
+    10) Toma una escena y recórtala a la mitad sin perder fuerza.
+  Escribir es oficio: se mejora con práctica, lectura y revisión.
+==============================================================

@@ -1,0 +1,374 @@
+==============================================================
+QUÍMICA: DE LA MATERIA A LA BIOQUÍMICA
+==============================================================
+
+ÍNDICE
+  1. La química y la materia
+  2. El átomo
+  3. Tabla periódica
+  4. Enlaces químicos
+  5. Nomenclatura y formulación
+  6. Mol y estequiometría
+  7. Gases
+  8. Soluciones
+  9. Termoquímica y termodinámica
+  10. Cinética química
+  11. Equilibrio químico
+  12. Ácidos y bases
+  13. Redox y electroquímica
+  14. Química orgánica
+  15. Bioquímica
+  16. Química analítica, inorgánica y de materiales
+  17. Seguridad y laboratorio
+
+
+##############################################################
+1. LA QUÍMICA Y LA MATERIA
+##############################################################
+La química estudia la composición, estructura, propiedades y
+transformaciones de la materia.
+
+  Materia: todo lo que tiene masa y ocupa lugar.
+  Sustancia pura: elemento (un solo tipo de átomo: O2, Fe) o
+  compuesto (varios elementos en proporción fija: H2O, NaCl).
+  Mezcla: homogénea (disolución, aire) o heterogénea (arena y agua).
+  Separación de mezclas: filtración, decantación, destilación,
+  cristalización, cromatografía, imantación, tamizado.
+  Estados: sólido, líquido, gas, plasma (y condensado de
+  Bose-Einstein). Cambios de estado: fusión, solidificación,
+  vaporización, condensación, sublimación, deposición.
+  Propiedades físicas (densidad, punto de fusión, solubilidad) y
+  químicas (inflamabilidad, reactividad).
+  Cambio físico: no cambia la identidad de la sustancia. Cambio
+  químico: se forman sustancias nuevas (signos: gas, precipitado,
+  color, calor, luz).
+  Ley de conservación de la masa (Lavoisier): en una reacción la
+  masa total no cambia.
+
+
+##############################################################
+2. EL ÁTOMO
+##############################################################
+2.1 Partículas subatómicas
+--------------------------
+  Protón: carga +1, masa ≈ 1 u, en el núcleo.
+  Neutrón: carga 0, masa ≈ 1 u, en el núcleo.
+  Electrón: carga -1, masa ≈ 1/1836 u, en la nube electrónica.
+  Número atómico Z = protones (define el elemento).
+  Número másico A = protones + neutrones.
+  Isótopos: igual Z, distinto A (C-12, C-14).
+  Iones: cationes (pierden electrones, +) y aniones (ganan, -).
+
+2.2 Modelos atómicos
+--------------------
+  Dalton (esferas indivisibles) -> Thomson (budín de pasas, electrón)
+  -> Rutherford (núcleo denso) -> Bohr (órbitas cuantizadas) ->
+  modelo mecánico-cuántico (orbitales: regiones de probabilidad).
+
+2.3 Números cuánticos
+---------------------
+  n (nivel de energía, 1, 2, 3...)
+  l (forma del orbital: s, p, d, f; l = 0 a n-1)
+  m_l (orientación)
+  m_s (espín, +1/2 o -1/2)
+  Orbitales: s (1 orbital, 2 e-), p (3, 6 e-), d (5, 10 e-), f (7,
+  14 e-).
+
+2.4 Configuración electrónica
+-----------------------------
+  Principio de Aufbau (menor energía primero), exclusión de Pauli,
+  regla de Hund.
+  Orden: 1s 2s 2p 3s 3p 4s 3d 4p 5s 4d 5p 6s 4f 5d 6p 7s 5f 6d 7p.
+  Ejemplos: O (Z=8): 1s2 2s2 2p4.  Na (Z=11): [Ne] 3s1.
+  Cl (Z=17): [Ne] 3s2 3p5.
+  Electrones de valencia: los del nivel más externo; determinan el
+  comportamiento químico.
+
+
+##############################################################
+3. TABLA PERIÓDICA
+##############################################################
+  Los elementos se ordenan por Z creciente. Periodos (filas, 7) y
+  grupos (columnas, 18). Mendeleev la propuso en 1869 prediciendo
+  elementos aún no descubiertos.
+  Bloques: s, p, d, f.
+  Familias: alcalinos (grupo 1), alcalinotérreos (2), metales de
+  transición, térreos (13), carbonoideos (14), nitrogenoideos (15),
+  anfígenos o calcógenos (16), halógenos (17), gases nobles (18).
+  Metales (brillo, conductores, maleables), no metales,
+  semimetales (metaloides: B, Si, Ge, As).
+
+3.1 Propiedades periódicas
+--------------------------
+  Radio atómico: aumenta hacia abajo y hacia la izquierda.
+  Energía de ionización: aumenta hacia arriba y a la derecha.
+  Afinidad electrónica y electronegatividad: aumentan hacia arriba y
+  a la derecha (el flúor es el más electronegativo).
+  Carácter metálico: aumenta hacia abajo y a la izquierda.
+
+
+##############################################################
+4. ENLACES QUÍMICOS
+##############################################################
+  Regla del octeto: los átomos tienden a rodearse de 8 electrones
+  de valencia (con excepciones: H y He con 2; B, Be, expansión del
+  octeto en P, S).
+  Iónico: transferencia de electrones entre metal y no metal.
+  Forma redes cristalinas, altos puntos de fusión, conducen en
+  disolución o fundidos (NaCl).
+  Covalente: se comparten pares de electrones entre no metales.
+    No polar (ΔEN < 0,4): H2, Cl2. Polar (0,4 - 1,7): H2O, HCl.
+    Enlaces simples, dobles (O2, CO2), triples (N2).
+    Covalente reticular: diamante, SiO2.
+  Metálico: cationes en un mar de electrones: conductividad y
+  maleabilidad.
+  Estructuras de Lewis: representan electrones de valencia.
+  Geometría molecular (VSEPR): lineal (CO2), angular (H2O),
+  trigonal plana (BF3), tetraédrica (CH4), piramidal (NH3).
+  Hibridación: sp, sp2, sp3.
+  Polaridad molecular: depende de la geometría y de la
+  electronegatividad.
+  Fuerzas intermoleculares (de menor a mayor): dispersión de London,
+  dipolo-dipolo, puentes de hidrógeno (N, O, F unidos a H).
+  Explican el alto punto de ebullición del agua.
+
+
+##############################################################
+5. NOMENCLATURA Y FORMULACIÓN
+##############################################################
+  Estado de oxidación: carga aparente de un átomo en un compuesto.
+  Óxidos metálicos: Na2O (óxido de sodio).
+  Óxidos no metálicos: CO2 (dióxido de carbono).
+  Hidróxidos: NaOH (hidróxido de sodio).
+  Ácidos: HCl (ácido clorhídrico), H2SO4 (ácido sulfúrico), HNO3
+  (nítrico), H3PO4 (fosfórico).
+  Sales: NaCl (cloruro de sodio), CaCO3 (carbonato de calcio).
+  Nomenclatura IUPAC, de stock (con números romanos: Fe(III)) y
+  tradicional.
+  Iones poliatómicos: NH4+, OH-, NO3-, SO4 2-, CO3 2-, PO4 3-.
+
+
+##############################################################
+6. MOL Y ESTEQUIOMETRÍA
+##############################################################
+  Mol: 6,022 x 10^23 partículas (número de Avogadro).
+  Masa molar (g/mol): coincide numéricamente con la masa atómica o
+  molecular. H2O: 2(1) + 16 = 18 g/mol.
+  n = m / M.
+  Volumen molar de gas ideal en CNPT (0 °C, 1 atm): 22,4 L/mol.
+  Composición porcentual, fórmula empírica y molecular.
+  Balanceo de ecuaciones: igualar átomos de cada elemento.
+    CH4 + 2 O2 -> CO2 + 2 H2O
+    4 Fe + 3 O2 -> 2 Fe2O3
+  Cálculos: moles de A -> moles de B (razón de coeficientes) ->
+  gramos de B.
+  Reactivo limitante: el que se consume primero.
+  Rendimiento = (real / teórico) x 100.
+Ejemplo: ¿Cuántos gramos de agua se forman con 4 g de H2?
+  2 H2 + O2 -> 2 H2O. 4 g H2 = 2 mol -> 2 mol H2O = 36 g.
+
+
+##############################################################
+7. GASES
+##############################################################
+  Presión (atm, Pa, mmHg), volumen, temperatura (en K), moles.
+  Boyle: P V = cte (T constante).
+  Charles: V/T = cte.  Gay-Lussac: P/T = cte.
+  Combinada: P1V1/T1 = P2V2/T2.
+  Avogadro: V proporcional a n.
+  Gas ideal: P V = n R T (R = 0,0821 atm L/(mol K)).
+  Dalton: P total = suma de presiones parciales.
+  Gases reales: ecuación de Van der Waals.
+  Teoría cinético-molecular. Ley de Graham (efusión).
+
+
+##############################################################
+8. SOLUCIONES
+##############################################################
+  Soluto y solvente. Concentraciones:
+    Molaridad M = mol soluto / L solución.
+    Molalidad m = mol soluto / kg solvente.
+    % masa/masa, % masa/volumen, ppm.
+    Fracción molar.
+  Dilución: C1 V1 = C2 V2.
+  Solubilidad: depende de temperatura (sólidos: suele aumentar; gases:
+  disminuye) y presión (gases, Ley de Henry).
+  "Lo similar disuelve a lo similar" (polar disuelve polar).
+  Propiedades coligativas: descenso de la presión de vapor, aumento
+  ebulloscópico, descenso crioscópico, presión osmótica (π = M R T).
+  Electrolitos fuertes, débiles y no electrolitos.
+  Coloides y suspensiones; efecto Tyndall.
+
+
+##############################################################
+9. TERMOQUÍMICA Y TERMODINÁMICA
+##############################################################
+  Sistema, entorno, sistemas abiertos/cerrados/aislados.
+  Entalpía (H): calor a presión constante. ΔH < 0: exotérmica; ΔH > 0:
+  endotérmica.
+  Ley de Hess: la entalpía total de una reacción es la suma de las de
+  sus pasos.
+  Entalpías de formación estándar: ΔH°rxn = Σ ΔH°f(productos) - Σ
+  ΔH°f(reactivos).
+  Calorimetría: q = m c ΔT.
+  Entropía (S): desorden. ΔS > 0 favorece la espontaneidad.
+  Energía libre de Gibbs: ΔG = ΔH - T ΔS. ΔG < 0 espontáneo; ΔG = 0
+  equilibrio; ΔG > 0 no espontáneo.
+  Relación con el equilibrio: ΔG° = -R T ln K.
+
+
+##############################################################
+10. CINÉTICA QUÍMICA
+##############################################################
+  Velocidad de reacción: cambio de concentración por unidad de tiempo.
+  Ley de velocidad: v = k [A]^m [B]^n (órdenes determinados
+  experimentalmente).
+  Factores: concentración, temperatura, superficie de contacto,
+  catalizadores, naturaleza de los reactivos.
+  Teoría de colisiones: se requiere energía suficiente (energía de
+  activación Ea) y orientación adecuada.
+  Ecuación de Arrhenius: k = A e^(-Ea/RT).
+  Catalizador: disminuye Ea sin consumirse (enzimas, convertidores
+  catalíticos).
+  Mecanismos de reacción, paso determinante de la velocidad.
+  Vida media de una reacción de primer orden: t1/2 = 0,693/k.
+
+
+##############################################################
+11. EQUILIBRIO QUÍMICO
+##############################################################
+  Reacciones reversibles: aA + bB <-> cC + dD.
+  Constante de equilibrio: K = [C]^c [D]^d / ([A]^a [B]^b)
+  (sólidos y líquidos puros no se incluyen).
+  Q (cociente de reacción) vs K: si Q < K la reacción avanza hacia
+  productos.
+  Principio de Le Châtelier: al perturbar un equilibrio, este se
+  desplaza para contrarrestar el cambio (concentración, presión,
+  temperatura; el catalizador no lo desplaza).
+  Ejemplo industrial: proceso Haber-Bosch (N2 + 3H2 <-> 2NH3).
+  Equilibrio de solubilidad: Kps.
+
+
+##############################################################
+12. ÁCIDOS Y BASES
+##############################################################
+  Arrhenius: ácido libera H+; base libera OH-.
+  Brønsted-Lowry: ácido dona protón; base lo acepta (pares
+  conjugados).
+  Lewis: ácido acepta par de electrones; base lo dona.
+  pH = -log[H+]; pOH = -log[OH-]; pH + pOH = 14 (25 °C).
+  Kw = [H+][OH-] = 1 x 10^-14.
+  Ácidos y bases fuertes (se disocian totalmente: HCl, NaOH) y
+  débiles (parcialmente: CH3COOH, NH3), con Ka y Kb.
+  Neutralización: ácido + base -> sal + agua.
+  Soluciones amortiguadoras (buffer): resisten cambios de pH
+  (ecuación de Henderson-Hasselbalch: pH = pKa + log([A-]/[HA])).
+  Titulaciones e indicadores (fenolftaleína, azul de bromotimol).
+  pH ejemplos: jugo gástrico ≈ 2; agua pura 7; sangre ≈ 7,4;
+  lejía ≈ 12.
+
+
+##############################################################
+13. REDOX Y ELECTROQUÍMICA
+##############################################################
+  Oxidación: pérdida de electrones (aumenta el estado de
+  oxidación). Reducción: ganancia de electrones.
+  Agente oxidante se reduce; agente reductor se oxida.
+  Balanceo por método del ion-electrón (semirreacciones).
+  Celda galvánica (pila): reacción espontánea produce corriente.
+  Ánodo: oxidación; cátodo: reducción.
+  Potencial estándar: E°celda = E°cátodo - E°ánodo.
+  Ecuación de Nernst: E = E° - (RT/nF) ln Q.
+  Celda electrolítica: se usa corriente para forzar una reacción
+  (electrólisis del agua, galvanoplastia, obtención de aluminio).
+  Leyes de Faraday. Baterías, corrosión y protección.
+
+
+##############################################################
+14. QUÍMICA ORGÁNICA
+##############################################################
+14.1 El carbono
+---------------
+  Tetravalente, forma cadenas, anillos, enlaces simples, dobles y
+  triples.
+14.2 Hidrocarburos
+------------------
+  Alcanos CnH2n+2 (metano, etano, propano, butano).
+  Alquenos CnH2n (eteno). Alquinos CnH2n-2 (etino).
+  Cicloalcanos. Aromáticos (benceno, estabilidad por resonancia).
+  Nomenclatura IUPAC: cadena principal, numeración, sustituyentes.
+14.3 Grupos funcionales
+-----------------------
+  Alcohol R-OH; éter R-O-R; aldehído R-CHO; cetona R-CO-R; ácido
+  carboxílico R-COOH; éster R-COO-R; amina R-NH2; amida R-CONH2;
+  haluro R-X; nitrilo R-CN.
+14.4 Isomería
+-------------
+  Estructural (cadena, posición, función) y estereoisomería
+  (geométrica cis/trans, óptica: enantiómeros, quiralidad).
+14.5 Reacciones orgánicas principales
+-------------------------------------
+  Sustitución (SN1, SN2), adición (a alquenos, regla de Markovnikov),
+  eliminación (E1, E2), oxidación-reducción, esterificación,
+  hidrólisis, condensación, polimerización.
+  Mecanismos: flechas de movimiento de electrones; nucleófilos y
+  electrófilos.
+14.6 Polímeros
+--------------
+  Adición (polietileno, PVC, poliestireno) y condensación (nailon,
+  poliéster, PET). Plásticos, caucho, fibras.
+14.7 Espectroscopía
+-------------------
+  IR (grupos funcionales), RMN (estructura), espectrometría de masas.
+
+
+##############################################################
+15. BIOQUÍMICA
+##############################################################
+  Carbohidratos: glucosa, fructosa, sacarosa, almidón, celulosa.
+  Lípidos: triglicéridos, fosfolípidos, esteroides (colesterol).
+  Proteínas: cadenas de aminoácidos (20 estándar) unidas por enlaces
+  peptídicos. Estructuras primaria, secundaria (hélice alfa, lámina
+  beta), terciaria y cuaternaria. Desnaturalización.
+  Ácidos nucleicos: ADN y ARN (nucleótidos: base + azúcar +
+  fosfato).
+  Enzimas: catalizan reacciones; modelo llave-cerradura y ajuste
+  inducido; cinética de Michaelis-Menten.
+  Metabolismo: glucólisis, ciclo de Krebs, cadena respiratoria, ATP.
+  Vitaminas, hormonas, neurotransmisores.
+
+
+##############################################################
+16. ANALÍTICA, INORGÁNICA Y MATERIALES
+##############################################################
+  Química analítica: análisis cualitativo y cuantitativo;
+  gravimetría, volumetría, espectrofotometría (ley de
+  Beer-Lambert: A = ε l c), cromatografía (HPLC, GC), espectrometría
+  de masas.
+  Química inorgánica: compuestos de coordinación, teoría del campo
+  cristalino, catálisis, organometálicos.
+  Química de materiales: semiconductores, superconductores,
+  nanomateriales (grafeno, nanotubos), cerámicas, aleaciones,
+  baterías de ion-litio.
+  Química ambiental y verde: lluvia ácida, ozono, efecto
+  invernadero, tratamiento de aguas, economía atómica, reducción de
+  residuos.
+  Química nuclear: decaimiento, fisión y fusión.
+
+
+##############################################################
+17. SEGURIDAD Y LABORATORIO
+##############################################################
+  Usar bata, gafas y guantes; conocer la ficha de seguridad (SDS) de
+  cada sustancia; no probar ni oler directamente; añadir ácido al
+  agua (nunca al revés); trabajar con campana extractora para gases
+  tóxicos; etiquetar; desechar residuos según su tipo; conocer
+  ubicación de ducha, lavaojos y extintor.
+  Material básico: matraz, probeta, bureta, pipeta, vaso de
+  precipitados, mechero, balanza analítica, embudo, tubos de
+  ensayo, termómetro.
+
+Consejos de estudio: domina la tabla periódica y sus tendencias, el
+mol y la estequiometría; son la base de casi todo lo demás. Practica
+balanceo y cálculos. Relaciona estructura con propiedades.
+==============================================================

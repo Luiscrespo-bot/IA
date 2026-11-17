@@ -1,0 +1,397 @@
+==============================================================
+FÍSICA: DE LAS MAGNITUDES BÁSICAS A LA FÍSICA MODERNA
+==============================================================
+
+ÍNDICE
+  1. ¿Qué es la física? Magnitudes y unidades
+  2. Cinemática
+  3. Dinámica (leyes de Newton)
+  4. Trabajo, energía y potencia
+  5. Cantidad de movimiento y colisiones
+  6. Movimiento circular, rotación y gravitación
+  7. Fluidos
+  8. Oscilaciones y ondas
+  9. Termodinámica
+  10. Electricidad
+  11. Magnetismo y electromagnetismo
+  12. Óptica
+  13. Relatividad
+  14. Mecánica cuántica
+  15. Física nuclear y de partículas
+  16. Astrofísica y cosmología
+  17. Constantes y fórmulas útiles
+
+
+##############################################################
+1. ¿QUÉ ES LA FÍSICA? MAGNITUDES Y UNIDADES
+##############################################################
+La física estudia la materia, la energía, el espacio y el tiempo, y
+las leyes que gobiernan sus interacciones. Se basa en observar,
+medir, modelar con matemáticas y comprobar con experimentos.
+
+1.1 Magnitudes
+--------------
+Magnitud: propiedad medible. Escalares (solo valor: masa, tiempo,
+temperatura, energía) y vectoriales (valor, dirección y sentido:
+velocidad, fuerza, aceleración).
+
+1.2 Sistema Internacional (SI)
+------------------------------
+  Longitud: metro (m)      Masa: kilogramo (kg)
+  Tiempo: segundo (s)      Corriente eléctrica: amperio (A)
+  Temperatura: kelvin (K)  Cantidad de sustancia: mol
+  Intensidad luminosa: candela (cd)
+Derivadas: newton (N = kg m/s^2), joule (J = N m), watt (W = J/s),
+pascal (Pa = N/m^2), hertz (Hz = 1/s), coulomb (C), voltio (V),
+ohmio (Ω), tesla (T).
+Prefijos: kilo (10^3), mega (10^6), giga (10^9), tera (10^12);
+mili (10^-3), micro (10^-6), nano (10^-9), pico (10^-12).
+
+1.3 Cifras significativas, error y análisis dimensional
+-------------------------------------------------------
+Toda medición tiene incertidumbre. El análisis dimensional verifica
+fórmulas: ambos lados deben tener las mismas unidades.
+Ejemplo: x = v t -> [m] = [m/s][s]. Correcto.
+
+
+##############################################################
+2. CINEMÁTICA (descripción del movimiento)
+##############################################################
+  Posición x, desplazamiento Δx, velocidad media v = Δx/Δt,
+  rapidez (módulo), aceleración a = Δv/Δt.
+
+2.1 MRU (movimiento rectilíneo uniforme): velocidad constante.
+    x = x0 + v t
+2.2 MRUA (aceleración constante):
+    v = v0 + a t
+    x = x0 + v0 t + (1/2) a t^2
+    v^2 = v0^2 + 2 a Δx
+2.3 Caída libre: a = g ≈ 9,8 m/s^2 hacia abajo (sin resistencia del
+    aire). Todos los cuerpos caen con la misma aceleración.
+2.4 Tiro parabólico: se separa en horizontal (MRU) y vertical (MRUA).
+    Alcance: R = v0^2 sen(2θ)/g. Altura máxima: H = v0^2 sen^2(θ)/(2g).
+    Máximo alcance a 45°.
+2.5 Movimiento relativo: velocidades se suman vectorialmente entre
+    sistemas de referencia (a velocidades pequeñas frente a c).
+2.6 Gráficas: la pendiente de x-t es la velocidad; la pendiente de
+    v-t es la aceleración; el área bajo v-t es el desplazamiento.
+
+
+##############################################################
+3. DINÁMICA (causas del movimiento)
+##############################################################
+3.1 Leyes de Newton
+-------------------
+  1ª (inercia): un cuerpo sigue en reposo o en MRU si la fuerza neta
+     sobre él es cero.
+  2ª: ΣF = m a. La aceleración es proporcional a la fuerza neta e
+     inversamente proporcional a la masa.
+  3ª (acción-reacción): si A ejerce fuerza sobre B, B ejerce sobre A
+     una fuerza igual y opuesta (actúan sobre cuerpos distintos).
+
+3.2 Fuerzas comunes
+-------------------
+  Peso: P = m g.   Normal: perpendicular a la superficie.
+  Tensión: en cuerdas.
+  Rozamiento: f = μ N (μ estático mayor que cinético).
+  Elástica (ley de Hooke): F = -k x.
+  Resistencia del fluido, empuje, fuerza centrípeta.
+Diagrama de cuerpo libre: dibujar todas las fuerzas sobre un cuerpo,
+descomponerlas en ejes y aplicar la 2ª ley.
+
+3.3 Ejemplo
+-----------
+Bloque de 5 kg sobre mesa sin rozamiento, empujado con 20 N:
+a = F/m = 20/5 = 4 m/s^2.
+
+3.4 Las cuatro interacciones fundamentales
+------------------------------------------
+Gravitatoria, electromagnética, nuclear fuerte y nuclear débil.
+
+
+##############################################################
+4. TRABAJO, ENERGÍA Y POTENCIA
+##############################################################
+  Trabajo: W = F d cos θ (unidad: joule).
+  Energía cinética: Ec = (1/2) m v^2.
+  Energía potencial gravitatoria: Ep = m g h.
+  Energía potencial elástica: Ep = (1/2) k x^2.
+  Teorema trabajo-energía: W neto = ΔEc.
+  Conservación de la energía mecánica (sin rozamiento):
+  Ec + Ep = constante. En general, la energía total (incluyendo
+  calor) se conserva; solo se transforma.
+  Potencia: P = W/t = F v (watt). 1 kW·h = 3,6 x 10^6 J.
+  Rendimiento: η = energía útil / energía total.
+Ejemplo: caída desde 20 m: v = raíz(2 g h) ≈ 19,8 m/s.
+
+
+##############################################################
+5. CANTIDAD DE MOVIMIENTO Y COLISIONES
+##############################################################
+  Momento lineal: p = m v. Impulso: J = F Δt = Δp.
+  Conservación: si no hay fuerzas externas netas, el momento total
+  se conserva.
+  Choque elástico: se conservan momento y energía cinética.
+  Choque inelástico: se conserva solo el momento; parte de la
+  energía se disipa. Perfectamente inelástico: los cuerpos quedan
+  unidos.
+  Cohetes: propulsión por conservación del momento (ecuación de
+  Tsiolkovski).
+  Centro de masa: punto que se mueve como si toda la masa y las
+  fuerzas externas estuvieran allí.
+
+
+##############################################################
+6. MOVIMIENTO CIRCULAR, ROTACIÓN Y GRAVITACIÓN
+##############################################################
+6.1 Movimiento circular
+-----------------------
+  Velocidad angular ω = Δθ/Δt (rad/s); v = ω r.
+  Periodo T y frecuencia f = 1/T.
+  Aceleración centrípeta: a = v^2/r = ω^2 r.
+  Fuerza centrípeta: F = m v^2/r (no es una fuerza nueva; es la
+  resultante hacia el centro).
+
+6.2 Dinámica de la rotación
+---------------------------
+  Torque: τ = r F sen θ.
+  Momento de inercia I (resistencia a girar): masa puntual I = m r^2;
+  disco I = (1/2) M R^2; esfera maciza I = (2/5) M R^2.
+  τ = I α (análoga de F = m a).
+  Momento angular: L = I ω; se conserva sin torques externos
+  (patinadora que cierra los brazos gira más rápido).
+  Energía cinética de rotación: (1/2) I ω^2.
+
+6.3 Gravitación
+---------------
+  Ley de Newton: F = G m1 m2 / r^2, con
+  G = 6,674 x 10^-11 N m^2/kg^2.
+  Campo gravitatorio: g = G M / r^2.
+  Velocidad orbital circular: v = raíz(G M / r).
+  Velocidad de escape: v = raíz(2 G M / R) (≈11,2 km/s en la Tierra).
+  Leyes de Kepler: 1) órbitas elípticas con el Sol en un foco;
+  2) áreas iguales en tiempos iguales; 3) T^2 proporcional a a^3.
+
+
+##############################################################
+7. FLUIDOS
+##############################################################
+  Densidad: ρ = m/V (agua ≈ 1000 kg/m^3).
+  Presión: P = F/A. Presión hidrostática: P = P0 + ρ g h.
+  Principio de Pascal: la presión se transmite íntegramente en un
+  fluido (prensa hidráulica).
+  Principio de Arquímedes: empuje E = ρ_fluido g V_sumergido.
+  Flota si la densidad media es menor que la del fluido.
+  Continuidad: A1 v1 = A2 v2 (fluido incompresible).
+  Bernoulli: P + (1/2)ρ v^2 + ρ g h = constante (sustentación,
+  Venturi). Viscosidad, turbulencia y número de Reynolds.
+
+
+##############################################################
+8. OSCILACIONES Y ONDAS
+##############################################################
+8.1 Movimiento armónico simple (MAS)
+------------------------------------
+  Fuerza restauradora proporcional al desplazamiento.
+  x(t) = A cos(ω t + φ).
+  Resorte: ω = raíz(k/m), T = 2π raíz(m/k).
+  Péndulo simple (ángulos pequeños): T = 2π raíz(L/g).
+  Amortiguamiento y resonancia (el puente de Tacoma Narrows, los
+  columpios).
+
+8.2 Ondas
+---------
+  Transversales (cuerda, luz) y longitudinales (sonido).
+  v = λ f. Amplitud, longitud de onda, frecuencia, periodo.
+  Superposición: interferencia constructiva y destructiva, ondas
+  estacionarias, batidos.
+  Efecto Doppler: cambio de frecuencia por movimiento relativo.
+  Reflexión, refracción, difracción.
+
+8.3 Sonido
+----------
+  Velocidad en aire ≈ 343 m/s (20 °C). Intensidad en decibelios:
+  β = 10 log10(I/I0). Audible: 20 Hz a 20 kHz aprox. Tono (frecuencia),
+  volumen (amplitud), timbre (armónicos).
+
+
+##############################################################
+9. TERMODINÁMICA
+##############################################################
+  Temperatura: medida de la agitación media de las partículas.
+  Escalas: Celsius, Kelvin (K = °C + 273,15), Fahrenheit.
+  Calor: energía transferida por diferencia de temperatura.
+  Q = m c ΔT (c: calor específico; agua ≈ 4186 J/kg K).
+  Cambio de fase: Q = m L (calor latente).
+  Transferencia: conducción, convección, radiación.
+  Dilatación térmica.
+
+9.1 Gases ideales
+-----------------
+  PV = nRT, R = 8,314 J/(mol K). Boyle, Charles, Gay-Lussac.
+  Teoría cinética: Ec media por molécula = (3/2) k_B T.
+
+9.2 Leyes
+---------
+  Cero: equilibrio térmico transitivo.
+  Primera: ΔU = Q - W (conservación de la energía).
+  Segunda: el calor fluye espontáneamente de caliente a frío; la
+  entropía total no disminuye. Ninguna máquina térmica es 100 %
+  eficiente. Eficiencia de Carnot: η = 1 - Tf/Tc.
+  Tercera: no se puede alcanzar el cero absoluto.
+  Entropía: medida del desorden / número de microestados:
+  S = k_B ln W (Boltzmann). Flecha del tiempo.
+
+
+##############################################################
+10. ELECTRICIDAD
+##############################################################
+  Carga eléctrica: positiva y negativa; se conserva y está
+  cuantizada (e = 1,602 x 10^-19 C).
+  Ley de Coulomb: F = k q1 q2 / r^2, k = 8,99 x 10^9 N m^2/C^2.
+  Campo eléctrico: E = F/q. Potencial: V; diferencia de potencial =
+  voltaje. Capacitancia: C = Q/V.
+  Corriente: I = Δq/Δt (amperios). Ley de Ohm: V = I R.
+  Potencia: P = V I = I^2 R.
+  Circuitos: en serie R = R1 + R2; en paralelo 1/R = 1/R1 + 1/R2.
+  Leyes de Kirchhoff: nodos (corrientes) y mallas (voltajes).
+  Corriente alterna (CA), RC, RL, RLC.
+  Semiconductores, diodos y transistores: base de la electrónica.
+
+
+##############################################################
+11. MAGNETISMO Y ELECTROMAGNETISMO
+##############################################################
+  Campo magnético B (tesla). Fuerza de Lorentz: F = q v x B.
+  Ley de Ampère y Biot-Savart: corrientes generan campos.
+  Ley de Faraday: ε = -dΦ/dt (inducción). Ley de Lenz: se opone al
+  cambio. Base de generadores, transformadores y motores.
+  Ecuaciones de Maxwell: 4 ecuaciones que unifican electricidad,
+  magnetismo y óptica; predicen ondas electromagnéticas con
+  c = 1/raíz(ε0 μ0) ≈ 3 x 10^8 m/s.
+  Espectro electromagnético: radio, microondas, infrarrojo, visible
+  (≈400-700 nm), ultravioleta, rayos X, rayos gamma.
+
+
+##############################################################
+12. ÓPTICA
+##############################################################
+  Óptica geométrica: rayos de luz.
+  Reflexión: ángulo de incidencia = ángulo de reflexión.
+  Refracción: n1 sen θ1 = n2 sen θ2; n = c/v. Reflexión total
+  interna (fibra óptica).
+  Espejos y lentes: 1/f = 1/do + 1/di. Lente convergente
+  (convexa), divergente (cóncava). Instrumentos: lupa, microscopio,
+  telescopio, ojo humano y corrección de la visión.
+  Óptica ondulatoria: interferencia (experimento de Young),
+  difracción, polarización, red de difracción.
+  Dispersión: prisma y arcoíris.
+
+
+##############################################################
+13. RELATIVIDAD
+##############################################################
+13.1 Relatividad especial (Einstein, 1905)
+------------------------------------------
+Postulados: (1) las leyes son iguales en todos los sistemas
+inerciales; (2) c es constante para todos los observadores.
+  Factor de Lorentz: γ = 1/raíz(1 - v^2/c^2).
+  Dilatación del tiempo: Δt = γ Δt0.
+  Contracción de longitudes: L = L0/γ.
+  Relatividad de la simultaneidad.
+  Energía en reposo: E = m c^2. Energía total: E^2 = (pc)^2 +
+  (mc^2)^2.
+  Nada con masa alcanza c.
+Evidencias: muones atmosféricos, relojes atómicos en aviones,
+aceleradores de partículas, GPS.
+
+13.2 Relatividad general (1915)
+-------------------------------
+Gravedad = curvatura del espaciotiempo; la materia y energía le
+dicen al espaciotiempo cómo curvarse, y este le dice a la materia
+cómo moverse. Ecuaciones de campo de Einstein.
+Predicciones comprobadas: desviación de la luz, precesión del
+perihelio de Mercurio, lentes gravitatorias, dilatación temporal
+gravitatoria, ondas gravitacionales (LIGO, 2015), agujeros negros
+(imagen del EHT, 2019).
+
+
+##############################################################
+14. MECÁNICA CUÁNTICA
+##############################################################
+14.1 Orígenes
+-------------
+  Radiación de cuerpo negro (Planck): E = h f, h = 6,626 x 10^-34 J s.
+  Efecto fotoeléctrico (Einstein): la luz llega en cuantos (fotones).
+  Átomo de Bohr: niveles discretos de energía.
+  De Broglie: λ = h/p (las partículas tienen comportamiento
+  ondulatorio).
+
+14.2 Principios
+---------------
+  Función de onda ψ: |ψ|^2 es la densidad de probabilidad.
+  Ecuación de Schrödinger: iħ ∂ψ/∂t = Hψ.
+  Principio de incertidumbre: Δx Δp ≥ ħ/2.
+  Superposición: un sistema puede estar en combinación de estados.
+  Medición: colapso (según la interpretación de Copenhague).
+  Principio de exclusión de Pauli: dos fermiones idénticos no
+  ocupan el mismo estado cuántico.
+  Espín: momento angular intrínseco.
+  Entrelazamiento: correlaciones no clásicas entre partículas
+  (experimentos de Bell, premio Nobel 2022).
+  Interpretaciones: Copenhague, muchos mundos, ondas piloto.
+
+14.3 Aplicaciones
+-----------------
+Láseres, transistores, resonancia magnética, LEDs, microscopios de
+efecto túnel, computación cuántica, criptografía cuántica.
+
+
+##############################################################
+15. FÍSICA NUCLEAR Y DE PARTÍCULAS
+##############################################################
+  Núcleo: protones y neutrones unidos por la fuerza fuerte.
+  Radiactividad: alfa (núcleo de helio), beta (electrón o positrón),
+  gamma (fotones). Vida media: N = N0 (1/2)^(t/T).
+  Fisión (núcleos pesados se dividen; reactores, bombas) y fusión
+  (núcleos ligeros se unen; estrellas, objetivo de ITER).
+  Defecto de masa y energía de enlace.
+  Modelo estándar: 6 quarks (u, d, s, c, b, t), 6 leptones (e, μ,
+  τ y sus neutrinos), bosones (fotón, gluón, W, Z, Higgs). Bosón de
+  Higgs descubierto en 2012 (LHC, CERN).
+  Antimateria: positrón, antiprotón.
+
+
+##############################################################
+16. ASTROFÍSICA Y COSMOLOGÍA
+##############################################################
+  Estrellas: nacen en nebulosas, fusionan hidrógeno (secuencia
+  principal); según su masa terminan como enana blanca, estrella de
+  neutrones o agujero negro.
+  Diagrama de Hertzsprung-Russell.
+  Galaxias, cúmulos, estructura a gran escala.
+  Ley de Hubble: v = H0 d; el universo se expande.
+  Big Bang (~13.800 millones de años): evidencias en la radiación
+  cósmica de fondo, abundancias de elementos ligeros y expansión.
+  Inflación cósmica.
+  Composición actual aproximada: ~5 % materia ordinaria, ~27 %
+  materia oscura, ~68 % energía oscura.
+  Exoplanetas, astrobiología, ondas gravitacionales.
+  Problemas abiertos: gravedad cuántica, naturaleza de la materia y
+  la energía oscuras, origen del universo.
+
+
+##############################################################
+17. CONSTANTES Y FÓRMULAS ÚTILES
+##############################################################
+  c = 2,998 x 10^8 m/s            G = 6,674 x 10^-11 N m^2/kg^2
+  h = 6,626 x 10^-34 J s          k_B = 1,381 x 10^-23 J/K
+  e = 1,602 x 10^-19 C            N_A = 6,022 x 10^23 /mol
+  m_e = 9,109 x 10^-31 kg         m_p = 1,673 x 10^-27 kg
+  g = 9,81 m/s^2                  R = 8,314 J/(mol K)
+  ε0 = 8,854 x 10^-12 F/m         μ0 = 1,257 x 10^-6 N/A^2
+
+Consejos: dibuja siempre un esquema; identifica datos e incógnitas;
+elige la ley adecuada; resuelve en símbolos y sustituye al final;
+revisa unidades y orden de magnitud.
+==============================================================
